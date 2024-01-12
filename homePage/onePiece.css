@@ -12,12 +12,19 @@ body {
     text-align: center;
     overflow-y: auto;
     overflow-x: hidden;
+    background-image: url(./refHome/QuentinGod93\,\ bodyBackground\,\ reddit.com.png);
+    background-position: top;
 }
 /* body */
 
 /* header */
 header {
-    font-size: 5rem;
-    border: 2px solid red;
+    width: 100%;
+    height: auto;
+}
+
+header img {
+    width: 100%;
+    height: 400px;
 }
 /* header */
