@@ -2,3 +2,22 @@
     font-family: One Piece;
     src: url(/references/one\ piece\ font.ttf);
 }
+
+/* body */
+body {
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1.2rem;
+    margin: -1px;
+    text-align: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+/* body */
+
+/* header */
+header {
+    font-size: 5rem;
+    border: 2px solid red;
+}
+/* header */
