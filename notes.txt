@@ -9,17 +9,18 @@ working on header
 √finish header
 √work on vert navbar and content container
 
-work on character bio's & images
-    Monkey D. Luffy
-    Roronoa Zoro
-    Nami
-    Usopp
-    Sanji
-    Tony Tony Chopper
-    Nico Robin
-    Franky
-    Brook
-    Jinbe
+homePage
+    work on character bio's & images
+        Monkey D. Luffy
+        Roronoa Zoro
+        Nami
+        Usopp
+        Sanji
+        Tony Tony Chopper
+        Nico Robin
+        Franky
+        Brook
+        Jinbe
 
 !! NOT PRIORITY !!
 homePage will have a vert navbar
