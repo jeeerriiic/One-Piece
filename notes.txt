@@ -9,5 +9,9 @@ working on header
 √finish header
 work on vert navbar and content container
 
+!! NOT PRIORITY !!
+homePage will have a vert navbar
+character pages will have horizontal navbar
+
 THis is a test to upload on the master branch!
 this is test number 2
