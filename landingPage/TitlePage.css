@@ -1,5 +1,5 @@
 :root{
-    /* --font-title: 'Figtree', sans-serif;
+    --font-title: "Righteous", sans-serif;
     --font-body: 'Sora', sans-serif;
 
     --color-dark: #334155;
@@ -9,7 +9,7 @@
 
     --color-slate700: #374151;
     --color-stone500: #78716c;
-    --colot-stone800: #292524; */
+    --colot-stone800: #292524;
 
     --fs-small: .75rem;
     --fs-regular: 1rem;
@@ -107,6 +107,12 @@ select{
 .landingPage__navBar a{
     text-decoration: none;
     color: inherit;
+}
+
+/* Title */
+
+.Main__title{
+    
 }
 /* => I am building mobile first so I am using min-width for media query breakpoints. The container classes within each media query breakpoint makes sure that it does not out grow the breakpoint size. */
 /* xs screens */
