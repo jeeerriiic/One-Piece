@@ -108,9 +108,17 @@ select{
     text-decoration: none;
     color: inherit;
 }
+/* Main Section */
+main{
+    min-height: 100vh;
+}
 
 /* Title */
-
+.Title__wrapper{
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
 .Main__title{
     font-family: var(--font-title);
     font-size: 10rem;
