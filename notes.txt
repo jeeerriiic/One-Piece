@@ -31,3 +31,7 @@ character pages will have horizontal navbar
 
 THis is a test to upload on the master branch!
 this is test number 2
+
+
+TitlePage.html
+    One Piece is a Japanese manga and anime series created by Eiichiro Oda. The story follows the adventures of Monkey D. Luffy and his pirate crew as they search for the ultimate treasure known as "One Piece" in order to become the Pirate King. Along the way, they encounter various challenges, formidable enemies, and explore different islands, all while forming strong bonds and friendships. The series is known for its unique characters, engaging storytelling, and a world filled with mystery and adventure.
