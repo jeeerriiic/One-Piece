@@ -9,6 +9,9 @@ working on header
 √finish header
 √work on vert navbar and content container
 
+1/15/2024
+changed header
+
 homePage
     work on character bio's & images
         Monkey D. Luffy
