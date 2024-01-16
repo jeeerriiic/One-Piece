@@ -12,6 +12,11 @@ working on header
 1/15/2024
 √changed header
 
+1/16/2024
+changed header
+working on content container
+    figuring out layout
+
 homePage
     work on character bio's & images
         Monkey D. Luffy
