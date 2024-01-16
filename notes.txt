@@ -10,7 +10,7 @@ working on header
 √work on vert navbar and content container
 
 1/15/2024
-changed header
+√changed header
 
 homePage
     work on character bio's & images
@@ -24,6 +24,8 @@ homePage
         Franky
         Brook
         Jinbe
+
+homePage character bio's are ready to use in characterBio.txt
 
 !! NOT PRIORITY !!
 homePage will have a vert navbar
