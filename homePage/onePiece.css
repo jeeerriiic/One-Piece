@@ -70,9 +70,8 @@ header h1 {
 .contentCont {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     justify-content: center;
-    overflow-y: auto;
-    overflow-x: hidden;
     width: 100%;
     border: 10px solid teal;
 }
@@ -80,17 +79,15 @@ header h1 {
 
 /* luffy */
 .luffyCont {
-    width: 50%;
-    border: 2px solid white;
-}
-
-.luffyCont img {
     width: 100%;
+    background-image: url(./refHome/Luffy.jpg);
+    background-position-y: 25%;
+    background-position-x: center;
+    border: 2px solid white;
 }
 /* luffy */
 
 /* zoro */
-.zoroCont {
-}
+
 /* zoro */
 /* main container */
