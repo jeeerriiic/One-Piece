@@ -12,22 +12,25 @@ body {
     text-align: center;
     overflow-y: auto;
     overflow-x: hidden;
-    background-image: url(./refHome/QuentinGod93\,\ bodyBackground\,\ reddit.com.png);
-    background-position: top;
 }
 /* body */
 
 /* header */
 header {
-    font-size: 7rem;
-    font-family: One Piece;
+    font-size: 6rem;
+    font-family: 'Times New Roman', Times, serif;
     width: 100%;
     height: auto;
-    letter-spacing: 0rem;
+    margin-bottom: 2%;
+    letter-spacing: 1.2rem;
+    color: #d00;
     text-decoration: underline;
-    text-decoration-thickness: 0.8rem;
+    text-decoration-thickness: 0.5rem;
     text-underline-offset: 1rem;
-    text-shadow: #d00 1px 0 10px;
+    text-shadow: #000 1px 0 10px;
+    background-image: url(./refHome/QuentinGod93\,\ header\,\ reddit.com.png);
+    background-position: center;
+    border-bottom: 5px solid #d00;
 }
 
 header h1 {
@@ -39,7 +42,6 @@ header h1 {
 .mainCont {
     display: flex;
     justify-content: center;
-    margin-top: 2%;
     color: #fff;
     background-color: #0000005c;
     border: 2px solid red;
@@ -66,8 +68,29 @@ header h1 {
 
 /* content container */
 .contentCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow-y: auto;
+    overflow-x: hidden;
     width: 100%;
-    border: 2px solid teal;
+    border: 10px solid teal;
 }
 /* content container */
+
+/* luffy */
+.luffyCont {
+    width: 50%;
+    border: 2px solid white;
+}
+
+.luffyCont img {
+    width: 100%;
+}
+/* luffy */
+
+/* zoro */
+.zoroCont {
+}
+/* zoro */
 /* main container */
