@@ -30,6 +30,13 @@ homePage
         Jinbe
 start on footer
 
+1/17/2024
+homePage
+    characterCont
+        look for landscape images to use for character bios
+    work on content container navbar
+    work on footer design & the transition from content container to the footer // color scheme //
+
 √homePage character bio's are ready to use in characterBio.txt
 
 !! NOT PRIORITY !!
