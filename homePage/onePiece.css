@@ -49,21 +49,46 @@ span {
     height: 600px;
 }
 
+/* Navbar */
 nav {
     border: 2px solid blue;
 }
+/* Navbar */
 
+/* Character Container */
 .characterCont {
     display: flex;
     flex-wrap: wrap;
     overflow-y: scroll;
     border: 2px solid blue;
 }
+
+.chars h3 {
+    letter-spacing: 0.5rem;
+}
+
+.chars p {
+    font-family: sans-serif;
+    letter-spacing: 0.2rem;
+}
+/* Character Container */
 /* Content Container */
 
 /* Footer */
 footer {
+    display: flex;
+    justify-content: space-between;
+    letter-spacing: 0.2rem;
     background-color: aquamarine;
+}
+
+footer li {
+    list-style: none;
+    line-height: 2rem;
+}
+
+footer h3 {
+    font-family: sans-serif;
 }
 /* Footer */
 
