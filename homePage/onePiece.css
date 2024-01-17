@@ -10,6 +10,8 @@ body {
     text-align: center;
     overflow-y: auto;
     overflow-x: hidden;
+    background-image: url(./refHome/QuentinGod93\,\ bodyBackground\,\ reddit.com.png);
+    background-position: top;
 }
 /* Body */
 
@@ -24,8 +26,6 @@ header {
     text-decoration-thickness: 0.5rem;
     text-underline-offset: 1rem;
     text-shadow: #000 1px 0 10px;
-    background-image: url(./refHome/QuentinGod93\,\ header\,\ reddit.com.png);
-    background-position: center;
     border-bottom: 5px solid #d00;
 }
 
@@ -33,6 +33,13 @@ header h1 {
     margin: 0;
 }
 /* Header */
+
+/* Meet The Crew */
+span {
+    font-size: 3rem;
+    letter-spacing: 1.2rem;
+}
+/* Meet The Crew */
 
 /* Content Container */
 #contentCont {
