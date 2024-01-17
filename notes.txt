@@ -15,8 +15,7 @@ working on header
 1/16/2024
 changed header
 working on content container
-    figuring out layout
-
+    √figuring out layout
 homePage
     work on character bio's & images
         Monkey D. Luffy
@@ -29,12 +28,12 @@ homePage
         Franky
         Brook
         Jinbe
+start on footer
 
-homePage character bio's are ready to use in characterBio.txt
+√homePage character bio's are ready to use in characterBio.txt
 
 !! NOT PRIORITY !!
-homePage will have a vert navbar
-character pages will have horizontal navbar
+√homePage will have a vert navbar
 
 THis is a test to upload on the master branch!
 this is test number 2
