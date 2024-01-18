@@ -33,26 +33,20 @@ header h1 {
 }
 /* Header */
 
-/* Meet The Crew */
-span {
-    font-size: 3rem;
-    color: #fff;
-    text-decoration: underline;
-    text-decoration-thickness: 0.2rem;
-    text-shadow: #d00 1px 0 10px;
-}
-/* Meet The Crew */
-
 /* Content Container */
 #contentCont {
     display: flex;
     flex-wrap: nowrap;
     width: 100%;
     height: 600px;
-    background-color: #ffe6b9;
+    background-color: #00000078;
+    border: 2px solid #000;
+}
+/* Navbar */
+nav {
+    border: 2px solid red;
 }
 
-/* Navbar */
 nav li {
     text-align: left;
     list-style: none;
@@ -72,13 +66,45 @@ nav a {
     color: #fff;
 }
 
-.chars h3 {
-    letter-spacing: 0.5rem;
+.characterCont span {
+    font-size: 3rem;
+    width: 100%;
+    color: #fff;
+    text-decoration: underline;
+    text-decoration-thickness: 0.2rem;
+    text-shadow: #d00 1px 0 10px;
+    border: 2px solid aqua;
+}
+.characterCont h2 {
+    font-size: 1.5rem;
+    letter-spacing: 0.4rem;
 }
 
-.chars p {
+.characterCont p {
     font-family: sans-serif;
     letter-spacing: 0.2rem;
+    width: 80%;
+    margin: 2% 10%;
+}
+
+.characterCont div {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 2%;
+    border: 1px solid #fff;
+}
+
+#luffy {
+    background-image: url(./refHome/Luffy.jpg);
+    background-position-y: 45%;
+}
+
+#luffy h2, p {
+    text-shadow: #d00 1px 0 10px;
+}
+
+#jinbe {
+    margin-bottom: 0%;
 }
 /* Character Container */
 /* Content Container */
