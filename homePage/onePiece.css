@@ -17,7 +17,7 @@ body {
 
 /* Header */
 header {
-    font-size: 5rem;
+    font-size: 6rem;
     font-family: 'Times New Roman', Times, serif;
     width: 100%;
     height: auto;
@@ -63,11 +63,10 @@ nav a {
     flex-wrap: wrap;
     overflow-y: scroll;
     overflow-x: hidden;
-    color: #fff;
 }
 
 .characterCont span {
-    font-size: 3rem;
+    font-size: 4rem;
     width: 100%;
     color: #fff;
     text-decoration: underline;
@@ -76,24 +75,25 @@ nav a {
     border: 2px solid aqua;
 }
 .characterCont h2 {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     letter-spacing: 0.4rem;
-    margin-top: 3%;
+    margin-top: 0%;
 }
 
 .characterCont h3 {
+    font-size: 1.6rem;
     letter-spacing: 0.2rem;
-    margin: 2% 0%;
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
 }
 
 .characterCont p {
+    font-size: 1.4rem;
     font-family: sans-serif;
     letter-spacing: 0.2rem;
-    width: 80%;
-    margin: 0% 10%;
+    width: 94%;
+    margin: 0% 3%;
 }
 
 .characterCont div {
@@ -107,7 +107,8 @@ nav a {
 #luffy {
     background-image: url(./refHome/Luffy.jpg);
     background-position-y: 40%;
-    text-shadow: #d00 1px 0 10px;
+    color: #d00;
+    text-shadow: #000 1px 0 1px;
 }
 /* Luffy */
 
@@ -115,13 +116,59 @@ nav a {
 #zoro {
     background-image: url(./refHome/Zoro.jpg);
     background-position-y: 60%;
-    text-shadow: rgb(0, 168, 84) 1px 0 10px;
+    color: #00de7a;
+    text-shadow: #000 1px 0 1px;
 }
 /* Zoro */
 
+/* Nami */
+#nami {
+    background-image: url(./refHome/Nami.png);
+    background-position-y: 30%;
+    color: #ff7000;
+    text-shadow: #000 1px 0 1px;
+}
+/* Nami */
+
+/* Usopp */
+#usopp {
+    background-image: url(./refHome/Usopp\ Serious.png);
+    background-position-y: 57%;
+    color: #fff200;
+    text-shadow: #000 1px 0 1px;
+}
+/* Usopp */
+
+/* Sanji */
+#sanji {
+}
+/* Sanji */
+
+/* Chopper */
+#chopper {
+
+}
+/* Chopper */
+
+/* Robin */
+#robin {
+
+}
+/* Robin */
+
+/* Franky */
+#franky
+/* Franky */
+
+/* Brook */
+#brook
+/* Brook */
+
+/* Jinbe */
 #jinbe {
     margin-bottom: 0%;
 }
+/* Jinbe */
 /* Character Container */
 /* Content Container */
 
