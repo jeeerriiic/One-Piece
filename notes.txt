@@ -37,6 +37,12 @@ homePage
     work on content container navbar
     work on footer design & the transition from content container to the footer // color scheme //
 
+1/19/2024
+homePage
+    characterCont
+        look for landscape images to use for character bios
+        add text shadow for each characters bio
+
 √homePage character bio's are ready to use in characterBio.txt
 
 !! NOT PRIORITY !!
