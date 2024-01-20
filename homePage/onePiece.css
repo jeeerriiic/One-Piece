@@ -78,30 +78,46 @@ nav a {
 .characterCont h2 {
     font-size: 1.5rem;
     letter-spacing: 0.4rem;
+    margin-top: 3%;
+}
+
+.characterCont h3 {
+    letter-spacing: 0.2rem;
+    margin: 2% 0%;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
 }
 
 .characterCont p {
     font-family: sans-serif;
     letter-spacing: 0.2rem;
     width: 80%;
-    margin: 2% 10%;
+    margin: 0% 10%;
 }
 
 .characterCont div {
     width: 100%;
-    height: 200px;
+    height: 300px;
     margin-bottom: 2%;
     border: 1px solid #fff;
 }
 
+/* Luffy */
 #luffy {
     background-image: url(./refHome/Luffy.jpg);
-    background-position-y: 45%;
-}
-
-#luffy h2, p {
+    background-position-y: 40%;
     text-shadow: #d00 1px 0 10px;
 }
+/* Luffy */
+
+/* Zoro */
+#zoro {
+    background-image: url(./refHome/Zoro.jpg);
+    background-position-y: 60%;
+    text-shadow: rgb(0, 168, 84) 1px 0 10px;
+}
+/* Zoro */
 
 #jinbe {
     margin-bottom: 0%;
