@@ -113,6 +113,7 @@ main{
     min-height: 100vh;
     display: grid;
     place-content: center;
+    
     /* border: 1px solid firebrick; */
 }
 
@@ -129,6 +130,10 @@ main{
 }
 
 /* This is to style the images for the landing page. */
+.the__crew{
+    display: grid;
+    gap: 1.5rem;
+}
 .strawhats img{
     /* border: 1px solid red; */
     border-radius: 10px;
