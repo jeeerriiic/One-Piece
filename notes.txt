@@ -61,6 +61,7 @@ TitlePage.html
 
 character colors
 all -- text-shadow: #000 2px 0 1px;
+    -- box-shadow: 0 0 20px 10px "character's color";
     Monkey D. Luffy - Red - #d00
     Roronoa Zoro - Green - #00de7a
     Nami - Orange - #ff7000
