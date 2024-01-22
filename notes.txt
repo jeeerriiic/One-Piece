@@ -60,16 +60,17 @@ TitlePage.html
     One Piece is a Japanese manga and anime series created by Eiichiro Oda. The story follows the adventures of Monkey D. Luffy and his pirate crew as they search for the ultimate treasure known as "One Piece" in order to become the Pirate King. Along the way, they encounter various challenges, formidable enemies, and explore different islands, all while forming strong bonds and friendships. The series is known for its unique characters, engaging storytelling, and a world filled with mystery and adventure.
 
 character colors
-    Monkey D. Luffy - Red
-    Roronoa Zoro - Green
-    Nami - Orange
-    Usopp - Yellow
-    Vinsmoke Sanji - Blue
-    Tony Tony Chopper - Pink
-    Nico Robin - Purple
-    Franky - Light Blue
-    Brook - Black & White
-    Jinbe - Dark Blue
+all -- text-shadow: #000 2px 0 1px;
+    Monkey D. Luffy - Red - #d00
+    Roronoa Zoro - Green - #00de7a
+    Nami - Orange - #ff7000
+    Usopp - Yellow - #fff200
+    Vinsmoke Sanji - Blue - #0059ff
+    Tony Tony Chopper - Pink - #ff70d9
+    Nico Robin - Purple - #6700b6
+    Franky - Light Blue - #0091ff
+    Brook - Black & White - #fff
+    Jinbe - Dark Blue - #0d60cd
 
 reference links
     homePage
