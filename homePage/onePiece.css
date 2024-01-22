@@ -88,6 +88,10 @@ nav a {
     text-underline-offset: 4px;
 }
 
+.characterCont strong {
+    text-decoration: underline;
+}
+
 .characterCont p {
     font-size: 1.4rem;
     font-family: sans-serif;
@@ -97,8 +101,9 @@ nav a {
 }
 
 .characterCont div {
+    font-weight: bold;
     width: 100%;
-    height: 300px;
+    height: 350px;
     margin-bottom: 2%;
     border: 1px solid #fff;
 }
@@ -106,9 +111,9 @@ nav a {
 /* Luffy */
 #luffy {
     background-image: url(./refHome/Luffy.jpg);
-    background-position-y: 40%;
+    background-position-y: 50%;
     color: #d00;
-    text-shadow: #000 1px 0 1px;
+    text-shadow: #000 2px 0 1px;
 }
 /* Luffy */
 
@@ -117,7 +122,7 @@ nav a {
     background-image: url(./refHome/Zoro.jpg);
     background-position-y: 60%;
     color: #00de7a;
-    text-shadow: #000 1px 0 1px;
+    text-shadow: #000 2px 0 1px;
 }
 /* Zoro */
 
@@ -126,46 +131,74 @@ nav a {
     background-image: url(./refHome/Nami.png);
     background-position-y: 30%;
     color: #ff7000;
-    text-shadow: #000 1px 0 1px;
+    text-shadow: #000 2px 0 1px;
 }
 /* Nami */
 
 /* Usopp */
 #usopp {
     background-image: url(./refHome/Usopp\ Serious.png);
-    background-position-y: 57%;
+    background-position-y: 55%;
     color: #fff200;
-    text-shadow: #000 1px 0 1px;
+    text-shadow: #000 2px 0 1px;
 }
 /* Usopp */
 
 /* Sanji */
 #sanji {
+    background-image: url(./refHome/Sanji.png);
+    background-position-y: 65%;
+    background-position-x: 20%;
+    color: #0059ff;
+    text-shadow: #000 2px 0 1px;
 }
 /* Sanji */
 
 /* Chopper */
 #chopper {
+    background-image: url(./refHome/Chopper.png);
+    background-position-y: 40%;
+    color: #ff70d9;
+    text-shadow: #000 2px 0 1px;
 
 }
 /* Chopper */
 
 /* Robin */
 #robin {
-
+    background-image: url(./refHome/Robin.png);
+    background-position-y: 40%;
+    background-position-x: 40%;
+    color: #6700b6;
+    text-shadow: #000 2px 0 1px;
 }
 /* Robin */
 
 /* Franky */
-#franky
+#franky {
+    background-image: url(./refHome/Franky.png);
+    background-position-y: 65%;
+    color: #0091ff;
+    text-shadow: #000 2px 0 1px;
+}
 /* Franky */
 
 /* Brook */
-#brook
+#brook {
+    background-image: url(./refHome/Brook.jpg);
+    background-position-y: 40%;
+    color: #fff;
+    text-shadow: #000 2px 0 1px;
+}
 /* Brook */
 
 /* Jinbe */
 #jinbe {
+    background-image: url(./refHome/Jinbe.png);
+    background-position-y: 45%;
+    background-position-x: 60%;
+    color: #0d60cd;
+    text-shadow: #000000 2px 0 1px;
     margin-bottom: 0%;
 }
 /* Jinbe */
