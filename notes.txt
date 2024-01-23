@@ -47,6 +47,11 @@ homePage
 homePage
     finished character containers
 
+1/22/2024
+homePage
+    finished character container -- Meet The Crew and character container background
+    work on content container navbar
+
 √homePage character bio's are ready to use in characterBio.txt
 
 !! NOT PRIORITY !!
