@@ -52,6 +52,10 @@ homePage
     finished character container -- Meet The Crew and character container background
     work on content container navbar
 
+1/23/2024
+homePage
+    work on content container navbar
+
 √homePage character bio's are ready to use in characterBio.txt
 
 !! NOT PRIORITY !!
