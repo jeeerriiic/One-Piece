@@ -75,6 +75,10 @@ all -- text-shadow: #000 2px 0 1px;
 
 reference links
     homePage
+        World Map - https://www.deviantart.com/sharpsider/art/One-Piece-New-Map-882649149
+
+        Grand Line - https://wall.alphacoders.com/big.php?i=722445
+
         Luffy - https://www.deviantart.com/amanomoon/art/One-Piece-Monkey-D-Luffy-Anime-Manga-Fighting-2018-758282714
 
         Zoro - https://www.deviantart.com/amanomoon/art/Roronoa-Zoro-One-Piece-Anime-Colors-Manga-Wanokuni-757093736
