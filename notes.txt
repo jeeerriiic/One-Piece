@@ -56,6 +56,10 @@ homePage
 homePage
     work on content container navbar
 
+1/24/2024
+homePage
+    adjusted characterBio's border to be only top and bottom instead of all around
+
 √homePage character bio's are ready to use in characterBio.txt
 
 !! NOT PRIORITY !!
