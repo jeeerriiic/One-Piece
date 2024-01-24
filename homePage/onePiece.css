@@ -45,18 +45,16 @@ header h1 {
     border-bottom: 1px solid #fff;
 }
 /* Navbar */
-nav {
-}
-
 nav li {
+    margin-right: 2%;
     text-align: left;
     list-style: none;
 }
 
 nav a {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     letter-spacing: 0.2rem;
-    line-height: 35px;
+    line-height: 48px;
     color: #000;
     text-decoration: none;
 }
@@ -66,6 +64,7 @@ nav a {
 .characterCont {
     display: flex;
     flex-wrap: wrap;
+    width: 100%;
     overflow-y: scroll;
     overflow-x: hidden;
     background-image: url(./refHome/World\ Map.png);
