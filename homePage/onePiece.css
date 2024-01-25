@@ -51,10 +51,14 @@ nav li {
     list-style: none;
 }
 
+nav img {
+    width: 200px;
+}
+
 nav a {
     font-size: 1.3rem;
     letter-spacing: 0.2rem;
-    line-height: 48px;
+    line-height: 40px;
     color: #fff;
     text-decoration: none;
     text-shadow: #000 1px 0 3px;
