@@ -73,7 +73,7 @@ TitlePage.html
     One Piece is a Japanese manga and anime series created by Eiichiro Oda. The story follows the adventures of Monkey D. Luffy and his pirate crew as they search for the ultimate treasure known as "One Piece" in order to become the Pirate King. Along the way, they encounter various challenges, formidable enemies, and explore different islands, all while forming strong bonds and friendships. The series is known for its unique characters, engaging storytelling, and a world filled with mystery and adventure.
 
 character colors
-all -- text-shadow: #000 2px 0 1px;
+all -- text-shadow: #000 3px 0 1px;
     -- box-shadow: 0 0 20px 10px "character's color";
     Monkey D. Luffy - Red - #d00
     Roronoa Zoro - Green - #00de7a

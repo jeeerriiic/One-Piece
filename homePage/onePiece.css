@@ -81,7 +81,7 @@ nav a {
     color: #000;
     text-decoration: underline;
     text-decoration-thickness: 0.2rem;
-    text-shadow: #000 2px 0 10px;
+    text-shadow: #fff 3px 0 1px;
 }
 .characterCont h2 {
     font-size: 2.5rem;
@@ -133,7 +133,7 @@ nav a {
     background-image: url(./refHome/Zoro\,\ Amanomoon\,\ Deviant\ Art.jpg);
     background-position-y: 60%;
     color: #00de7a;
-    text-shadow: #000 2px 0 1px;
+    text-shadow: #000 3px 0 1px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #00de7a;
@@ -145,7 +145,7 @@ nav a {
     background-image: url(./refHome/Nami\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 30%;
     color: #ff7000;
-    text-shadow: #000 2px 0 1px;
+    text-shadow: #000 3px 0 1px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #ff7000;
@@ -157,7 +157,7 @@ nav a {
     background-image: url(./refHome/Usopp\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 55%;
     color: #fff200;
-    text-shadow: #000 2px 0 1px;
+    text-shadow: #000 3px 0 1px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #fff200;
@@ -170,7 +170,7 @@ nav a {
     background-position-y: 65%;
     background-position-x: 20%;
     color: #0059ff;
-    text-shadow: #000 2px 0 1px;
+    text-shadow: #000 3px 0 1px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #0059ff;
@@ -182,7 +182,7 @@ nav a {
     background-image: url(./refHome/Chopper\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 40%;
     color: #ff70d9;
-    text-shadow: #000 2px 0 1px;
+    text-shadow: #000 3px 0 1px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #ff70d9;
@@ -196,7 +196,7 @@ nav a {
     background-position-y: 40%;
     background-position-x: 40%;
     color: #6700b6;
-    text-shadow: #000 2px 0 1px;
+    text-shadow: #000 3px 0 1px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #6700b6;
@@ -208,7 +208,7 @@ nav a {
     background-image: url(./refHome/Franky\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 65%;
     color: #0091ff;
-    text-shadow: #000 2px 0 1px;
+    text-shadow: #000 3px 0 1px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #0091ff;
@@ -220,7 +220,7 @@ nav a {
     background-image: url(./refHome/Brook\,\ Amanomoon\,\ Deviant\ Art.jpg);
     background-position-y: 40%;
     color: #fff;
-    text-shadow: #000 2px 0 1px;
+    text-shadow: #000 3px 0 1px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #fff;
@@ -233,7 +233,7 @@ nav a {
     background-position-y: 45%;
     background-position-x: 60%;
     color: #0d60cd;
-    text-shadow: #000000 2px 0 1px;
+    text-shadow: #000 3px 0 1px;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #0d60cd;
