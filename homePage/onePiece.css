@@ -155,11 +155,22 @@ nav a:hover {
 }
 
 .characterCont p {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     font-family: sans-serif;
     letter-spacing: 0.2rem;
     width: 94%;
     margin: 0% 3%;
+}
+
+.characterCont a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.characterCont a:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    text-shadow: #000 2px 0 8px;
 }
 
 .characterCont div {
@@ -183,6 +194,10 @@ nav a:hover {
     border-bottom: 1px solid #d00;
     box-shadow: 0 0 20px 10px #d00;
 }
+
+#luffy a:hover {
+    color: #d00;
+}
 /* Luffy */
 
 /* Zoro */
@@ -193,6 +208,10 @@ nav a:hover {
     border-top: 1px solid #00de7a;
     border-bottom: 1px solid #00de7a;
     box-shadow: 0 0 20px 10px #00de7a;
+}
+
+#zoro a:hover {
+    color: #00de7a;
 }
 /* Zoro */
 
@@ -205,6 +224,10 @@ nav a:hover {
     border-bottom: 1px solid #ff7000;
     box-shadow: 0 0 20px 10px #ff7000;
 }
+
+#nami a:hover {
+    color: #ff7000;
+}
 /* Nami */
 
 /* Usopp */
@@ -215,6 +238,10 @@ nav a:hover {
     border-top: 1px solid #fff200;
     border-bottom: 1px solid #fff200;
     box-shadow: 0 0 20px 10px #fff200;
+}
+
+#usopp a:hover {
+    color: #fff200;
 }
 /* Usopp */
 
@@ -228,6 +255,10 @@ nav a:hover {
     border-bottom: 1px solid #0059ff;
     box-shadow: 0 0 20px 10px #0059ff;
 }
+
+#sanji a:hover {
+    color: #0059ff;
+}
 /* Sanji */
 
 /* Chopper */
@@ -238,7 +269,10 @@ nav a:hover {
     border-top: 1px solid #ff70d9;
     border-bottom: 1px solid #ff70d9;
     box-shadow: 0 0 20px 10px #ff70d9;
+}
 
+#chopper a:hover {
+    color: #ff70d9;
 }
 /* Chopper */
 
@@ -252,6 +286,10 @@ nav a:hover {
     border-bottom: 1px solid #6700b6;
     box-shadow: 0 0 20px 10px #6700b6;
 }
+
+#robin a:hover {
+    color: #6700b6;
+}
 /* Robin */
 
 /* Franky */
@@ -263,6 +301,10 @@ nav a:hover {
     border-bottom: 1px solid #0091ff;
     box-shadow: 0 0 20px 10px #0091ff;
 }
+
+#franky a:hover {
+    color: #0091ff;
+}
 /* Franky */
 
 /* Brook */
@@ -273,6 +315,11 @@ nav a:hover {
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     box-shadow: 0 0 20px 10px #fff;
+}
+
+#brook a:hover {
+    color: #000;
+    text-shadow: #fff 2px 0 8px;
 }
 /* Brook */
 
@@ -286,6 +333,10 @@ nav a:hover {
     border-bottom: 1px solid #0d60cd;
     box-shadow: 0 0 20px 10px #0d60cd;
     margin-bottom: 0%;
+}
+
+#jinbe a:hover {
+    color: #0d60cd;
 }
 /* Jinbe */
 /* Character Container */
@@ -317,11 +368,6 @@ footer a {
 }
 
 footer a:hover {
-    text-decoration: underline;
-    text-underline-offset: 4px;
-}
-
-footer span {
     text-decoration: underline;
     text-underline-offset: 4px;
 }
