@@ -68,7 +68,7 @@ nav a {
 nav a:hover {
     text-decoration: underline;
     text-underline-offset: 4px;
-    text-shadow: #000 2px 0 1px;
+    text-shadow: #000 2px 0 2px;
 }
 
 .luffyNav a:hover {
@@ -105,7 +105,7 @@ nav a:hover {
 
 .brookNav a:hover {
     color: #000;
-    text-shadow: #fff 2px 0 1px;
+    text-shadow: #fff 2px 0 2px;
 }
 
 .jinbeNav a:hover {
@@ -398,6 +398,35 @@ footer a:hover {
 @media (max-width: 1536px) {
   .container {
     max-width: 1280px;
+  }
+
+  nav img {
+    width: 175px;
+  }
+
+  nav a {
+    font-size: 1.1rem;
+    line-height: 38px;
+  }
+
+  .characterCont span {
+    font-size: 3.5rem;
+  }
+
+  .characterCont h2 {
+    font-size: 2.3rem;
+  }
+
+  .characterCont h3 {
+    font-size: 1.4rem;
+  }
+
+  .characterCont p {
+    font-size: 1.1rem;
+  }
+
+  .characterCont div {
+    height: 315px;
   }
 }
 /* 2XL */

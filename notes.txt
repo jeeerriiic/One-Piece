@@ -69,6 +69,8 @@ homePage
     content containers linked navbar names to corresponding characters
     added a "SEE MORE..." button
     changed media queries to be desktop first
+    changed content container navbar text-shadow
+    finished 2XL media query
 
 √homePage character bio's are ready to use in characterBio.txt
 
