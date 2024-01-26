@@ -382,63 +382,63 @@ footer a:hover {
 
 /* Media */
 /* Container Utility */
-.container{
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    background-color: #00336299;
-    border-left: 1px solid #fff;
-    border-right: 1px solid #fff;
+.container {
+  max-width: 1536px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  background-color: #003e7cb8;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #fff;
 }
 /* Container Utility */
 
-/* XS */
-@media(min-width: 475px) {
-    .container{
-        max-width: 475px;
-    } 
+/* 2XL */
+@media (max-width: 1536px) {
+  .container {
+    max-width: 1280px;
+  }
 }
-/* XS */
-
-/* S */
-@media(min-width: 640px) {
-    .container{
-        max-width: 640px;
-    }
-}
-/* S */
-
-/* M */
-@media(min-width:768px) {
-    .container{
-        max-width: 768px;
-    }
-}
-/* M */
-
-/* L */
-@media(min-width: 1024px) {
-    .container{
-        max-width: 1024px;
-    }
-}
-/* L */
+/* 2XL */
 
 /* XL */
-@media(min-width: 1280px) {
-    .container{
-        max-width: 1280px;
-    }
+@media (max-width: 1280px) {
+  .container {
+    max-width: 1024px;
+  }
 }
 /* XL */
 
-/* 2XL */
-@media(min-width: 1536px) {
-    .container{
-        max-width: 1536px;
-    }
+/* L */
+@media (max-width: 1024px) {
+  .container {
+    max-width: 768px;
+  }
 }
-/* 2XL */
+/* L */
+
+/* M */
+@media (max-width: 768px) {
+  .container {
+    max-width: 640px;
+  }
+}  
+/* M */
+
+/* S */
+@media (max-width: 640px) {
+  .container {
+    max-width: 475px;
+  }
+}
+/* S */
+
+/* XS */
+@media (max-width: 475px) {
+  .container {
+    width: 100%;
+  }
+}
+/* XS */
 /* Media */

@@ -68,6 +68,7 @@ homePage
 homePage
     content containers linked navbar names to corresponding characters
     added a "SEE MORE..." button
+    changed media queries to be desktop first
 
 √homePage character bio's are ready to use in characterBio.txt
 
