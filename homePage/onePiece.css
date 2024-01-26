@@ -25,7 +25,7 @@ header {
     text-decoration: underline;
     text-decoration-thickness: 0.5rem;
     text-underline-offset: 1rem;
-    text-shadow: #fff 3px 0 1px;
+    text-shadow: #fff 2px 0 8px;
 }
 
 header h1 {
@@ -45,6 +45,7 @@ header h1 {
     border-bottom: 1px solid #fff;
 }
 /* Navbar */
+
 nav li {
     margin-right: 2%;
     text-align: left;
