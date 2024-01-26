@@ -60,6 +60,15 @@ homePage
 homePage
     adjusted characterBio's border to be only top and bottom instead of all around
 
+1/25/2024
+homePage
+    added a transparent black background layer and changed text colors to make it more legible
+
+1/26/2024
+homePage
+    content containers linked navbar names to corresponding characters
+    added a "SEE MORE..." button
+
 √homePage character bio's are ready to use in characterBio.txt
 
 !! NOT PRIORITY !!
@@ -67,6 +76,7 @@ homePage
 
 THis is a test to upload on the master branch!
 this is test number 2
+
 
 
 TitlePage.html
