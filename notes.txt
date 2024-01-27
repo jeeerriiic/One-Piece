@@ -80,6 +80,8 @@ homePage
     √responsive
     changed onePiece.html/css to home.html/css
     change onePiece.js to home.js
+created characterFolder
+    created each characters folder/html/css/js
 
 √homePage character bio's are ready to use in characterBio.txt
 
