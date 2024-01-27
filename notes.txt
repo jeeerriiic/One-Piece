@@ -82,6 +82,9 @@ homePage
     change onePiece.js to home.js
 created characterFolder
     created each characters folder/html/css/js
+Monkey D. Luffy
+    set up html !
+    set up css @font-face, body, @medias & container utility
 
 √homePage character bio's are ready to use in characterBio.txt
 
