@@ -452,6 +452,14 @@ footer a:hover {
     font-size: 5rem;
   }
 
+  #contentCont {
+    height: 625px;
+  }
+
+  nav a {
+    line-height: 40px;
+  }
+
   .characterCont span {
     font-size: 3.2rem;
   }
@@ -490,14 +498,15 @@ footer a:hover {
 
   header {
     font-size: 4rem;
+    text-decoration-thickness: 0.4rem;
+  }
+
+  #contentCont {
+    height: 660px;
   }
 
   nav img {
     width: 150px;
-  }
-
-  nav a {
-    line-height: 36px;
   }
 
   .characterCont span {
@@ -505,11 +514,11 @@ footer a:hover {
   }
 
   .characterCont h2 {
-    font-size: 2rem;
+    font-size: 1.6rem;
   }
 
   .characterCont h3 {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .characterCont p {
@@ -539,6 +548,53 @@ footer a:hover {
   .container {
     max-width: 640px;
   }
+
+  header {
+    font-size: 3rem;
+    text-decoration-thickness: 0.3rem;
+    text-underline-offset: 0.7rem;
+  }
+
+  #contentCont {
+    height: 710px;
+  }
+
+  nav img {
+    width: 150px;
+  }
+
+  nav a {
+    font-size: 1rem;
+    line-height: 44px;
+  }
+
+  .characterCont span {
+    font-size: 2.8rem;
+  }
+
+  .characterCont h2 {
+    font-size: 1.6rem;
+  }
+
+  .characterCont h3 {
+    font-size: 0.9rem;
+  }
+
+  .characterCont p {
+    font-size: 0.75rem;
+  }
+
+  .characterCont div {
+    height: 310px;
+  }
+
+  footer h3 {
+    font-size: 1rem;
+  }
+
+  footer a {
+    font-size: 0.9rem;
+  }
 }  
 /* M */
 
@@ -546,6 +602,69 @@ footer a:hover {
 @media (max-width: 640px) {
   .container {
     max-width: 475px;
+  }
+
+  header {
+    font-size: 2.6rem;
+    text-decoration-thickness: 0.3rem;
+    text-underline-offset: 0.7rem;
+  }
+
+  #contentCont {
+    height: 715px;
+  }
+
+  nav img {
+    width: 125px;
+  }
+
+  nav a {
+    font-size: 0.9rem;
+    line-height: 45px;
+  }
+
+  .characterCont span {
+    font-size: 2.2rem;
+  }
+
+  .characterCont h2 {
+    font-size: 1rem;
+  }
+
+  .characterCont h3 {
+    font-size: 0.8rem;
+  }
+
+  .characterCont p {
+    font-size: 0.65rem;
+  }
+
+  #zoro {
+    background-position-x: 45%;
+  }
+
+  #nami {
+    background-position-x: 55%;
+  }
+
+  #sanji {
+    background-position-x: 45%;
+  }
+
+  #robin {
+    background-position-x: 75%;
+  }
+
+  #franky {
+    background-position-x: 40%;
+  }
+
+  footer h3 {
+    font-size: 0.8rem;
+  }
+
+  footer a {
+    font-size: 0.8rem;
   }
 }
 /* S */

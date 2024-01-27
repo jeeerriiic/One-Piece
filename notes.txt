@@ -71,7 +71,13 @@ homePage
     changed media queries to be desktop first
     changed content container navbar text-shadow
     finished 2XL media query
-    finished XL and L media query leaving M S XS as is
+    finished XL and L media query
+
+1/27/2024
+homePage
+    adjusted XL and L media query
+    finished M and S media query
+    √responsive
 
 √homePage character bio's are ready to use in characterBio.txt
 
