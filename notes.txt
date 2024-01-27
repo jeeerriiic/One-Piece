@@ -78,7 +78,8 @@ homePage
     adjusted XL and L media query
     finished M and S media query
     √responsive
-    changed onePiece.html/css to home.html/css 
+    changed onePiece.html/css to home.html/css
+    change onePiece.js to home.js
 
 √homePage character bio's are ready to use in characterBio.txt
 
