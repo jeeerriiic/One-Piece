@@ -179,6 +179,7 @@ nav a:hover {
     width: 100%;
     height: 350px;
     margin-bottom: 4%;
+    background-position-x: center;
 }
 
 .backgroundLayer {
@@ -249,7 +250,6 @@ nav a:hover {
 #sanji {
     background-image: url(./refHome/Sanji\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 65%;
-    background-position-x: 20%;
     text-shadow: #0059ff 2px 0 8px;
     border-top: 1px solid #0059ff;
     border-bottom: 1px solid #0059ff;
@@ -280,7 +280,6 @@ nav a:hover {
 #robin {
     background-image: url(./refHome/Robin\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 40%;
-    background-position-x: 40%;
     text-shadow: #6700b6 2px 0 8px;
     border-top: 1px solid #6700b6;
     border-bottom: 1px solid #6700b6;
@@ -428,6 +427,18 @@ footer a:hover {
   .characterCont div {
     height: 315px;
   }
+
+  #chopper {
+    background-position-x: 40%;
+  }
+
+  #robin {
+    background-position-x: 60%;
+  }
+
+  #jinbe {
+    background-position-x: 65%;
+  }
 }
 /* 2XL */
 
@@ -436,6 +447,38 @@ footer a:hover {
   .container {
     max-width: 1024px;
   }
+
+  header {
+    font-size: 5rem;
+  }
+
+  .characterCont span {
+    font-size: 3.2rem;
+  }
+
+  .characterCont h2 {
+    font-size: 2.2rem;
+  }
+
+  .characterCont h3 {
+    font-size: 1.2rem;
+  }
+
+  .characterCont p {
+    font-size: 1rem;
+  }
+
+  #chopper {
+    background-position-x: 35%;
+  }
+
+  #robin {
+    background-position-x: 65%;
+  }
+
+  #jinbe {
+    background-position-x: 70%;
+  }
 }
 /* XL */
 
@@ -443,6 +486,50 @@ footer a:hover {
 @media (max-width: 1024px) {
   .container {
     max-width: 768px;
+  }
+
+  header {
+    font-size: 4rem;
+  }
+
+  nav img {
+    width: 150px;
+  }
+
+  nav a {
+    line-height: 36px;
+  }
+
+  .characterCont span {
+    font-size: 2.8rem;
+  }
+
+  .characterCont h2 {
+    font-size: 2rem;
+  }
+
+  .characterCont h3 {
+    font-size: 1rem;
+  }
+
+  .characterCont p {
+    font-size: 0.9rem;
+  }
+
+  #luffy {
+    background-position-x: 40%;
+  }
+
+  #chopper {
+    background-position-x: 35%;
+  }
+
+  #robin {
+    background-position-x: 70%;
+  }
+
+  #jinbe {
+    background-position-x: 70%;
   }
 }
 /* L */
