@@ -5,7 +5,7 @@
     --color-dark: #334155;
     --color-light: #f1f5f9;
     --color-accent: #fd7120ea;
-    --color-alternate: #4c526f;
+    --color-alternate: #171F26;
 
     --color-slate700: #374151;
     --color-stone500: #78716c;
@@ -43,6 +43,8 @@ html{
 body{
     min-height: 100svh;
     font-family: var(--font-body);
+    background-color: var(--color-alternate);
+    color: var(--color-light);
 }
 
 img,
@@ -142,6 +144,7 @@ main{
     height: 100px;
     width: 100px;
     object-fit: cover;
+    outline: 1px solid white;
 }
 
 
