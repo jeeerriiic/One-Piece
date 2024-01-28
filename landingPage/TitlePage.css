@@ -147,9 +147,18 @@ main{
     outline: 1px solid white;
 }
 
-.strawhats {
-    
+.nameAndImage h2 {
+    text-align: center;
+    font-weight: 100;
+    font-size: var(--fs-small);
+    margin-bottom: .25rem;
 }
+
+.nameAndImage img{
+    margin: auto;
+}
+
+
 
 /* => I am building mobile first so I am using min-width for media query breakpoints. The container classes within each media query breakpoint makes sure that it does not out grow the breakpoint size. */
 /* xs screens */
