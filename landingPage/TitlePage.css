@@ -131,6 +131,12 @@ main{
     font-weight: 400;
 }
 
+#target {
+    color: red;
+    font-size: 10rem;
+    font-family: var(--font-title);
+}
+
 /* This is to style the images for the landing page. */
 .the__crew{
     display: flex;
