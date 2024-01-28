@@ -131,16 +131,16 @@ main{
 
 /* This is to style the images for the landing page. */
 .the__crew{
-    display: grid;
+    display: flex;
     gap: 1.5rem;
-    grid-template-columns: repeat(5, 1fr);
+
 }
 
 .strawhats img{
     /* border: 1px solid red; */
     border-radius: 500px;
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px;
     object-fit: cover;
 }
 
