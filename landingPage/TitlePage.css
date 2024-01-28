@@ -121,11 +121,13 @@ main{
 
 /* Title */
 .Title__wrapper{
+    border: 1px solid white;
     display: grid;
     place-content: center;
-    text-align: center;
+    grid-template-columns: 1fr, 3fr;
 }
 .Main__title{
+    border: 1px solid firebrick;
     font-family: var(--font-title);
     font-size: 10rem;
     font-weight: 400;
@@ -141,7 +143,6 @@ main{
 .the__crew{
     display: flex;
     gap: 1.5rem;
-
 }
 
 .strawhats img{
