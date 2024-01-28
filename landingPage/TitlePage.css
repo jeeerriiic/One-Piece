@@ -121,11 +121,9 @@ main{
 
 /* Title */
 .Title__wrapper{
-    /* border: 1px solid white; */
-    display: grid;
-    place-content: center;
-    /* grid-template-columns: 1fr, 3fr; */
+  
 }
+
 
 .Main__title{
     border: 1px solid firebrick;
