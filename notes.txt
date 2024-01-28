@@ -85,6 +85,8 @@ created characterFolder
 Monkey D. Luffy
     set up html !
     set up css @font-face, body, @medias & container utility
+characterFolder
+    set up all characters html ! & css @font-face, body, @medias & container utilitys
 
 √homePage character bio's are ready to use in characterBio.txt
 
