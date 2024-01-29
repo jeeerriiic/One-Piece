@@ -157,7 +157,12 @@ main{
 }
 
 .enterBtn{
-    
+    width: 7rem;
+    margin: auto;
+    padding: 5px;
+    margin-top: 1rem;
+    color: var(--color-light);
+    background-color: none;
 }
 /* => I am building mobile first so I am using min-width for media query breakpoints. The container classes within each media query breakpoint makes sure that it does not out grow the breakpoint size. */
 /* xs screens */
