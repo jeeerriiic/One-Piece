@@ -1,1 +1,1 @@
-document.querySelector(".strawhats")
+document.querySelector(".nameAndImage")
