@@ -202,6 +202,10 @@ main{
     color: var(--color-dark);
     letter-spacing: 5px;
 }
+
+#logo{
+    max-width: 500px;
+}
 /* => I am building mobile first so I am using min-width for media query breakpoints. The container classes within each media query breakpoint makes sure that it does not out grow the breakpoint size. */
 /* xs screens */
 
