@@ -1,1 +1,1 @@
-document.querySelector(".nameAndImage")
+let crewmember = document.querySelector(".member");
