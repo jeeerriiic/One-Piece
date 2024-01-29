@@ -171,6 +171,9 @@ main{
     background-color: transparent;
     transition: .5s ease-in-out;
     border: none;
+    outline: 1px double var(--color-light);
+    outline-offset: 3px;
+    border-radius: 30px;
 }
 
 .enterBtn:hover{
@@ -184,7 +187,7 @@ main{
 .enterBtn:active{
     background-color: var(--color-alternate);
     outline:1px solid var(--color-light);
-    
+    outline-offset: 3px;
 }
 
 .enterBtn a{
@@ -197,7 +200,7 @@ main{
 
 .enterBtn a:hover{
     color: var(--color-dark);
-    letter-spacing: 3px;
+    letter-spacing: 5px;
 }
 /* => I am building mobile first so I am using min-width for media query breakpoints. The container classes within each media query breakpoint makes sure that it does not out grow the breakpoint size. */
 /* xs screens */
