@@ -124,7 +124,6 @@ main{
   border: 1px solid red;
 } */
 
-
 .Main__title{
     /* border: 1px solid firebrick; */
     font-family: var(--font-title);
@@ -153,22 +152,8 @@ main{
     outline: 1px solid white;
 }
 
-.nameAndImage h2 {
-    text-align: center;
-    font-weight: 100;
-    font-size: var(--fs-small);
-    margin-bottom: .25rem;
-}
-
 .nameAndImage img{
     margin: auto;
-}
-
-.strawhats h3{
-    text-align: center;
-    font-weight: 200;
-    letter-spacing: .25rem;
-    margin-top: .25rem;
 }
 
 /* => I am building mobile first so I am using min-width for media query breakpoints. The container classes within each media query breakpoint makes sure that it does not out grow the breakpoint size. */
