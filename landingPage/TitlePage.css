@@ -150,6 +150,12 @@ main{
     width: 100px;
     object-fit: cover;
     outline: 1px solid white;
+    filter: grayscale();
+}
+
+.strawhats img:hover{
+    filter: none;
+    transition: .5s ease-in-out;
 }
 
 .nameAndImage img{
@@ -157,12 +163,35 @@ main{
 }
 
 .enterBtn{
-    width: 7rem;
+    width: 10%;
     margin: auto;
     padding: 5px;
-    margin-top: 1rem;
+    margin-top: 3rem;
     color: var(--color-light);
-    background-color: none;
+    background-color: transparent;
+    transition: .5s ease-in-out;
+    border: none;
+}
+
+.enterBtn:hover{
+    border: 1px solid var(--color-light);
+    width: 100%;
+    border-radius: 25px;
+    background-color: var(--color-light);
+    color: var(--color-slate700);
+}
+
+.enterBtn a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--color-light);
+    transition: .3s ease-in-out;
+
+}
+
+.enterBtn a:hover{
+    color: var(--color-dark);
+    letter-spacing: 3px;
 }
 /* => I am building mobile first so I am using min-width for media query breakpoints. The container classes within each media query breakpoint makes sure that it does not out grow the breakpoint size. */
 /* xs screens */
