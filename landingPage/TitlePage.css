@@ -121,7 +121,7 @@ main{
 
 /* Title */
 .Title__wrapper{
-  
+  border: 1px solid red;
 }
 
 
