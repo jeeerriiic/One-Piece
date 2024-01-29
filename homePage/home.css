@@ -17,7 +17,7 @@ body {
 
 /* Body Overlay */
 .bodyOverlay {
-  background-color: #334155e0;
+    background-color: #334155e0;
 }
 /* Body Overlay */
 
@@ -66,18 +66,19 @@ nav a {
     font-size: 1.3rem;
     letter-spacing: 0.2rem;
     line-height: 40px;
-    color: #fff;
+    color: #334155;
     text-decoration: none;
-    text-shadow: #000 1px 0 3px;
+    text-shadow: #fff 1px 0 3px;
 }
 
 nav a:hover {
+    color: #fff;
     text-decoration: underline;
     text-underline-offset: 4px;
-    text-shadow: #000 2px 0 2px;
+    text-shadow: #334155 1px 0 3px;
 }
 
-.luffyNav a:hover {
+/* .luffyNav a:hover {
     color: #d00;
 }
 
@@ -116,7 +117,7 @@ nav a:hover {
 
 .jinbeNav a:hover {
     color: #0d60cd;
-}
+} */
 /* Navbar */
 
 /* Character Container */
@@ -395,7 +396,7 @@ footer a:hover {
   margin-right: auto;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
-  background-color: #1b447d9b;
+  background-color: #0f2f5d9b;
   border-left: 1px solid #fff;
   border-right: 1px solid #fff;
 }
