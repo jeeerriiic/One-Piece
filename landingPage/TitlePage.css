@@ -120,9 +120,9 @@ main{
 }
 
 /* Title */
-/* .Title__wrapper{
-  border: 1px solid red;
-} */
+.Title__wrapper{
+  position: relative;
+}
 
 .Main__title{
     /* border: 1px solid firebrick; */
@@ -204,7 +204,11 @@ main{
 }
 
 #logo{
-    max-width: 500px;
+    max-width: 850px;
+    position: absolute;
+    top: 0px;
+    right: -22git 5px;
+    z-index: -1;
 }
 /* => I am building mobile first so I am using min-width for media query breakpoints. The container classes within each media query breakpoint makes sure that it does not out grow the breakpoint size. */
 /* xs screens */
