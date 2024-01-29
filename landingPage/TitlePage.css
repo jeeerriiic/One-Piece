@@ -155,7 +155,8 @@ main{
 
 .strawhats img:hover{
     filter: none;
-    transition: .5s ease-in-out;
+    transition: .4s ease-in-out;
+    outline-offset: 3px;
 }
 
 .nameAndImage img{
