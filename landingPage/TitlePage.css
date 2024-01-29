@@ -120,13 +120,13 @@ main{
 }
 
 /* Title */
-.Title__wrapper{
+/* .Title__wrapper{
   border: 1px solid red;
-}
+} */
 
 
 .Main__title{
-    border: 1px solid firebrick;
+    /* border: 1px solid firebrick; */
     font-family: var(--font-title);
     font-size: 10rem;
     font-weight: 400;
