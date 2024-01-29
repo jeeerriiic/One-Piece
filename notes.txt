@@ -90,6 +90,11 @@ characterFolder
 
 √homePage character bio's are ready to use in characterBio.txt
 
+1/28/2024
+homePage
+    nested all html content within another div to create body background overlay
+    updated css/styling to match the main colors of titlePage
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
