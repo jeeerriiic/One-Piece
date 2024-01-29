@@ -181,6 +181,12 @@ main{
     color: var(--color-slate700);
 }
 
+.enterBtn:active{
+    background-color: var(--color-alternate);
+    outline:1px solid var(--color-light);
+    
+}
+
 .enterBtn a{
     text-transform: uppercase;
     text-decoration: none;
