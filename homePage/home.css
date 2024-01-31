@@ -68,56 +68,54 @@ header h1 {
     line-height: 40px;
     color: #334155;
     text-decoration: none;
-    text-shadow: #fff 1px 0 3px;
-}
-
-#contentCont nav a:hover {
-    color: #fff;
-    text-decoration: underline;
-    text-underline-offset: 4px;
-    text-shadow: #334155 1px 0 3px;
-}
-
-/* .luffyNav a:hover {
-    color: #d00;
-}
-
-.zoroNav a:hover {
-    color: #00de7a;
-}
-
-.namiNav a:hover {
-    color: #ff7000;
-}
-
-.usoppNav a:hover {
-    color: #fff200;
-}
-
-.sanjiNav a:hover {
-    color: #0059ff;
-}
-
-.chopperNav a:hover {
-    color: #ff70d9;
-}
-
-.robinNav a:hover {
-    color: #6700b6;
-}
-
-.frankyNav a:hover {
-    color: #0091ff;
-}
-
-.brookNav a:hover {
-    color: #000;
     text-shadow: #fff 2px 0 2px;
 }
 
-.jinbeNav a:hover {
+#contentCont nav a:hover {
+    text-decoration: underline;
+	text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+#contentCont .luffyNav a:hover {
+    color: #d00;
+}
+
+#contentCont .zoroNav a:hover {
+    color: #00de7a;
+}
+
+#contentCont .namiNav a:hover {
+    color: #ff7000;
+}
+
+#contentCont .usoppNav a:hover {
+    color: #fff200;
+}
+
+#contentCont .sanjiNav a:hover {
+    color: #0059ff;
+}
+
+#contentCont .chopperNav a:hover {
+    color: #ff70d9;
+}
+
+#contentCont .robinNav a:hover {
+    color: #6700b6;
+}
+
+#contentCont .frankyNav a:hover {
+    color: #0091ff;
+}
+
+#contentCont .brookNav a:hover {
+    color: #000;
+}
+
+#contentCont .jinbeNav a:hover {
     color: #0d60cd;
-} */
+}
 /* Navbar */
 
 /* Character Container */
