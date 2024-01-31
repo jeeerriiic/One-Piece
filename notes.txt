@@ -88,6 +88,10 @@ Monkey D. Luffy
 characterFolder
     set up all characters html ! & css @font-face, body, @medias & container utilities
 
+1/31/2024
+homePage
+    hid scrollbars for whole page & .characterCont
+
 √homePage character bio's are ready to use in characterBio.txt
 
 1/28/2024
