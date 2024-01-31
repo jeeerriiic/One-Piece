@@ -52,17 +52,17 @@ header h1 {
 }
 /* Navbar */
 
-nav li {
+#contentCont nav li {
     margin-right: 2%;
     text-align: left;
     list-style: none;
 }
 
-nav img {
+#contentCont nav img {
     width: 200px;
 }
 
-nav a {
+#contentCont nav a {
     font-size: 1.3rem;
     letter-spacing: 0.2rem;
     line-height: 40px;
@@ -71,7 +71,7 @@ nav a {
     text-shadow: #fff 1px 0 3px;
 }
 
-nav a:hover {
+#contentCont nav a:hover {
     color: #fff;
     text-decoration: underline;
     text-underline-offset: 4px;
@@ -408,11 +408,11 @@ footer a:hover {
     max-width: 1280px;
   }
 
-  nav img {
+  #contentCont nav img {
     width: 175px;
   }
 
-  nav a {
+  #contentCont nav a {
     font-size: 1.1rem;
     line-height: 38px;
   }
@@ -465,7 +465,7 @@ footer a:hover {
     height: 625px;
   }
 
-  nav a {
+  #contentCont nav a {
     line-height: 40px;
   }
 
@@ -514,7 +514,7 @@ footer a:hover {
     height: 660px;
   }
 
-  nav img {
+  #contentCont nav img {
     width: 150px;
   }
 
@@ -568,11 +568,11 @@ footer a:hover {
     height: 710px;
   }
 
-  nav img {
+  #contentCont nav img {
     width: 150px;
   }
 
-  nav a {
+  #contentCont nav a {
     font-size: 1rem;
     line-height: 44px;
   }
@@ -623,11 +623,11 @@ footer a:hover {
     height: 715px;
   }
 
-  nav img {
+  #contentCont nav img {
     width: 125px;
   }
 
-  nav a {
+  #contentCont nav a {
     font-size: 0.9rem;
     line-height: 45px;
   }
