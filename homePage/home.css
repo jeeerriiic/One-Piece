@@ -3,9 +3,23 @@
     src: url(/references/one\ piece\ font.ttf);
 }
 
+/* html */
 html::-webkit-scrollbar {
 	display: none;
 }
+
+html li {
+	list-style: none;
+}
+
+html a {
+	text-decoration: none;
+}
+
+html a:hover {
+	text-decoration: underline;
+}
+/* html */
 
 /* Body */
 body {
@@ -43,6 +57,17 @@ header h1 {
 }
 /* Header */
 
+/* Main Navbar */
+.NAV {
+	position: fixed;
+	top: 0;
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	border: 2px solid red;
+}
+/* Main Navbar */
+
 /* Content Container */
 #contentCont {
     background-image: url(./refHome/stretched-1920-1080-755280.jpg);
@@ -59,7 +84,6 @@ header h1 {
 #contentCont nav li {
     margin-right: 2%;
     text-align: left;
-    list-style: none;
 }
 
 #contentCont nav img {
@@ -71,12 +95,10 @@ header h1 {
     letter-spacing: 0.2rem;
     line-height: 40px;
     color: #334155;
-    text-decoration: none;
     text-shadow: #fff 2px 0 2px;
 }
 
 #contentCont nav a:hover {
-    text-decoration: underline;
 	text-decoration-thickness: 2px;
     text-underline-offset: 4px;
 }
@@ -177,11 +199,9 @@ header h1 {
 
 .characterCont a {
     color: #fff;
-    text-decoration: none;
 }
 
 .characterCont a:hover {
-    text-decoration: underline;
     text-underline-offset: 4px;
     text-shadow: #000 2px 0 8px;
 }
@@ -363,7 +383,6 @@ footer {
 }
 
 footer li {
-    list-style: none;
     line-height: 2rem;
 }
 
@@ -377,12 +396,10 @@ footer h3 {
 footer a {
     font-size: 1.1rem;
     color: #fff;
-    text-decoration: none;
     text-shadow: #000 2px 0 8px;
 }
 
 footer a:hover {
-    text-decoration: underline;
     text-underline-offset: 4px;
 }
 
