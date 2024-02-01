@@ -109,6 +109,7 @@ homePage
     changed some font styling
     adjust some @medias
     fixed the indentations in css
+    finished main navbar
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar

@@ -59,29 +59,92 @@ header h1 {
 /* Header */
 
 /* Main Navbar */
-.NAV ul {
+.NAV {
     position: fixed;
     top: 0;
     display: flex;
     justify-content: space-evenly;
-    gap: 2%;
     width: 100%;
-    height: auto;
+    height: 30px;
     margin: 0;
-    border: 2px solid red;
+    background-color: #fff;
+    border: 1px solid #334155;
 }
 
 .NAV a {
-    color: #334155;
+    font-size: 1.4rem;
     letter-spacing: 0.1rem;
-    background-color: #fff;
-    border: 1px solid #fff;
-    border-radius: 10px;
+    color: #334155;
 }
 
-.NAV a:hover {
-    font-size: 1.2rem;
-    text-decoration: none;
+.NAV img {
+    width: 40px;
+  }
+  
+
+#submenu {
+    padding: 0;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 0 0 10px 10px;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1;
+}
+
+li:hover ul#submenu {
+    opacity: 1;
+    visibility: visible;
+}
+
+.luffyNAV a:hover {
+    color: #d00;
+    text-shadow: #000 1px 0 2px;
+}
+
+.zoroNAV a:hover {
+    color: #00de7a;
+    text-shadow: #000 1px 0 2px;
+}
+
+.namiNAV a:hover {
+    color: #ff7000;
+    text-shadow: #000 1px 0 2px;
+}
+
+.usoppNAV a:hover {
+    color: #fff200;
+    text-shadow: #000 1px 0 2px;
+}
+
+.sanjiNAV a:hover {
+    color: #0059ff;
+    text-shadow: #000 1px 0 2px;
+}
+
+.chopperNAV a:hover {
+    color: #ff70d9;
+    text-shadow: #000 1px 0 2px;
+}
+
+.robinNAV a:hover {
+    color: #6700b6;
+    text-shadow: #000 1px 0 2px;
+}
+
+.frankyNAV a:hover {
+    color: #0091ff;
+    text-shadow: #000 1px 0 2px;
+}
+
+.brookNAV a:hover {
+    color: #000;
+    text-shadow: #000 1px 0 2px;
+}
+
+.jinbeNAV a:hover {
+    color: #0d60cd;
+    text-shadow: #000 1px 0 2px;
 }
 /* Main Navbar */
 
@@ -109,12 +172,10 @@ header h1 {
 
 #contentCont nav a {
     font-size: 1.3rem;
-    font-family: 'Times New Roman', Times, serif;
-    /* font-style: italic; */
     letter-spacing: 0.2rem;
     line-height: 40px;
     color: #334155;
-    text-shadow: #fff 2px 0 2px;
+    text-shadow: #fff 1px 0 2px;
 }
 
 #contentCont nav a:hover {
@@ -124,42 +185,52 @@ header h1 {
 
 #contentCont .luffyNav a:hover {
     color: #d00;
+    text-shadow: #000 1px 0 2px;
 }
 
 #contentCont .zoroNav a:hover {
     color: #00de7a;
+    text-shadow: #000 1px 0 2px;
 }
 
 #contentCont .namiNav a:hover {
     color: #ff7000;
+    text-shadow: #000 1px 0 2px;
 }
 
 #contentCont .usoppNav a:hover {
     color: #fff200;
+    text-shadow: #000 1px 0 2px;
 }
 
 #contentCont .sanjiNav a:hover {
     color: #0059ff;
+    text-shadow: #000 1px 0 2px;
 }
 
 #contentCont .chopperNav a:hover {
     color: #ff70d9;
+    text-shadow: #000 1px 0 2px;
 }
 
 #contentCont .robinNav a:hover {
     color: #6700b6;
+    text-shadow: #000 1px 0 2px;
 }
 
 #contentCont .frankyNav a:hover {
     color: #0091ff;
+    text-shadow: #000 1px 0 2px;
 }
 
 #contentCont .brookNav a:hover {
     color: #000;
+    text-shadow: #000 1px 0 2px;
 }
 
 #contentCont .jinbeNav a:hover {
     color: #0d60cd;
+    text-shadow: #000 1px 0 2px;
 }
 /* Navbar */
 
@@ -396,6 +467,10 @@ header h1 {
 }
 /* Jinbe */
 /* Character Container */
+
+/* Sagas & Arcs */
+
+/* Sagas & Arcs */
 /* Content Container */
 
 /* Footer */
