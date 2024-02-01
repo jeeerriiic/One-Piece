@@ -58,13 +58,19 @@ header h1 {
 /* Header */
 
 /* Main Navbar */
-.NAV {
-	position: fixed;
-	top: 0;
-	display: flex;
-	flex-direction: row;
+.NAV ul {
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 2%;
 	width: 100%;
+  height: auto;
 	border: 2px solid red;
+}
+
+.NAV a {
+	color: #fff;
 }
 /* Main Navbar */
 
