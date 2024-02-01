@@ -1,6 +1,6 @@
 @font-face {
-    font-family: One Piece;
-    src: url(/references/one\ piece\ font.ttf);
+	font-family: One Piece;
+	src: url(/references/one\ piece\ font.ttf);
 }
 
 /* html */
@@ -23,38 +23,38 @@ html a:hover {
 
 /* Body */
 body {
-    font-size: 1rem;
+	font-size: 1rem;
 	font-family: "Righteous", sans-serif;
-    margin: -1px;
-    text-align: center;
-    overflow-y: auto;
-    overflow-x: hidden;
-    background-image: url(./refHome/QuentinGod93\,\ bodyBackground\,\ reddit.com.png);
-    background-position: top;
+	margin: -1px;
+	text-align: center;
+	overflow-y: auto;
+	overflow-x: hidden;
+	background-image: url(./refHome/QuentinGod93\,\ bodyBackground\,\ reddit.com.png);
+	background-position: top;
 }
 /* Body */
 
 /* Body Overlay */
 .bodyOverlay {
-    background-color: #334155e0;
+	background-color: #334155e0;
 }
 /* Body Overlay */
 
 /* Header */
 header {
-    font-size: 6rem;
+	font-size: 6rem;
 	font-family: 'Times New Roman', Times, serif;
-    width: 100%;
-    height: auto;
-    color: #fff;
-    text-decoration: underline;
-    text-decoration-thickness: 0.5rem;
-    text-underline-offset: 1rem;
-    text-shadow: #000 2px 0 8px;
+	width: 100%;
+	height: auto;
+	color: #fff;
+	text-decoration: underline;
+	text-decoration-thickness: 0.5rem;
+	text-underline-offset: 1rem;
+	text-shadow: #000 2px 0 8px;
 }
 
 header h1 {
-    margin: 0;
+	margin: 0;
 }
 /* Header */
 
@@ -77,93 +77,93 @@ header h1 {
 
 /* Content Container */
 #contentCont {
-    background-image: url(./refHome/stretched-1920-1080-755280.jpg);
-    background-position: center;
-    display: flex;
-    flex-wrap: nowrap;
-    width: 100%;
-    height: 600px;
-    border-top: 1px solid #fff;
-    border-bottom: 1px solid #fff;
+	background-image: url(./refHome/stretched-1920-1080-755280.jpg);
+	background-position: center;
+	display: flex;
+	flex-wrap: nowrap;
+	width: 100%;
+	height: 600px;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
 }
 /* Navbar */
 
 #contentCont nav li {
-    margin-right: 2%;
-    text-align: left;
+	margin-right: 2%;
+	text-align: left;
 }
 
 #contentCont nav img {
-    width: 200px;
+	width: 200px;
 }
 
 #contentCont nav a {
-    font-size: 1.3rem;
+	font-size: 1.3rem;
 	font-family: 'Times New Roman', Times, serif;
 	font-style: italic;
-    letter-spacing: 0.2rem;
-    line-height: 40px;
-    color: #334155;
-    text-shadow: #fff 2px 0 2px;
+	letter-spacing: 0.2rem;
+	line-height: 40px;
+	color: #334155;
+	text-shadow: #fff 2px 0 2px;
 }
 
 #contentCont nav a:hover {
 	text-decoration-thickness: 2px;
-    text-underline-offset: 4px;
+	text-underline-offset: 4px;
 }
 
 #contentCont .luffyNav a:hover {
-    color: #d00;
+	color: #d00;
 }
 
 #contentCont .zoroNav a:hover {
-    color: #00de7a;
+	color: #00de7a;
 }
 
 #contentCont .namiNav a:hover {
-    color: #ff7000;
+	color: #ff7000;
 }
 
 #contentCont .usoppNav a:hover {
-    color: #fff200;
+	color: #fff200;
 }
 
 #contentCont .sanjiNav a:hover {
-    color: #0059ff;
+	color: #0059ff;
 }
 
 #contentCont .chopperNav a:hover {
-    color: #ff70d9;
+	color: #ff70d9;
 }
 
 #contentCont .robinNav a:hover {
-    color: #6700b6;
+	color: #6700b6;
 }
 
 #contentCont .frankyNav a:hover {
-    color: #0091ff;
+	color: #0091ff;
 }
 
 #contentCont .brookNav a:hover {
-    color: #000;
+	color: #000;
 }
 
 #contentCont .jinbeNav a:hover {
-    color: #0d60cd;
+	color: #0d60cd;
 }
 /* Navbar */
 
 /* Character Container */
 .characterCont {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    background-image: url(./refHome/World\ Map.png);
-    background-position: center;
-    border-left: 1px solid #fff;
-    border-right: 1px solid #fff;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	background-image: url(./refHome/World\ Map.png);
+	background-position: center;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
 }
 
 .characterCont::-webkit-scrollbar {
@@ -171,218 +171,218 @@ header h1 {
 }
 
 .characterCont span {
-    background-image: url(./refHome/Grand\ Line.jpg);
-    background-position: center;
-    font-size: 4rem;
+	background-image: url(./refHome/Grand\ Line.jpg);
+	background-position: center;
+	font-size: 4rem;
 	font-family: 'Times New Roman', Times, serif;
-    width: 100%;
-    color: #000;
-    text-decoration: underline;
-    text-decoration-thickness: 0.2rem;
-    text-shadow: #fff 3px 0 1px;
+	width: 100%;
+	color: #000;
+	text-decoration: underline;
+	text-decoration-thickness: 0.2rem;
+	text-shadow: #fff 3px 0 1px;
 }
 .characterCont h2 {
-    font-size: 2.5rem;
+	font-size: 2.5rem;
 	font-family: 'Times New Roman', Times, serif;
 	font-style: italic;
-    letter-spacing: 0.4rem;
-    margin-top: 0%;
+	letter-spacing: 0.4rem;
+	margin-top: 0%;
 }
 
 .characterCont h3 {
-    font-size: 1.6rem;
+	font-size: 1.6rem;
 	font-family: 'Times New Roman', Times, serif;
-    letter-spacing: 0.2rem;
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 4px;
+	letter-spacing: 0.2rem;
+	text-decoration: underline;
+	text-decoration-thickness: 2px;
+	text-underline-offset: 4px;
 }
 
 .characterCont strong {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
 .characterCont p {
-    font-size: 1.2rem;
-    letter-spacing: 0.2rem;
-    width: 94%;
-    margin: 0% 3%;
+	font-size: 1.2rem;
+	letter-spacing: 0.2rem;
+	width: 94%;
+	margin: 0% 3%;
 }
 
 .characterCont a {
-    color: #fff;
+	color: #fff;
 	font-style: italic;
 	letter-spacing: 0.2rem;
 }
 
 .characterCont a:hover {
-    text-underline-offset: 4px;
-    text-shadow: #000 2px 0 8px;
+	text-underline-offset: 4px;
+	text-shadow: #000 2px 0 8px;
 }
 
 .characterCont div {
-    font-weight: bold;
-    color: #fff;
-    width: 100%;
-    height: 350px;
-    margin-bottom: 4%;
-    background-position-x: center;
+	font-weight: bold;
+	color: #fff;
+	width: 100%;
+	height: 350px;
+	margin-bottom: 4%;
+	background-position-x: center;
 }
 
 .backgroundLayer {
-    background-color: #0000009e;
+	background-color: #0000009e;
 }
 
 /* Luffy */
 #luffy {
-    background-image: url(./refHome/Luffy\,\ Amanomoon\,Deviant\ Art.png);
-    background-position-y: 65%;
-    text-shadow: #d00 2px 0 8px;
-    border-top: 1px solid #d00;
-    border-bottom: 1px solid #d00;
-    box-shadow: 0 0 20px 10px #d00;
+	background-image: url(./refHome/Luffy\,\ Amanomoon\,Deviant\ Art.png);
+	background-position-y: 65%;
+	text-shadow: #d00 2px 0 8px;
+	border-top: 1px solid #d00;
+	border-bottom: 1px solid #d00;
+	box-shadow: 0 0 20px 10px #d00;
 }
 
 #luffy a:hover {
-    color: #d00;
+	color: #d00;
 }
 /* Luffy */
 
 /* Zoro */
 #zoro {
-    background-image: url(./refHome/Zoro\,\ Amanomoon\,\ Deviant\ Art.jpg);
-    background-position-y: 60%;
-    text-shadow: #00de7a 2px 0 8px;
-    border-top: 1px solid #00de7a;
-    border-bottom: 1px solid #00de7a;
-    box-shadow: 0 0 20px 10px #00de7a;
+	background-image: url(./refHome/Zoro\,\ Amanomoon\,\ Deviant\ Art.jpg);
+	background-position-y: 60%;
+	text-shadow: #00de7a 2px 0 8px;
+	border-top: 1px solid #00de7a;
+	border-bottom: 1px solid #00de7a;
+	box-shadow: 0 0 20px 10px #00de7a;
 }
 
 #zoro a:hover {
-    color: #00de7a;
+	color: #00de7a;
 }
 /* Zoro */
 
 /* Nami */
 #nami {
-    background-image: url(./refHome/Nami\,\ Amanomoon\,\ Deviant\ Art.png);
-    background-position-y: 30%;
-    text-shadow: #ff7000 2px 0 8px;
-    border-top: 1px solid #ff7000;
-    border-bottom: 1px solid #ff7000;
-    box-shadow: 0 0 20px 10px #ff7000;
+	background-image: url(./refHome/Nami\,\ Amanomoon\,\ Deviant\ Art.png);
+	background-position-y: 30%;
+	text-shadow: #ff7000 2px 0 8px;
+	border-top: 1px solid #ff7000;
+	border-bottom: 1px solid #ff7000;
+	box-shadow: 0 0 20px 10px #ff7000;
 }
 
 #nami a:hover {
-    color: #ff7000;
+	color: #ff7000;
 }
 /* Nami */
 
 /* Usopp */
 #usopp {
-    background-image: url(./refHome/Usopp\,\ Amanomoon\,\ Deviant\ Art.png);
-    background-position-y: 55%;
-    text-shadow: #fff200 2px 0 8px;
-    border-top: 1px solid #fff200;
-    border-bottom: 1px solid #fff200;
-    box-shadow: 0 0 20px 10px #fff200;
+	background-image: url(./refHome/Usopp\,\ Amanomoon\,\ Deviant\ Art.png);
+	background-position-y: 55%;
+	text-shadow: #fff200 2px 0 8px;
+	border-top: 1px solid #fff200;
+	border-bottom: 1px solid #fff200;
+	box-shadow: 0 0 20px 10px #fff200;
 }
 
 #usopp a:hover {
-    color: #fff200;
+	color: #fff200;
 }
 /* Usopp */
 
 /* Sanji */
 #sanji {
-    background-image: url(./refHome/Sanji\,\ Amanomoon\,\ Deviant\ Art.png);
-    background-position-y: 65%;
-    text-shadow: #0059ff 2px 0 8px;
-    border-top: 1px solid #0059ff;
-    border-bottom: 1px solid #0059ff;
-    box-shadow: 0 0 20px 10px #0059ff;
+	background-image: url(./refHome/Sanji\,\ Amanomoon\,\ Deviant\ Art.png);
+	background-position-y: 65%;
+	text-shadow: #0059ff 2px 0 8px;
+	border-top: 1px solid #0059ff;
+	border-bottom: 1px solid #0059ff;
+	box-shadow: 0 0 20px 10px #0059ff;
 }
 
 #sanji a:hover {
-    color: #0059ff;
+	color: #0059ff;
 }
 /* Sanji */
 
 /* Chopper */
 #chopper {
-    background-image: url(./refHome/Chopper\,\ Amanomoon\,\ Deviant\ Art.png);
-    background-position-y: 40%;
-    text-shadow: #ff70d9 2px 0 8px;
-    border-top: 1px solid #ff70d9;
-    border-bottom: 1px solid #ff70d9;
-    box-shadow: 0 0 20px 10px #ff70d9;
+	background-image: url(./refHome/Chopper\,\ Amanomoon\,\ Deviant\ Art.png);
+	background-position-y: 40%;
+	text-shadow: #ff70d9 2px 0 8px;
+	border-top: 1px solid #ff70d9;
+	border-bottom: 1px solid #ff70d9;
+	box-shadow: 0 0 20px 10px #ff70d9;
 }
 
 #chopper a:hover {
-    color: #ff70d9;
+	color: #ff70d9;
 }
 /* Chopper */
 
 /* Robin */
 #robin {
-    background-image: url(./refHome/Robin\,\ Amanomoon\,\ Deviant\ Art.png);
-    background-position-y: 40%;
-    text-shadow: #6700b6 2px 0 8px;
-    border-top: 1px solid #6700b6;
-    border-bottom: 1px solid #6700b6;
-    box-shadow: 0 0 20px 10px #6700b6;
+	background-image: url(./refHome/Robin\,\ Amanomoon\,\ Deviant\ Art.png);
+	background-position-y: 40%;
+	text-shadow: #6700b6 2px 0 8px;
+	border-top: 1px solid #6700b6;
+	border-bottom: 1px solid #6700b6;
+	box-shadow: 0 0 20px 10px #6700b6;
 }
 
 #robin a:hover {
-    color: #6700b6;
+	color: #6700b6;
 }
 /* Robin */
 
 /* Franky */
 #franky {
-    background-image: url(./refHome/Franky\,\ Amanomoon\,\ Deviant\ Art.png);
-    background-position-y: 65%;
-    text-shadow: #0091ff 2px 0 8px;
-    border-top: 1px solid #0091ff;
-    border-bottom: 1px solid #0091ff;
-    box-shadow: 0 0 20px 10px #0091ff;
+	background-image: url(./refHome/Franky\,\ Amanomoon\,\ Deviant\ Art.png);
+	background-position-y: 65%;
+	text-shadow: #0091ff 2px 0 8px;
+	border-top: 1px solid #0091ff;
+	border-bottom: 1px solid #0091ff;
+	box-shadow: 0 0 20px 10px #0091ff;
 }
 
 #franky a:hover {
-    color: #0091ff;
+	color: #0091ff;
 }
 /* Franky */
 
 /* Brook */
 #brook {
-    background-image: url(./refHome/Brook\,\ Amanomoon\,\ Deviant\ Art.jpg);
-    background-position-y: 40%;
-    text-shadow: #fff 2px 0 8px;
-    border-top: 1px solid #fff;
-    border-bottom: 1px solid #fff;
-    box-shadow: 0 0 20px 10px #fff;
+	background-image: url(./refHome/Brook\,\ Amanomoon\,\ Deviant\ Art.jpg);
+	background-position-y: 40%;
+	text-shadow: #fff 2px 0 8px;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	box-shadow: 0 0 20px 10px #fff;
 }
 
 #brook a:hover {
-    color: #000;
-    text-shadow: #fff 2px 0 8px;
+	color: #000;
+	text-shadow: #fff 2px 0 8px;
 }
 /* Brook */
 
 /* Jinbe */
 #jinbe {
-    background-image: url(./refHome/Jinbe\,\ Amanomoon\,\ Deviant\ Art.png);
-    background-position-y: 45%;
-    background-position-x: 60%;
-    text-shadow: #0d60cd 2px 0 8px;
-    border-top: 1px solid #0d60cd;
-    border-bottom: 1px solid #0d60cd;
-    box-shadow: 0 0 20px 10px #0d60cd;
-    margin-bottom: 0%;
+	background-image: url(./refHome/Jinbe\,\ Amanomoon\,\ Deviant\ Art.png);
+	background-position-y: 45%;
+	background-position-x: 60%;
+	text-shadow: #0d60cd 2px 0 8px;
+	border-top: 1px solid #0d60cd;
+	border-bottom: 1px solid #0d60cd;
+	box-shadow: 0 0 20px 10px #0d60cd;
+	margin-bottom: 0%;
 }
 
 #jinbe a:hover {
-    color: #0d60cd;
+	color: #0d60cd;
 }
 /* Jinbe */
 /* Character Container */
@@ -390,39 +390,39 @@ header h1 {
 
 /* Footer */
 footer {
-    display: flex;
-    justify-content: space-evenly;
-    letter-spacing: 0.2rem;
-    border-bottom: 1px solid #fff;
+	display: flex;
+	justify-content: space-evenly;
+	letter-spacing: 0.2rem;
+	border-bottom: 1px solid #fff;
 }
 
 footer li {
-    line-height: 2rem;
+	line-height: 2rem;
 }
 
 footer h3 {
-    font-size: 1rem;
+	font-size: 1rem;
 	letter-spacing: 0.3rem;
-    color: #fff;
-    text-shadow: #000 2px 0 8px;
+	color: #fff;
+	text-shadow: #000 2px 0 8px;
 }
 
 footer a {
-    font-size: 1.1rem;
+	font-size: 1.1rem;
 	font-family: 'Times New Roman', Times, serif;
-    color: #fff;
-    text-shadow: #000 2px 0 8px;
+	color: #fff;
+	text-shadow: #000 2px 0 8px;
 }
 
 footer a:hover {
-    text-underline-offset: 4px;
+	text-underline-offset: 4px;
 }
 
 .footerContLeft {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding-bottom: 20px;
 }
 /* Footer */
 
@@ -443,48 +443,48 @@ footer a:hover {
 /* 2XL */
 @media (max-width: 1536px) {
   .container {
-    max-width: 1280px;
+	max-width: 1280px;
   }
 
   #contentCont nav img {
-    width: 175px;
+	width: 175px;
   }
 
   #contentCont nav a {
-    font-size: 1.1rem;
-    line-height: 38px;
+	font-size: 1.1rem;
+	line-height: 38px;
   }
 
   .characterCont span {
-    font-size: 3.5rem;
+	font-size: 3.5rem;
   }
 
   .characterCont h2 {
-    font-size: 2.3rem;
+	font-size: 2.3rem;
   }
 
   .characterCont h3 {
-    font-size: 1.4rem;
+	font-size: 1.4rem;
   }
 
   .characterCont p {
-    font-size: 1rem;
+	font-size: 1rem;
   }
 
   .characterCont div {
-    height: 315px;
+	height: 315px;
   }
 
   #chopper {
-    background-position-x: 40%;
+	background-position-x: 40%;
   }
 
   #robin {
-    background-position-x: 60%;
+	background-position-x: 60%;
   }
 
   #jinbe {
-    background-position-x: 65%;
+	background-position-x: 65%;
   }
 }
 /* 2XL */
@@ -492,47 +492,47 @@ footer a:hover {
 /* XL */
 @media (max-width: 1280px) {
   .container {
-    max-width: 1024px;
+	max-width: 1024px;
   }
 
   header {
-    font-size: 5rem;
+	font-size: 5rem;
   }
 
   #contentCont {
-    height: 625px;
+	height: 625px;
   }
 
   #contentCont nav a {
-    line-height: 40px;
+	line-height: 40px;
   }
 
   .characterCont span {
-    font-size: 3.2rem;
+	font-size: 3.2rem;
   }
 
   .characterCont h2 {
-    font-size: 2.2rem;
+	font-size: 2.2rem;
   }
 
   .characterCont h3 {
-    font-size: 1.2rem;
+	font-size: 1.2rem;
   }
 
   .characterCont p {
-    font-size: 0.9rem;
+	font-size: 0.9rem;
   }
 
   #chopper {
-    background-position-x: 35%;
+	background-position-x: 35%;
   }
 
   #robin {
-    background-position-x: 65%;
+	background-position-x: 65%;
   }
 
   #jinbe {
-    background-position-x: 70%;
+	background-position-x: 70%;
   }
 }
 /* XL */
@@ -540,52 +540,52 @@ footer a:hover {
 /* L */
 @media (max-width: 1024px) {
   .container {
-    max-width: 768px;
+	max-width: 768px;
   }
 
   header {
-    font-size: 4rem;
-    text-decoration-thickness: 0.4rem;
+	font-size: 4rem;
+	text-decoration-thickness: 0.4rem;
   }
 
   #contentCont {
-    height: 660px;
+	height: 660px;
   }
 
   #contentCont nav img {
-    width: 150px;
+	width: 150px;
   }
 
   .characterCont span {
-    font-size: 2.8rem;
+	font-size: 2.8rem;
   }
 
   .characterCont h2 {
-    font-size: 1.6rem;
+	font-size: 1.6rem;
   }
 
   .characterCont h3 {
-    font-size: 0.9rem;
+	font-size: 0.9rem;
   }
 
   .characterCont p {
-    font-size: 0.8rem;
+	font-size: 0.8rem;
   }
 
   #luffy {
-    background-position-x: 40%;
+	background-position-x: 40%;
   }
 
   #chopper {
-    background-position-x: 35%;
+	background-position-x: 35%;
   }
 
   #robin {
-    background-position-x: 70%;
+	background-position-x: 70%;
   }
 
   #jinbe {
-    background-position-x: 70%;
+	background-position-x: 70%;
   }
 }
 /* L */
@@ -593,55 +593,55 @@ footer a:hover {
 /* M */
 @media (max-width: 768px) {
   .container {
-    max-width: 640px;
+	max-width: 640px;
   }
 
   header {
-    font-size: 3rem;
-    text-decoration-thickness: 0.3rem;
-    text-underline-offset: 0.7rem;
+	font-size: 3rem;
+	text-decoration-thickness: 0.3rem;
+	text-underline-offset: 0.7rem;
   }
 
   #contentCont {
-    height: 710px;
+	height: 710px;
   }
 
   #contentCont nav img {
-    width: 150px;
+	width: 150px;
   }
 
   #contentCont nav a {
-    font-size: 1rem;
-    line-height: 44px;
+	font-size: 1rem;
+	line-height: 44px;
   }
 
   .characterCont span {
-    font-size: 2.8rem;
+	font-size: 2.8rem;
   }
 
   .characterCont h2 {
-    font-size: 1.6rem;
+	font-size: 1.6rem;
   }
 
   .characterCont h3 {
-    font-size: 0.9rem;
+	font-size: 0.9rem;
   }
 
   .characterCont p {
-    font-size: 0.7rem;
+	font-size: 0.7rem;
   }
 
   .characterCont div {
-    height: 310px;
+	height: 310px;
   }
 
   footer h3 {
-    font-size: 0.9rem;
+	font-size: 0.9rem;
 	letter-spacing: 0.2rem;
   }
 
   footer a {
-    font-size: 0.9rem;
+	font-size: 0.9rem;
   }
 }  
 /* M */
@@ -649,71 +649,71 @@ footer a:hover {
 /* S */
 @media (max-width: 640px) {
   .container {
-    max-width: 475px;
+	max-width: 475px;
   }
 
   header {
-    font-size: 2.6rem;
-    text-decoration-thickness: 0.3rem;
-    text-underline-offset: 0.7rem;
+	font-size: 2.6rem;
+	text-decoration-thickness: 0.3rem;
+	text-underline-offset: 0.7rem;
   }
 
   #contentCont {
-    height: 715px;
+	height: 715px;
   }
 
   #contentCont nav img {
-    width: 125px;
+	width: 125px;
   }
 
   #contentCont nav a {
-    font-size: 0.9rem;
-    line-height: 45px;
+	font-size: 0.9rem;
+	line-height: 45px;
   }
 
   .characterCont span {
-    font-size: 2.2rem;
+	font-size: 2.2rem;
   }
 
   .characterCont h2 {
-    font-size: 1rem;
+	font-size: 1rem;
   }
 
   .characterCont h3 {
-    font-size: 0.8rem;
+	font-size: 0.8rem;
   }
 
   .characterCont p {
-    font-size: 0.6rem;
+	font-size: 0.6rem;
   }
 
   #zoro {
-    background-position-x: 45%;
+	background-position-x: 45%;
   }
 
   #nami {
-    background-position-x: 55%;
+	background-position-x: 55%;
   }
 
   #sanji {
-    background-position-x: 45%;
+	background-position-x: 45%;
   }
 
   #robin {
-    background-position-x: 75%;
+	background-position-x: 75%;
   }
 
   #franky {
-    background-position-x: 40%;
+	background-position-x: 40%;
   }
 
   footer h3 {
-    font-size: 0.7rem;
+	font-size: 0.7rem;
 	letter-spacing: 0.1rem;
   }
 
   footer a {
-    font-size: 0.8rem;
+	font-size: 0.8rem;
   }
 }
 /* S */
@@ -721,7 +721,7 @@ footer a:hover {
 /* XS */
 @media (max-width: 475px) {
   .container {
-    width: 100%;
+	width: 100%;
   }
 }
 /* XS */
