@@ -103,13 +103,20 @@ homePage
 htmls/all
     added meta within head tag
     copy/paste font links from TitlePage to each html head tag
-
 homePage
     working on main navbar
     changed some font styling
     adjust some @medias
     fixed the indentations in css
     finished main navbar
+
+2/1/2024
+homePage
+    changed body background image
+    working on sagas and arcs
+        episode
+        manga chapters
+        movie runtimes
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
@@ -138,7 +145,11 @@ all -- text-shadow: #000 2px 0 1px;
 
 reference links
     homePage
-        content container - https://wall.alphacoders.com/big.php?i=755280
+        Body Background - https://www.reddit.com/r/OnePiece/comments/ovth1k/wano_straw_hats_hd_wallpaper_updated_with_jinbe/
+
+        Body Background Going Merry/Thousand Sunny - https://www.deviantart.com/sheylog/art/Sunny-Merry-625222926
+
+        Content Container - https://wall.alphacoders.com/big.php?i=755280
 
         World Map - https://www.deviantart.com/sharpsider/art/One-Piece-New-Map-882649149
 
