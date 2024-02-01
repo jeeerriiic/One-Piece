@@ -67,11 +67,21 @@ header h1 {
     gap: 2%;
     width: 100%;
     height: auto;
+    margin: 0;
     border: 2px solid red;
 }
 
 .NAV a {
-    color: #fff;
+    color: #334155;
+    letter-spacing: 0.1rem;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+
+.NAV a:hover {
+    font-size: 1.2rem;
+    text-decoration: none;
 }
 /* Main Navbar */
 
@@ -100,7 +110,7 @@ header h1 {
 #contentCont nav a {
     font-size: 1.3rem;
     font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
+    /* font-style: italic; */
     letter-spacing: 0.2rem;
     line-height: 40px;
     color: #334155;

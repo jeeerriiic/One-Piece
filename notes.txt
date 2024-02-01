@@ -99,6 +99,17 @@ homePage
     nested all html content within another div to create body background overlay
     updated css/styling to match the main colors of titlePage
 
+1/31/2024
+htmls/all
+    added meta within head tag
+    copy/paste font links from TitlePage to each html head tag
+
+homePage
+    working on main navbar
+    changed some font styling
+    adjust some @medias
+    fixed the indentations in css
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
