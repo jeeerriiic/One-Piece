@@ -117,6 +117,8 @@ homePage
         episode
         manga chapters
         movie runtimes
+    finished Sea of Survival: Super Rookies Saga html/css
+    working on Final Sea: The New World Saga
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
