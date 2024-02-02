@@ -4,9 +4,9 @@
 }
 
 /* html */
-html::-webkit-scrollbar {
+/* html::-webkit-scrollbar {
     display: none;
-}
+} */
 
 html li {
     list-style: none;
@@ -472,16 +472,71 @@ li:hover ul#submenu {
 
 /* Sagas & Arcs */
 #sagasArcCont {
+    width: 100%;
+    height: 600px;
+    color: #fff;
+    letter-spacing: 0.2rem;
+    line-height: 30px;
+    text-shadow: #000 1px 0 2px;
+    overflow-y: scroll;
+    overflow-x: hidden;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
 }
 
-.seaOfSurvival {
-  display: flex;
+#sagasArcCont::-webkit-scrollbar {
+    display: none;
 }
 
-.seaOfSurvival ol {
-  padding: 0;
+#sagasArcCont h2, h3, h4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sagasArcCont h2, h4 {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+#sagasArcCont h3 {
+    font-style: italic;
+}
+
+#sagasArcCont h4 {
+    text-decoration-thickness: 1px;
+}
+
+#sagasArcCont ol {
+    padding: 0;
+}
+
+#sagasArcCont .movieWatchAfter {
+    font-style: italic;
+}
+
+.seaOfSurvivalContentCont {
+    display: flex;
+}
+
+.seaOfSurvivalContentCont div {
+    width: 250px;
+    height: 600px;
+    padding: 10px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    border: 1px solid #fff;
+}
+
+.seaOfSurvivalContentCont div::-webkit-scrollbar {
+    display: none;
+}
+
+.eastBlue {
+    border-radius: 10px 0 0 10px;
+}
+
+.summitWar {
+    border-radius: 0 10px 10px 0;
 }
 /* Sagas & Arcs */
 /* Content Container */
