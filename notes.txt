@@ -121,6 +121,11 @@ homePage
     working on Final Sea: The New World Saga
     finished Final Sea: The New World Saga
 
+2/2/2024
+homePage
+    story sagas/arcs cleaned up design css
+    meet the crew & content container navbar, white
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
