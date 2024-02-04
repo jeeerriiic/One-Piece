@@ -45,18 +45,31 @@ body {
 /* Header */
 header {
     font-size: 6rem;
-    font-family: 'Times New Roman', Times, serif;
     width: 100%;
     height: auto;
     color: #fff;
-    text-decoration: underline;
-    text-decoration-thickness: 0.5rem;
-    text-underline-offset: 1rem;
     text-shadow: #000 2px 0 8px;
+    border-bottom: 1px solid #fff;
 }
 
 header h1 {
+    font-family: 'Times New Roman', Times, serif;
     margin: 0;
+    text-decoration: underline;
+    text-decoration-thickness: 0.5rem;
+    text-underline-offset: 1rem;
+}
+
+header p {
+    font-size: 1.4rem;
+    letter-spacing: 0.2rem;
+    margin: 10px;
+}
+
+header span {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
 }
 /* Header */
 
@@ -282,13 +295,12 @@ li:hover ul#submenu {
     font-size: 1.6rem;
     font-family: 'Times New Roman', Times, serif;
     letter-spacing: 0.2rem;
+}
+
+.characterCont h3, strong {
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
-}
-
-.characterCont strong {
-    text-decoration: underline;
 }
 
 .characterCont p {
@@ -495,7 +507,7 @@ li:hover ul#submenu {
 }
 
 .sagasArcContHeaderContent {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     padding: 10px;
     border: 1px solid #fff;
     border-radius: 0 0 10px 10px;
@@ -514,22 +526,23 @@ li:hover ul#submenu {
     font-family: 'Times New Roman', Times, serif;
 }
 
-#sagasArcCont h1, h2, h4 {
+.sagasArcContHeader h1 {
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
 }
 
-#sagasArcCont h1, h2 {
+#sagasArcCont h1 {
     background-image: url(./refHome/Grand\ Line.jpg);
     background-position: center;
-    height: 50px;
+    height: 75px;
     margin-bottom: 0;
-    padding-top: 15px;
-    font-size: 4rem;
+    padding-top: 40px;
+    font-size: 6rem;
     font-weight: lighter;
     color: #fff;
     text-decoration-thickness: 0.2rem;
+    text-underline-offset: 1rem;
     text-shadow: #000 1px 0 5px;
     border-top: 1px solid #fff;
     border-left: 1px solid #fff;
@@ -566,6 +579,25 @@ li:hover ul#submenu {
     margin: 0 2% 2% 2%;
 }
 
+.seaOfSurvival h2 {
+    background-image: url(./refHome/Grand\ Line.jpg);
+    background-position: center;
+    height: 50px;
+    margin-bottom: 0;
+    padding-top: 15px;
+    font-size: 4rem;
+    font-weight: lighter;
+    color: #fff;
+    text-decoration: underline;
+    text-decoration-thickness: 0.2rem;
+    text-underline-offset: 8px;
+    text-shadow: #000 1px 0 5px;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-radius: 10px 10px 0 0;
+}
+
 .seaOfSurvivalContentCont {
     display: flex;
     width: 100%;
@@ -593,6 +625,25 @@ li:hover ul#submenu {
 
 .finalSea {
     margin: 2% 2% 3% 2%;
+}
+
+.finalSea h2 {
+    background-image: url(./refHome/Grand\ Line.jpg);
+    background-position: center;
+    height: 50px;
+    margin-bottom: 0;
+    padding-top: 15px;
+    font-size: 4rem;
+    font-weight: lighter;
+    color: #fff;
+    text-decoration: underline;
+    text-decoration-thickness: 0.2rem;
+    text-underline-offset: 8px;
+    text-shadow: #000 1px 0 5px;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-radius: 10px 10px 0 0;
 }
 
 .finalSeaContentCont {
@@ -729,12 +780,16 @@ footer a:hover {
     background-position-x: 65%;
   }
 
-  #sagasArcCont h1, h2 {
+  .sagasArcContHeaderContent {
+    font-size: 1.2rem;
+  }
+
+  .seaOfSurvival h2 {
     font-size: 3.2rem;
   }
 
-  .sagasArcContHeaderContent {
-    font-size: 1.2rem;
+  .finalSea h2 {
+    font-size: 3.2rem;
   }
 }
 /* 2XL */
@@ -747,6 +802,10 @@ footer a:hover {
 
   header {
     font-size: 5rem;
+  }
+
+  header p {
+    font-size: 1.2rem;
   }
 
   .NAV {
@@ -793,8 +852,20 @@ footer a:hover {
     background-position-x: 70%;
   }
 
-  #sagasArcCont h1, h2 {
+  #sagasArcCont h1 {
+    font-size: 5rem;
+  }
+
+  .seaOfSurvival h2 {
     font-size: 2.5rem;
+  }
+
+  .finalSea h2 {
+    font-size: 2.5rem;
+  }
+
+  #sagasArcCont h4 {
+    font-size: 0.9rem;
   }
 }
 /* XL */
@@ -808,6 +879,10 @@ footer a:hover {
   header {
     font-size: 4rem;
     text-decoration-thickness: 0.4rem;
+  }
+
+  header p {
+    font-size: 1rem;
   }
 
   .NAV {
@@ -889,7 +964,19 @@ footer a:hover {
     background-position-x: 70%;
   }
 
-  #sagasArcCont h1, h2 {
+  #sagasArcCont {
+    letter-spacing: 0.1rem;
+  }
+
+  #sagasArcCont h1 {
+    font-size: 3.5rem;
+  }
+
+  .seaOfSurvival h2 {
+    font-size: 1.7rem;
+  }
+
+  .finalSea h2 {
     font-size: 1.7rem;
   }
 
@@ -898,11 +985,11 @@ footer a:hover {
   }
 
   #sagasArcCont h3 {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   #sagasArcCont h4 {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
   }
 
   #sagasArcCont ol {
@@ -921,6 +1008,11 @@ footer a:hover {
     font-size: 3rem;
     text-decoration-thickness: 0.3rem;
     text-underline-offset: 0.7rem;
+  }
+
+  header p {
+    font-size: 0.9rem;
+    letter-spacing: 0.1rem;
   }
 
   #contentCont {
@@ -956,15 +1048,21 @@ footer a:hover {
     height: 310px;
   }
 
-  #sagasArcCont {
-    letter-spacing: 0.1rem;
-  }
-
   .sagasArcContHeaderContent {
     font-size: 0.9rem;
   }
 
-  #sagasArcCont h1, h2 {
+  #sagasArcCont h1 {
+    font-size: 3rem;
+    height: 65px;
+    padding-top: 25px;
+  }
+
+  .seaOfSurvival h2 {
+    font-size: 1.4rem;
+  }
+
+  .finalSea h2 {
     font-size: 1.4rem;
   }
 
@@ -981,6 +1079,10 @@ footer a:hover {
   }
 
   .seaOfSurvivalContentCont div {
+    padding: 10px 0;
+  }
+
+  .finalSeaContentCont div {
     padding: 10px 0;
   }
 
@@ -1005,6 +1107,10 @@ footer a:hover {
     font-size: 2.6rem;
     text-decoration-thickness: 0.3rem;
     text-underline-offset: 0.7rem;
+  }
+
+  header p {
+    font-size: 0.8rem;
   }
 
   #contentCont {
@@ -1065,17 +1171,28 @@ footer a:hover {
     font-size: 0.8rem;
   }
 
-  #sagasArcCont h1, h2 {
+  #sagasArcCont h1 {
+    font-size: 2rem;
+    height: 55px;
+    padding-top: 20px;
+  }
+
+  .seaOfSurvival h2 {
+    font-size: 1.1rem;
+    height: 40px;
+  }
+
+  .finalSea {
     font-size: 1.1rem;
     height: 40px;
   }
 
   #sagasArcCont h3 {
-    font-size: 0.8rem;
+    font-size: 0.75rem;
   }
 
   #sagasArcCont h4 {
-    font-size: 0.6rem;
+    font-size: 0.55rem;
   }
 
   #sagasArcCont ol {
@@ -1083,6 +1200,10 @@ footer a:hover {
   }
 
   .seaOfSurvivalContentCont div {
+    padding: 5px 0;
+  }
+
+  .finalSeaContentCont div {
     padding: 5px 0;
   }
 
