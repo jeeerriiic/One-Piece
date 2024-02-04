@@ -125,6 +125,8 @@ homePage
 homePage
     story sagas/arcs cleaned up design css
     meet the crew & content container navbar, white
+    working on main navbar @medias
+        working on main navbar @medias L(large) section
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar

@@ -65,7 +65,8 @@ header h1 {
     position: fixed;
     top: 0;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 100px;
     width: 100%;
     height: 30px;
     margin: 0;
@@ -97,6 +98,11 @@ header h1 {
 li:hover ul#submenu {
     opacity: 1;
     visibility: visible;
+}
+
+.storyNav a:hover {
+    color: #d00;
+    text-shadow: #fff200 1px 0 2px;
 }
 
 .luffyNAV a:hover {
@@ -473,7 +479,7 @@ li:hover ul#submenu {
 /* Sagas & Arcs */
 #sagasArcCont {
     width: 100%;
-    height: 800px;
+    height: 650px;
     color: #fff;
     letter-spacing: 0.2rem;
     line-height: 30px;
@@ -484,6 +490,22 @@ li:hover ul#submenu {
     border-bottom: 1px solid #fff;
 }
 
+.sagasArcContHeader {
+    margin: 0 2% 2% 2%;
+}
+
+.sagasArcContHeaderContent {
+    font-size: 1.5rem;
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 0 0 10px 10px;
+}
+
+.sagasArcContHeaderContent span {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
 /* #sagasArcCont::-webkit-scrollbar {
     display: none;
 } */
@@ -492,13 +514,13 @@ li:hover ul#submenu {
     font-family: 'Times New Roman', Times, serif;
 }
 
-#sagasArcCont h2, h4 {
+#sagasArcCont h1, h2, h4 {
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
 }
 
-#sagasArcCont h2 {
+#sagasArcCont h1, h2 {
     background-image: url(./refHome/Grand\ Line.jpg);
     background-position: center;
     height: 50px;
@@ -534,6 +556,10 @@ li:hover ul#submenu {
 
 #sagasArcCont .watchAfter {
     font-style: italic;
+    color: #fff200;
+    text-shadow: #000 1px 0 2px;
+    text-decoration: underline;
+    text-underline-offset: 4px;
 }
 
 .seaOfSurvival {
@@ -543,10 +569,9 @@ li:hover ul#submenu {
 .seaOfSurvivalContentCont {
     display: flex;
 }
-
 .seaOfSurvivalContentCont div {
     width: 250px;
-    height: 650px;
+    height: 500px;
     padding: 10px;
     overflow-y: scroll;
     overflow-x: hidden;
@@ -566,7 +591,7 @@ li:hover ul#submenu {
 }
 
 .finalSea {
-    margin: 2%;
+    margin: 2% 2% 3% 2%;
 }
 
 .finalSeaContentCont {
@@ -654,6 +679,14 @@ footer a:hover {
     max-width: 1280px;
   }
 
+  .NAV {
+    gap: 75px;
+  }
+
+  .NAV a {
+    font-size: 1.2rem;
+  }
+
   #contentCont nav img {
     width: 175px;
   }
@@ -694,6 +727,10 @@ footer a:hover {
   #jinbe {
     background-position-x: 65%;
   }
+
+  #sagasArcCont h2 {
+    font-size: 3.2rem;
+  }
 }
 /* 2XL */
 
@@ -705,6 +742,14 @@ footer a:hover {
 
   header {
     font-size: 5rem;
+  }
+
+  .NAV {
+    gap: 40px;
+  }
+
+  .NAV a {
+    font-size: 1rem;
   }
 
   #contentCont {
@@ -742,6 +787,10 @@ footer a:hover {
   #jinbe {
     background-position-x: 70%;
   }
+
+  #sagasArcCont h2 {
+    font-size: 2.5rem;
+  }
 }
 /* XL */
 
@@ -755,6 +804,45 @@ footer a:hover {
     font-size: 4rem;
     text-decoration-thickness: 0.4rem;
   }
+
+  .NAV {
+    display: block;
+    width: 50px;
+    height: 100%;
+    margin: 0;
+    padding: 0 10px;
+    background-color: #fff;
+    text-align: left;
+    border: 2px solid red;
+}
+
+.navStoryHead {
+    margin-top: 50px;
+}
+
+.navCrewHead {
+    margin-top: 50px;
+}
+
+.navHomeHead {
+    position: fixed;
+    bottom: 50px;
+}
+
+.NAV a {
+    font-size: 0.9rem;
+}
+  
+#submenu {
+    padding: 0;
+    width: 100%;
+    background-color: #fff;
+    border: 2px solid red;
+    border-radius: 0 0 10px 10px;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1;
+}
 
   #contentCont {
     height: 660px;
@@ -794,6 +882,22 @@ footer a:hover {
 
   #jinbe {
     background-position-x: 70%;
+  }
+
+  #sagasArcCont h2 {
+    font-size: 1.7rem;
+  }
+
+  #sagasArcCont h3 {
+    font-size: 1rem;
+  }
+
+  #sagasArcCont h4 {
+    font-size: 0.9rem;
+  }
+
+  #sagasArcCont ol {
+    font-size: 0.8rem;
   }
 }
 /* L */

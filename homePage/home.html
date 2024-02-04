@@ -26,7 +26,15 @@
         <!-- Main Navbar -->
         <nav>
             <ul class="NAV">
-                <li>
+                <li class="navLogoHead"><a href="/landingPage/TitlePage.html#target">The One Piece<img src="/landingPage/images/straw-hat-logo_bw Background Removed.png"></a></li>
+                <li class="navStoryHead">
+                    <a href="#storyCont">STORY SAGAS & ARCS</a>
+                    <ul id="submenu">
+                        <li class="storyNav"><a href="#SOS">SEA OF SURVIVAL: SUPER ROOKIES SAGA</a></li>
+                        <li class="storyNav"><a href="#FS">FINAL SEA: THE NEW WORLD SAGA</a></li>
+                    </ul>
+                </li>
+                <li class="navCrewHead">
                     <a href="#crew">STRAW HATS</a>
                     <ul id="submenu">
                         <li class="luffyNAV"><a href="#">MONKEY D. LUFFY</a></li>
@@ -41,8 +49,7 @@
                         <li class="jinbeNAV"><a href="#">JINBE</a></li>
                     </ul>
                 </li>
-                <li><a href="/landingPage/TitlePage.html#target">The One Piece<img src="/landingPage/images/straw-hat-logo_bw Background Removed.png"></a></li>
-                <li><a href="#home">HOME</a></li>
+                <li class="navHomeHead"><a href="#home">HOME</a></li>
             </ul>
         </nav>
         <!-- Main Navbar -->
@@ -186,8 +193,17 @@
 
         <!-- Sagas & Arcs -->
         <div id="sagasArcCont" class="container">
+            <div id="storyCont" class="sagasArcContHeader">
+                <h1>STORY SAGAS & ARCS</h1>
+
+                <div class="sagasArcContHeaderContent">
+                    <p>The first half of One Piece is titled <span>Sea of Survival: Super Rookies Saga.</span> It’s divided into six sub-sagas and includes several arcs, spanning 597 manga chapters and 516 anime episodes.</p>
+                    <p><span>The Final Sea: The New World Saga</span> is the main title of the second half of the One Piece series, which takes place after a major time skip in the series. It now features five sub-sagas and countless arcs, featuring 500+ chapters and episodes, but the story is ongoing.</p>
+                </div>
+            </div>
+
             <!-- Sea of Survival -->
-            <div class="seaOfSurvival">
+            <div id="SOS" class="seaOfSurvival">
                 <h2>SEA OF SURVIVAL: SUPER ROOKIES SAGA</h2>
 
                 <!-- Sea of Survival Content Container -->
@@ -494,7 +510,7 @@
             <!-- Sea of Survival -->
 
             <!-- Final Sea -->
-            <div class="finalSea">
+            <div id="FS" class="finalSea">
                 <h2>FINAL SEA: THE NEW WORLD SAGA</h2>
 
                 <!-- Final Sea Content Container -->
