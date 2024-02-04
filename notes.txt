@@ -132,6 +132,8 @@ homePage
 homePage
     created and linked story sagas & arcs to main navbar
     story sagas & arcs section @medias all responsive
+    fixed characterCont and sagasArcCont @medias all responsive
+        adjusted font-sizing and div container heights
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
