@@ -100,52 +100,59 @@ li:hover ul#submenu {
     visibility: visible;
 }
 
-.NAV a:hover {
-    text-shadow: #000 1px 0 2px;
-}
-
 .storyNav a:hover {
     color: #fff000;
+    text-shadow: #000 1px 0 2px;
 }
 
 .luffyNAV a:hover {
     color: #d00;
+    text-shadow: #000 1px 0 2px;
 }
 
 .zoroNAV a:hover {
     color: #00de7a;
+    text-shadow: #000 1px 0 2px;
 }
 
 .namiNAV a:hover {
     color: #ff7000;
+    text-shadow: #000 1px 0 2px;
 }
 
 .usoppNAV a:hover {
     color: #fff200;
+    text-shadow: #000 1px 0 2px;
 }
 
 .sanjiNAV a:hover {
     color: #0059ff;
+    text-shadow: #000 1px 0 2px;
 }
 
 .chopperNAV a:hover {
     color: #ff70d9;
+    text-shadow: #000 1px 0 2px;
 }
 
 .robinNAV a:hover {
     color: #6700b6;
+    text-shadow: #000 1px 0 2px;
 }
 
 .frankyNAV a:hover {
     color: #0091ff;
+    text-shadow: #000 1px 0 2px;
 }
 
 .brookNAV a:hover {
     color: #000;
+    text-shadow: #000 1px 0 2px;
 }
 
 .jinbeNAV a:hover {
     color: #0d60cd;
+    text-shadow: #000 1px 0 2px;
 }
 /* Main Navbar */
 
