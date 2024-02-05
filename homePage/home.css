@@ -916,43 +916,18 @@ footer a:hover {
   }
 
   .NAV {
-    display: block;
-    width: 50px;
-    height: 100%;
-    margin: 0;
-    padding: 0 10px;
-    background-color: #ffffff00;
-    text-align: left;
-    border: 2px solid red;
-}
-
-.navStoryHead {
-    margin-top: 50px;
-}
-
-.navCrewHead {
-    margin-top: 50px;
-}
-
-.navHomeHead {
-    position: fixed;
-    bottom: 50px;
-}
-
-.NAV a {
-    font-size: 0.9rem;
-}
-  
-#submenu {
+    gap: 0;
+    height: 25px;
     padding: 0;
-    width: 100%;
-    background-color: #fff;
-    border: 2px solid red;
-    border-radius: 0 0 10px 10px;
-    opacity: 0;
-    visibility: hidden;
-    z-index: 1;
-}
+  }
+
+  .NAV a {
+    font-size: 0.9rem;
+  }
+
+  .NAV img {
+    width: 30px;
+  }
 
   #contentCont {
     height: 660px;
@@ -1047,6 +1022,10 @@ footer a:hover {
   header p {
     font-size: 0.9rem;
     letter-spacing: 0.1rem;
+  }
+
+  .NAV a {
+    font-size: 0.7rem;
   }
 
   #contentCont {
@@ -1149,6 +1128,14 @@ footer a:hover {
 
   header p {
     font-size: 0.8rem;
+  }
+
+  .NAV a {
+    font-size: 0.55rem;
+  }
+
+  .NAV img {
+    width: 25px;
   }
 
   #contentCont {
