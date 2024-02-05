@@ -136,6 +136,7 @@ homePage
         adjusted font-sizing and div container heights
     sagasArcCont & content container updated design
     adjusted contentCont navbar & main navbar links to homePage scroll-margin-top
+    linked main navbar luffy to luffy's html
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
