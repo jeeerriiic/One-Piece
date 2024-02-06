@@ -144,6 +144,8 @@ Monkey D. Luffy
 2/5/2024
 homePage
     cleaned up some code in css
+Monkey D. Luffy
+    cleaned up some code in css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
