@@ -1,74 +1,297 @@
 @font-face {
-    font-family: One Piece;
-    src: url(/references/one\ piece\ font.ttf);
+  font-family: One Piece;
+  src: url(/references/one\ piece\ font.ttf);
 }
+
+/* html */
+/* html::-webkit-scrollbar {
+  display: none;
+} */
+
+html li {
+  list-style: none;
+}
+
+html a {
+  text-decoration: none;
+}
+
+html a:hover {
+  text-decoration: underline;
+}
+/* html */
+
+/* Body Overlay */
+.bodyOverlay {
+  background-color: #334155e0;
+}
+/* Body Overlay */
 
 /* Body */
 body {
-    font-size: 1rem;
-    margin: -1px;
-    text-align: center;
-    overflow-y: auto;
-    overflow-x: hidden;
+  background-image: url(/homePage/refHome/Luffy\,\ Amanomoon\,Deviant\ Art.png);
+  font-size: 1rem;
+  font-family: "Righteous", sans-serif;margin: -1px;
+  text-align: center;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 /* Body */
+
+/* Header */
+header {
+  font-size: 6rem;
+  width: 100%;
+  height: auto;
+  color: #fff;
+  text-shadow: #000 2px 0 8px;
+  border-bottom: 1px solid #fff;
+}
+
+header h1 {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  text-decoration: underline;
+  text-decoration-thickness: 0.5rem;
+  text-underline-offset: 1rem;
+}
+/* Header */
+
+/* Main Navbar */
+.NAV {
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  width: 100%;
+  height: 30px;
+  margin: 0;
+  background-color: #fff;
+  border: 1px solid #334155;
+}
+
+.NAV a {
+  font-size: 1.4rem;
+  letter-spacing: 0.1rem;
+  color: #334155;
+}
+
+.NAV img {
+  width: 40px;
+}
+
+#submenu {
+  padding: 0;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 0 0 10px 10px;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1;
+}
+
+li:hover ul#submenu {
+  opacity: 1;
+  visibility: visible;
+}
+
+.storyNav a:hover {
+  color: #fff200;
+  text-shadow: #000 1px 0 2px;
+}
+
+.luffyNAV a:hover {
+  color: #d00;
+  text-shadow: #000 1px 0 2px;
+}
+
+.zoroNAV a:hover {
+  color: #00de7a;
+  text-shadow: #000 1px 0 2px;
+}
+
+.namiNAV a:hover {
+  color: #ff7000;
+  text-shadow: #000 1px 0 2px;
+}
+
+.usoppNAV a:hover {
+  color: #fff200;
+  text-shadow: #000 1px 0 2px;
+}
+
+.sanjiNAV a:hover {
+  color: #0059ff;
+  text-shadow: #000 1px 0 2px;
+}
+
+.chopperNAV a:hover {
+  color: #ff70d9;
+  text-shadow: #000 1px 0 2px;
+}
+
+.robinNAV a:hover {
+  color: #6700b6;
+  text-shadow: #000 1px 0 2px;
+}
+
+.frankyNAV a:hover {
+  color: #0091ff;
+  text-shadow: #000 1px 0 2px;
+}
+
+.brookNAV a:hover {
+  color: #000;
+  text-shadow: #000 1px 0 2px;
+}
+
+.jinbeNAV a:hover {
+  color: #0d60cd;
+  text-shadow: #000 1px 0 2px;
+}
+/* Main Navbar */
+
+/* Footer */
+footer {
+  display: flex;
+  justify-content: space-evenly;
+  letter-spacing: 0.2rem;
+  border-bottom: 1px solid #fff;
+}
+
+footer li {
+  line-height: 2rem;
+}
+
+footer h3 {
+  font-size: 1rem;
+  letter-spacing: 0.3rem;
+  color: #fff;
+  text-shadow: #000 2px 0 8px;
+}
+
+footer a {
+  font-size: 1.1rem;
+  font-family: 'Times New Roman', Times, serif;
+  color: #fff;
+  text-shadow: #000 1px 0 2px;
+}
+
+footer a:hover {
+  color: #fff200;
+  text-underline-offset: 4px;
+}
+
+.footerContLeft {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+/* Footer */
 
 /* Media */
 /* Container Utility */
 .container {
-    max-width: 1536px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-  }
-  /* Container Utility */
-  
-  /* 2XL */
-  @media (max-width: 1536px) {
-    .container {
+  max-width: 1536px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  background-color: #0f2f5d9b;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #fff;
+}
+/* Container Utility */
+
+/* 2XL */
+@media (max-width: 1536px) {
+  .container {
       max-width: 1280px;
-    }
   }
-  /* 2XL */
-  
-  /* XL */
-  @media (max-width: 1280px) {
-    .container {
+
+  .NAV {
+      gap: 75px;
+  }
+
+  .NAV a {
+      font-size: 1.2rem;
+  }
+}
+/* 2XL */
+
+/* XL */
+@media (max-width: 1280px) {
+  .container {
       max-width: 1024px;
-    }
   }
-  /* XL */
-  
-  /* L */
-  @media (max-width: 1024px) {
-    .container {
+
+  .NAV {
+      gap: 40px;
+  }
+
+  .NAV a {
+      font-size: 1rem;
+  }
+}
+/* XL */
+
+/* L */
+@media (max-width: 1024px) {
+  .container {
       max-width: 768px;
-    }
   }
-  /* L */
-  
-  /* M */
-  @media (max-width: 768px) {
-    .container {
+
+  .NAV {
+      gap: 0;
+      height: 25px;
+      padding: 0;
+  }
+
+  .NAV a {
+      font-size: 0.9rem;
+  }
+
+  .NAV img {
+      width: 30px;
+  }
+}
+/* L */
+
+/* M */
+@media (max-width: 768px) {
+  .container {
       max-width: 640px;
-    }
-  }  
-  /* M */
-  
-  /* S */
-  @media (max-width: 640px) {
-    .container {
+  }
+
+  .NAV a {
+      font-size: 0.7rem;
+  }
+}  
+/* M */
+
+/* S */
+@media (max-width: 640px) {
+  .container {
       max-width: 475px;
-    }
   }
-  /* S */
-  
-  /* XS */
-  @media (max-width: 475px) {
-    .container {
+
+  .NAV a {
+      font-size: 0.55rem;
+  }
+
+  .NAV img {
+      width: 25px;
+  }
+}
+/* S */
+
+/* XS */
+@media (max-width: 475px) {
+  .container {
       width: 100%;
-    }
   }
-  /* XS */
-  /* Media */
+}
+/* XS */
+/* Media */

@@ -142,6 +142,9 @@ Monkey D. Luffy
     transfered homePage main navbar html/css, @medias all responsive
 
 2/5/2024
+all
+    updated main navbar connected all pages
+    finished html css layouts
 homePage
     cleaned up some code in css
     moved character, characterCont & sagasArcCont headers images from refHome to references
