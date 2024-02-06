@@ -147,6 +147,7 @@ homePage
     moved character, characterCont & sagasArcCont headers images from refHome to references
 Monkey D. Luffy
     cleaned up some code in css
+    finished header, added footer html/css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar

@@ -39,7 +39,22 @@ body {
 /* Body */
 
 /* Header */
+header {
+    font-size: 6rem;
+    width: 100%;
+    height: auto;
+    color: #fff;
+    text-shadow: #000 2px 0 8px;
+    border-bottom: 1px solid #fff;
+}
 
+header h1 {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    text-decoration: underline;
+    text-decoration-thickness: 0.5rem;
+    text-underline-offset: 1rem;
+}
 /* Header */
 
 /* Main Navbar */
@@ -137,6 +152,44 @@ li:hover ul#submenu {
 }
 /* Main Navbar */
 
+/* Footer */
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    letter-spacing: 0.2rem;
+    border-bottom: 1px solid #fff;
+}
+
+footer li {
+    line-height: 2rem;
+}
+
+footer h3 {
+    font-size: 1rem;
+    letter-spacing: 0.3rem;
+    color: #fff;
+    text-shadow: #000 2px 0 8px;
+}
+
+footer a {
+    font-size: 1.1rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    text-shadow: #000 2px 0 8px;
+}
+
+footer a:hover {
+    text-underline-offset: 4px;
+}
+
+.footerContLeft {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+/* Footer */
+
 /* Media */
 /* Container Utility */
 .container {
@@ -145,10 +198,13 @@ li:hover ul#submenu {
     margin-right: auto;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
+    background-color: #0f2f5d9b;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
 }
-  /* Container Utility */
+/* Container Utility */
   
-  /* 2XL */
+/* 2XL */
 @media (max-width: 1536px) {
     .container {
         max-width: 1280px;
@@ -162,9 +218,9 @@ li:hover ul#submenu {
         font-size: 1.2rem;
     }
 }
-  /* 2XL */
+/* 2XL */
 
-  /* XL */
+/* XL */
 @media (max-width: 1280px) {
     .container {
         max-width: 1024px;
@@ -178,9 +234,9 @@ li:hover ul#submenu {
         font-size: 1rem;
     }
 }
-  /* XL */
+/* XL */
   
-  /* L */
+/* L */
 @media (max-width: 1024px) {
     .container {
         max-width: 768px;
@@ -200,9 +256,9 @@ li:hover ul#submenu {
         width: 30px;
     }
 }
-  /* L */
+/* L */
   
-  /* M */
+/* M */
 @media (max-width: 768px) {
     .container {
         max-width: 640px;
@@ -212,9 +268,9 @@ li:hover ul#submenu {
         font-size: 0.7rem;
     }
 }  
-  /* M */
+/* M */
   
-  /* S */
+/* S */
 @media (max-width: 640px) {
     .container {
         max-width: 475px;
@@ -228,13 +284,13 @@ li:hover ul#submenu {
         width: 25px;
     }
 }
-  /* S */
+/* S */
   
-  /* XS */
+/* XS */
 @media (max-width: 475px) {
     .container {
         width: 100%;
     }
 }
-  /* XS */
-  /* Media */
+/* XS */
+/* Media */
