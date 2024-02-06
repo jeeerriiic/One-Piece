@@ -170,7 +170,7 @@ li:hover ul#submenu {
 
 /* Content Container */
 #contentCont {
-    background-image: url(./refHome/Content\ Container.jpg);
+    background-image: url(/references/Content\ Container.jpg);
     background-position-x: center;
     background-position-y: top;
     display: flex;
@@ -508,7 +508,7 @@ li:hover ul#submenu {
 
 /* Sagas & Arcs */
 #sagasArcCont {
-    background-image: url(./refHome/Content\ Container.jpg);
+    background-image: url(/references/Content\ Container.jpg);
     background-position-x: center;
     background-position-y: bottom;
     width: 100%;

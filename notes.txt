@@ -154,6 +154,10 @@ Monkey D. Luffy
     finished header, added footer html/css
     updated footer
 
+2/6/2024
+Monkey D. Luffy
+    working on content
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
@@ -180,7 +184,11 @@ all -- text-shadow: #000 2px 0 1px;
     Jinbe - Dark Blue - #0d60cd
 
 reference links
+    Currency - https://onepiece.fandom.com/wiki/Belly
+
     Grand Line - https://wall.alphacoders.com/big.php?i=722445
+
+homePage/Monkey D. Luffy -- Content Container - https://wall.alphacoders.com/big.php?i=755280
 
 homePage/Monkey D. Luffy -- Luffy - https://www.deviantart.com/amanomoon/art/One-Piece-Monkey-D-Luffy-Anime-Manga-Fighting-2018-758282714
 
@@ -210,8 +218,6 @@ homePage
     Body Background - https://www.reddit.com/r/OnePiece/comments/ovth1k/wano_straw_hats_hd_wallpaper_updated_with_jinbe/
 
     Body Background Going Merry/Thousand Sunny - https://www.deviantart.com/sheylog/art/Sunny-Merry-625222926
-
-    Content Container - https://wall.alphacoders.com/big.php?i=755280
 
     World Map - https://www.deviantart.com/sharpsider/art/One-Piece-New-Map-882649149
 
