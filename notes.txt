@@ -141,6 +141,10 @@ homePage
 Monkey D. Luffy
     transfered homePage main navbar html/css, @medias all responsive
 
+2/5/2024
+homePage
+    cleaned up some code in css
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 

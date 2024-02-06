@@ -96,7 +96,6 @@ header span {
 .NAV img {
     width: 40px;
   }
-  
 
 #submenu {
     padding: 0;
@@ -291,6 +290,7 @@ li:hover ul#submenu {
     text-decoration-thickness: 0.2rem;
     text-shadow: #000 1px 0 5px;
 }
+
 .characterCont h2 {
     font-size: 2.5rem;
     font-family: 'Times New Roman', Times, serif;
@@ -626,6 +626,7 @@ li:hover ul#submenu {
     display: flex;
     width: 100%;
 }
+
 .seaOfSurvivalContentCont div {
     background-color: #0f305dec;
     width: 250px;
@@ -753,505 +754,505 @@ footer a:hover {
 
 /* 2XL */
 @media (max-width: 1536px) {
-  .container {
-    max-width: 1280px;
-  }
+    .container {
+        max-width: 1280px;
+    }
 
-  .NAV {
-    gap: 75px;
-  }
+    .NAV {
+        gap: 75px;
+    }
 
-  .NAV a {
-    font-size: 1.2rem;
-  }
+    .NAV a {
+        font-size: 1.2rem;
+    }
 
-  #contentCont nav img {
-    width: 175px;
-  }
+    #contentCont nav img {
+        width: 175px;
+    }
 
-  #contentCont nav a {
-    font-size: 1.1rem;
-    line-height: 38px;
-  }
+    #contentCont nav a {
+        font-size: 1.1rem;
+        line-height: 38px;
+    }
 
-  .characterCont span {
-    font-size: 3.5rem;
-  }
+    .characterCont span {
+        font-size: 3.5rem;
+    }
 
-  .characterCont h2 {
-    font-size: 2.3rem;
-  }
+    .characterCont h2 {
+        font-size: 2.3rem;
+    }
 
-  .characterCont h3 {
-    font-size: 1.4rem;
-  }
+    .characterCont h3 {
+        font-size: 1.4rem;
+    }
 
-  .characterCont p {
-    font-size: 1rem;
-  }
+    .characterCont p {
+        font-size: 1rem;
+    }
 
-  .characterCont div {
-    height: 330px;
-  }
+    .characterCont div {
+        height: 330px;
+    }
 
-  #chopper {
-    background-position-x: 40%;
-  }
+    #chopper {
+        background-position-x: 40%;
+    }
 
-  #robin {
-    background-position-x: 60%;
-  }
+    #robin {
+        background-position-x: 60%;
+    }
 
-  #jinbe {
-    background-position-x: 65%;
-  }
+    #jinbe {
+        background-position-x: 65%;
+    }
 
-  .sagasArcContHeaderContent {
-    font-size: 1.2rem;
-  }
+    .sagasArcContHeaderContent {
+        font-size: 1.2rem;
+    }
 
-  .seaOfSurvival h2 {
-    font-size: 3.2rem;
-  }
+    .seaOfSurvival h2 {
+        font-size: 3.2rem;
+    }
 
-  .finalSea h2 {
-    font-size: 3.2rem;
-  }
+    .finalSea h2 {
+        font-size: 3.2rem;
+    }
 }
 /* 2XL */
 
 /* XL */
 @media (max-width: 1280px) {
-  .container {
-    max-width: 1024px;
-  }
+    .container {
+        max-width: 1024px;
+    }
 
-  header {
-    font-size: 5rem;
-  }
+    header {
+        font-size: 5rem;
+    }
 
-  header p {
-    font-size: 1.2rem;
-  }
+    header p {
+        font-size: 1.2rem;
+    }
 
-  .NAV {
-    gap: 40px;
-  }
+    .NAV {
+        gap: 40px;
+    }
 
-  .NAV a {
-    font-size: 1rem;
-  }
+    .NAV a {
+        font-size: 1rem;
+    }
 
-  #contentCont {
-    height: 625px;
-  }
+    #contentCont {
+        height: 625px;
+    }
 
-  #contentCont nav a {
-    line-height: 40px;
-  }
+    #contentCont nav a {
+        line-height: 40px;
+    }
 
-  .characterCont span {
-    font-size: 3.2rem;
-  }
+    .characterCont span {
+        font-size: 3.2rem;
+    }
 
-  .characterCont h2 {
-    font-size: 2.2rem;
-  }
+    .characterCont h2 {
+        font-size: 2.2rem;
+    }
 
-  .characterCont h3 {
-    font-size: 1.2rem;
-  }
+    .characterCont h3 {
+        font-size: 1.2rem;
+    }
 
-  .characterCont p {
-    font-size: 0.9rem;
-  }
+    .characterCont p {
+        font-size: 0.9rem;
+    }
 
-  .characterCont div {
-    height: 320px;
-  }
+    .characterCont div {
+        height: 320px;
+    }
 
-  #chopper {
-    background-position-x: 35%;
-  }
+    #chopper {
+        background-position-x: 35%;
+    }
 
-  #robin {
-    background-position-x: 65%;
-  }
+    #robin {
+        background-position-x: 65%;
+    }
 
-  #jinbe {
-    background-position-x: 70%;
-  }
+    #jinbe {
+        background-position-x: 70%;
+    }
 
-  #sagasArcCont h1 {
-    font-size: 5rem;
-  }
+    #sagasArcCont h1 {
+        font-size: 5rem;
+    }
 
-  .seaOfSurvival h2 {
-    font-size: 2.5rem;
-  }
+    .seaOfSurvival h2 {
+        font-size: 2.5rem;
+    }
 
-  .finalSea h2 {
-    font-size: 2.5rem;
-  }
+    .finalSea h2 {
+        font-size: 2.5rem;
+    }
 
-  #sagasArcCont h4 {
-    font-size: 0.9rem;
-  }
+    #sagasArcCont h4 {
+        font-size: 0.9rem;
+    }
 }
 /* XL */
 
 /* L */
 @media (max-width: 1024px) {
-  .container {
-    max-width: 768px;
-  }
+    .container {
+        max-width: 768px;
+    }
 
-  header {
-    font-size: 4rem;
-    text-decoration-thickness: 0.4rem;
-  }
+    header {
+        font-size: 4rem;
+        text-decoration-thickness: 0.4rem;
+    }
 
-  header p {
-    font-size: 1rem;
-  }
+    header p {
+        font-size: 1rem;
+    }
 
-  .NAV {
-    gap: 0;
-    height: 25px;
-    padding: 0;
-  }
+    .NAV {
+        gap: 0;
+        height: 25px;
+        padding: 0;
+    }
 
-  .NAV a {
-    font-size: 0.9rem;
-  }
+    .NAV a {
+        font-size: 0.9rem;
+    }
 
-  .NAV img {
-    width: 30px;
-  }
+    .NAV img {
+        width: 30px;
+    }
 
-  #contentCont {
-    height: 660px;
-  }
+    #contentCont {
+        height: 660px;
+    }
 
-  #contentCont nav img {
-    width: 150px;
-  }
+    #contentCont nav img {
+        width: 150px;
+    }
 
-  .characterCont span {
-    font-size: 2.8rem;
-  }
+    .characterCont span {
+        font-size: 2.8rem;
+    }
 
-  .characterCont h2 {
-    font-size: 1.6rem;
-  }
+    .characterCont h2 {
+        font-size: 1.6rem;
+    }
 
-  .characterCont h3 {
-    font-size: 0.9rem;
-  }
+    .characterCont h3 {
+        font-size: 0.9rem;
+    }
 
-  .characterCont p {
-    font-size: 0.85rem;
-  }
+    .characterCont p {
+        font-size: 0.85rem;
+    }
 
-  .characterCont strong {
-    text-underline-offset: 3px;
-  }
+    .characterCont strong {
+        text-underline-offset: 3px;
+    }
 
-  #luffy {
-    background-position-x: 40%;
-  }
+    #luffy {
+        background-position-x: 40%;
+    }
 
-  #chopper {
-    background-position-x: 35%;
-  }
+    #chopper {
+        background-position-x: 35%;
+    }
 
-  #robin {
-    background-position-x: 70%;
-  }
+    #robin {
+        background-position-x: 70%;
+    }
 
-  #jinbe {
-    background-position-x: 70%;
-  }
+    #jinbe {
+        background-position-x: 70%;
+    }
 
-  #sagasArcCont {
-    letter-spacing: 0.1rem;
-  }
+    #sagasArcCont {
+        letter-spacing: 0.1rem;
+    }
 
-  #sagasArcCont h1 {
-    font-size: 3.5rem;
-  }
+    #sagasArcCont h1 {
+        font-size: 3.5rem;
+    }
 
-  .seaOfSurvival h2 {
-    font-size: 1.7rem;
-  }
+    .seaOfSurvival h2 {
+        font-size: 1.7rem;
+    }
 
-  .finalSea h2 {
-    font-size: 1.7rem;
-  }
+    .finalSea h2 {
+        font-size: 1.7rem;
+    }
 
-  .sagasArcContHeaderContent {
-    font-size: 1rem;
-  }
+    .sagasArcContHeaderContent {
+        font-size: 1rem;
+    }
 
-  #sagasArcCont h3 {
-    font-size: 0.9rem;
-  }
+    #sagasArcCont h3 {
+        font-size: 0.9rem;
+    }
 
-  #sagasArcCont h4 {
-    font-size: 0.7rem;
-  }
+    #sagasArcCont h4 {
+        font-size: 0.7rem;
+    }
 
-  #sagasArcCont ol {
-    font-size: 0.8rem;
-  }
+    #sagasArcCont ol {
+        font-size: 0.8rem;
+    }
 }
 /* L */
 
 /* M */
 @media (max-width: 768px) {
-  .container {
-    max-width: 640px;
-  }
+    .container {
+        max-width: 640px;
+    }
 
-  header {
-    font-size: 3rem;
-    text-decoration-thickness: 0.3rem;
-    text-underline-offset: 0.7rem;
-  }
+    header {
+        font-size: 3rem;
+        text-decoration-thickness: 0.3rem;
+        text-underline-offset: 0.7rem;
+    }
 
-  header p {
-    font-size: 0.9rem;
-    letter-spacing: 0.1rem;
-  }
+    header p {
+        font-size: 0.9rem;
+        letter-spacing: 0.1rem;
+    }
 
-  .NAV a {
-    font-size: 0.7rem;
-  }
+    .NAV a {
+        font-size: 0.7rem;
+    }
 
-  #contentCont {
-    height: 710px;
-  }
+    #contentCont {
+        height: 710px;
+    }
 
-  #contentCont nav img {
-    width: 150px;
-  }
+    #contentCont nav img {
+        width: 150px;
+    }
 
-  #contentCont nav a {
-    font-size: 1rem;
-    line-height: 44px;
-  }
+    #contentCont nav a {
+        font-size: 1rem;
+        line-height: 44px;
+    }
 
-  .characterCont span {
-    font-size: 2.8rem;
-  }
+    .characterCont span {
+        font-size: 2.8rem;
+    }
 
-  .characterCont h2 {
-    font-size: 1.6rem;
-  }
+    .characterCont h2 {
+        font-size: 1.6rem;
+    }
 
-  .characterCont h3 {
-    font-size: 0.9rem;
-  }
+    .characterCont h3 {
+        font-size: 0.9rem;
+    }
 
-  .characterCont p {
-    font-size: 0.7rem;
-  }
+    .characterCont p {
+        font-size: 0.7rem;
+    }
 
-  .characterCont strong {
-    text-underline-offset: 2px;
-  }
+    .characterCont strong {
+        text-underline-offset: 2px;
+    }
 
-  .characterCont div {
-    height: 310px;
-  }
+    .characterCont div {
+        height: 310px;
+    }
 
-  .sagasArcContHeaderContent {
-    font-size: 0.9rem;
-  }
+    .sagasArcContHeaderContent {
+        font-size: 0.9rem;
+    }
 
-  #sagasArcCont h1 {
-    font-size: 3rem;
-    height: 65px;
-    padding-top: 25px;
-  }
+    #sagasArcCont h1 {
+        font-size: 3rem;
+        height: 65px;
+        padding-top: 25px;
+    }
 
-  .seaOfSurvival h2 {
-    font-size: 1.4rem;
-  }
+    .seaOfSurvival h2 {
+        font-size: 1.4rem;
+    }
 
-  .finalSea h2 {
-    font-size: 1.4rem;
-  }
+    .finalSea h2 {
+        font-size: 1.4rem;
+    }
 
-  #sagasArcCont h3 {
-    font-size: 0.9rem;
-  }
+    #sagasArcCont h3 {
+        font-size: 0.9rem;
+    }
 
-  #sagasArcCont h4 {
-    font-size: 0.65rem;
-  }
+    #sagasArcCont h4 {
+        font-size: 0.65rem;
+    }
 
-  #sagasArcCont ol {
-    font-size: 0.6rem;
-  }
+    #sagasArcCont ol {
+        font-size: 0.6rem;
+    }
 
-  .seaOfSurvivalContentCont div {
-    padding: 10px 0;
-  }
+    .seaOfSurvivalContentCont div {
+        padding: 10px 0;
+    }
 
-  .finalSeaContentCont div {
-    padding: 10px 0;
-  }
+    .finalSeaContentCont div {
+        padding: 10px 0;
+    }
 
-  footer h3 {
-    font-size: 0.9rem;
-    letter-spacing: 0.2rem;
-  }
+    footer h3 {
+        font-size: 0.9rem;
+        letter-spacing: 0.2rem;
+    }
 
-  footer a {
-    font-size: 0.9rem;
-  }
+    footer a {
+        font-size: 0.9rem;
+    }
 }  
 /* M */
 
 /* S */
 @media (max-width: 640px) {
-  .container {
-    max-width: 475px;
-  }
+    .container {
+        max-width: 475px;
+    }
 
-  header {
-    font-size: 2.6rem;
-    text-decoration-thickness: 0.3rem;
-    text-underline-offset: 0.7rem;
-  }
+    header {
+        font-size: 2.6rem;
+        text-decoration-thickness: 0.3rem;
+        text-underline-offset: 0.7rem;
+    }
 
-  header p {
-    font-size: 0.8rem;
-  }
+    header p {
+        font-size: 0.8rem;
+    }
 
-  .NAV a {
-    font-size: 0.55rem;
-  }
+    .NAV a {
+        font-size: 0.55rem;
+    }
 
-  .NAV img {
-    width: 25px;
-  }
+    .NAV img {
+        width: 25px;
+    }
 
-  #contentCont {
-    height: 715px;
-  }
+    #contentCont {
+        height: 715px;
+    }
 
-  #contentCont nav img {
-    width: 125px;
-  }
+    #contentCont nav img {
+        width: 125px;
+    }
 
-  #contentCont nav a {
-    font-size: 0.9rem;
-    line-height: 45px;
-  }
+    #contentCont nav a {
+        font-size: 0.9rem;
+        line-height: 45px;
+    }
 
-  .characterCont span {
-    font-size: 2.2rem;
-  }
+    .characterCont span {
+        font-size: 2.2rem;
+    }
 
-  .characterCont h2 {
-    font-size: 1rem;
-  }
+    .characterCont h2 {
+        font-size: 1rem;
+    }
 
-  .characterCont h3 {
-    font-size: 0.8rem;
-  }
+    .characterCont h3 {
+        font-size: 0.8rem;
+    }
 
-  .characterCont p {
-    font-size: 0.6rem;
-  }
+    .characterCont p {
+        font-size: 0.6rem;
+    }
 
-  .characterCont div {
-    height: 295px;
-  }
+    .characterCont div {
+        height: 295px;
+    }
 
-  #zoro {
-    background-position-x: 45%;
-  }
+    #zoro {
+        background-position-x: 45%;
+    }
 
-  #nami {
-    background-position-x: 55%;
-  }
+    #nami {
+        background-position-x: 55%;
+    }
 
-  #sanji {
-    background-position-x: 45%;
-  }
+    #sanji {
+        background-position-x: 45%;
+    }
 
-  #robin {
-    background-position-x: 75%;
-  }
+    #robin {
+        background-position-x: 75%;
+    }
 
-  #franky {
-    background-position-x: 40%;
-  }
+    #franky {
+        background-position-x: 40%;
+    }
 
-  #sagasArcCont {
-    letter-spacing: 0rem;
-    line-height: 25px;
-  }
+    #sagasArcCont {
+        letter-spacing: 0rem;
+        line-height: 25px;
+    }
 
-  .sagasArcContHeaderContent {
-    font-size: 0.8rem;
-  }
+    .sagasArcContHeaderContent {
+        font-size: 0.8rem;
+    }
 
-  #sagasArcCont h1 {
-    font-size: 2rem;
-    height: 55px;
-    padding-top: 20px;
-  }
+    #sagasArcCont h1 {
+        font-size: 2rem;
+        height: 55px;
+        padding-top: 20px;
+    }
 
-  .seaOfSurvival h2 {
-    font-size: 1.1rem;
-    height: 40px;
-  }
+    .seaOfSurvival h2 {
+        font-size: 1.1rem;
+        height: 40px;
+    }
 
-  .finalSea {
-    font-size: 1.1rem;
-    height: 40px;
-  }
+    .finalSea {
+        font-size: 1.1rem;
+        height: 40px;
+    }
 
-  #sagasArcCont h3 {
-    font-size: 0.75rem;
-  }
+    #sagasArcCont h3 {
+        font-size: 0.75rem;
+    }
 
-  #sagasArcCont h4 {
-    font-size: 0.55rem;
-  }
+    #sagasArcCont h4 {
+        font-size: 0.55rem;
+    }
 
-  #sagasArcCont ol {
-    font-size: 0.6rem;
-  }
+    #sagasArcCont ol {
+        font-size: 0.6rem;
+    }
 
-  .seaOfSurvivalContentCont div {
-    padding: 5px 0;
-  }
+    .seaOfSurvivalContentCont div {
+        padding: 5px 0;
+    }
 
-  .finalSeaContentCont div {
-    padding: 5px 0;
-  }
+    .finalSeaContentCont div {
+        padding: 5px 0;
+    }
 
-  footer h3 {
-    font-size: 0.7rem;
-    letter-spacing: 0.1rem;
-  }
+    footer h3 {
+        font-size: 0.7rem;
+        letter-spacing: 0.1rem;
+    }
 
-  footer a {
-    font-size: 0.8rem;
-  }
+    footer a {
+        font-size: 0.8rem;
+    }
 }
 /* S */
 
 /* XS */
 @media (max-width: 475px) {
-  .container {
-    width: 100%;
-  }
+    .container {
+        width: 100%;
+    }
 }
 /* XS */
 /* Media */
