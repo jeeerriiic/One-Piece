@@ -177,37 +177,39 @@ all -- text-shadow: #000 2px 0 1px;
     Jinbe - Dark Blue - #0d60cd
 
 reference links
-    homePage
-        Character Container Description - https://beebom.com/one-piece-straw-hat-pirates-crew-members/
+    Grand Line - https://wall.alphacoders.com/big.php?i=722445
 
-        Sagas & Arcs - https://beebom.com/one-piece-arcs-in-order/
+homePage/Monkey D. Luffy -- Luffy - https://www.deviantart.com/amanomoon/art/One-Piece-Monkey-D-Luffy-Anime-Manga-Fighting-2018-758282714
 
-        Body Background - https://www.reddit.com/r/OnePiece/comments/ovth1k/wano_straw_hats_hd_wallpaper_updated_with_jinbe/
+homePage/Roronoa Zoro -- Zoro - https://www.deviantart.com/amanomoon/art/Roronoa-Zoro-One-Piece-Anime-Colors-Manga-Wanokuni-757093736
 
-        Body Background Going Merry/Thousand Sunny - https://www.deviantart.com/sheylog/art/Sunny-Merry-625222926
+homePage/Nami -- Nami - https://www.deviantart.com/amanomoon/art/Nami-Weather-One-Piece-Anime-Manga-Fighting-2018-758282311
 
-        Content Container - https://wall.alphacoders.com/big.php?i=755280
+homePage/Usopp -- Usopp - https://www.deviantart.com/amanomoon/art/God-Usopp-One-Piece-Anime-Manga-Fighting-2018-758282463
 
-        World Map - https://www.deviantart.com/sharpsider/art/One-Piece-New-Map-882649149
+homePage/Vinsmoke Sanji -- Sanji - https://www.deviantart.com/amanomoon/art/Vinsmoke-Sanji-One-Piece-Anime-Manga-Devil-Kuro-757579689
 
-        Grand Line - https://wall.alphacoders.com/big.php?i=722445
+homePage/Tony Tony Chopper -- Chopper - https://www.deviantart.com/amanomoon/art/One-Piece-Doctor-Tony-Tony-Chopper-Point-Anime-757271688
 
-        Luffy - https://www.deviantart.com/amanomoon/art/One-Piece-Monkey-D-Luffy-Anime-Manga-Fighting-2018-758282714
+homePage/Nico Robin -- Robin - https://www.deviantart.com/amanomoon/art/Nico-Robin-Mil-Fleur-Anime-2018-Colors-Manga-Cute-756943547
 
-        Zoro - https://www.deviantart.com/amanomoon/art/Roronoa-Zoro-One-Piece-Anime-Colors-Manga-Wanokuni-757093736
+homePage/Franky -- Franky - https://www.deviantart.com/amanomoon/art/One-Piece-Franky-New-World-Anime-Manga-Colors-Hair-757579359
 
-        Nami - https://www.deviantart.com/amanomoon/art/Nami-Weather-One-Piece-Anime-Manga-Fighting-2018-758282311
+homePage/Brook -- Brook - https://www.deviantart.com/amanomoon/art/One-Piece-Soulking-Brook-Bones-to-ne-Wild-Anime-757579904
 
-        Usopp - https://www.deviantart.com/amanomoon/art/God-Usopp-One-Piece-Anime-Manga-Fighting-2018-758282463
+homePage/Jinbe -- Jinbe - https://www.deviantart.com/amanomoon/art/Jinbei-One-Piece-Anime-Manga-Fighting-2018-758282093
 
-        Sanji - https://www.deviantart.com/amanomoon/art/Vinsmoke-Sanji-One-Piece-Anime-Manga-Devil-Kuro-757579689
+homePage
+    Character Container Description - https://beebom.com/one-piece-straw-hat-pirates-crew-members/
 
-        Chopper - https://www.deviantart.com/amanomoon/art/One-Piece-Doctor-Tony-Tony-Chopper-Point-Anime-757271688
+    Sagas & Arcs - https://beebom.com/one-piece-arcs-in-order/
 
-        Robin - https://www.deviantart.com/amanomoon/art/Nico-Robin-Mil-Fleur-Anime-2018-Colors-Manga-Cute-756943547
+    Body Background - https://www.reddit.com/r/OnePiece/comments/ovth1k/wano_straw_hats_hd_wallpaper_updated_with_jinbe/
 
-        Franky - https://www.deviantart.com/amanomoon/art/One-Piece-Franky-New-World-Anime-Manga-Colors-Hair-757579359
+    Body Background Going Merry/Thousand Sunny - https://www.deviantart.com/sheylog/art/Sunny-Merry-625222926
 
-        Brook - https://www.deviantart.com/amanomoon/art/One-Piece-Soulking-Brook-Bones-to-ne-Wild-Anime-757579904
+    Content Container - https://wall.alphacoders.com/big.php?i=755280
 
-        Jinbe - https://www.deviantart.com/amanomoon/art/Jinbei-One-Piece-Anime-Manga-Fighting-2018-758282093
+    World Map - https://www.deviantart.com/sharpsider/art/One-Piece-New-Map-882649149
+
+    Grand Line - https://wall.alphacoders.com/big.php?i=722445
