@@ -280,7 +280,7 @@ li:hover ul#submenu {
 }
 
 .characterCont span {
-    background-image: url(./refHome/Grand\ Line.jpg);
+    background-image: url(/references/Grand\ Line.jpg);
     background-position: center;
     font-size: 4rem;
     font-weight: lighter;
@@ -344,7 +344,7 @@ li:hover ul#submenu {
 
 /* Luffy */
 #luffy {
-    background-image: url(./refHome/Luffy\,\ Amanomoon\,Deviant\ Art.png);
+    background-image: url(/references/Luffy\,\ Amanomoon\,Deviant\ Art.png);
     background-position-y: 65%;
     text-shadow: #d00 2px 0 8px;
     border-top: 1px solid #d00;
@@ -360,7 +360,7 @@ li:hover ul#submenu {
 
 /* Zoro */
 #zoro {
-    background-image: url(./refHome/Zoro\,\ Amanomoon\,\ Deviant\ Art.jpg);
+    background-image: url(/references/Zoro\,\ Amanomoon\,\ Deviant\ Art.jpg);
     background-position-y: 60%;
     text-shadow: #00de7a 2px 0 8px;
     border-top: 1px solid #00de7a;
@@ -376,7 +376,7 @@ li:hover ul#submenu {
 
 /* Nami */
 #nami {
-    background-image: url(./refHome/Nami\,\ Amanomoon\,\ Deviant\ Art.png);
+    background-image: url(/references/Nami\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 30%;
     text-shadow: #ff7000 2px 0 8px;
     border-top: 1px solid #ff7000;
@@ -392,7 +392,7 @@ li:hover ul#submenu {
 
 /* Usopp */
 #usopp {
-    background-image: url(./refHome/Usopp\,\ Amanomoon\,\ Deviant\ Art.png);
+    background-image: url(/references/Usopp\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 55%;
     text-shadow: #fff200 2px 0 8px;
     border-top: 1px solid #fff200;
@@ -408,7 +408,7 @@ li:hover ul#submenu {
 
 /* Sanji */
 #sanji {
-    background-image: url(./refHome/Sanji\,\ Amanomoon\,\ Deviant\ Art.png);
+    background-image: url(/references/Sanji\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 65%;
     text-shadow: #0059ff 2px 0 8px;
     border-top: 1px solid #0059ff;
@@ -424,7 +424,7 @@ li:hover ul#submenu {
 
 /* Chopper */
 #chopper {
-    background-image: url(./refHome/Chopper\,\ Amanomoon\,\ Deviant\ Art.png);
+    background-image: url(/references/Chopper\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 40%;
     text-shadow: #ff70d9 2px 0 8px;
     border-top: 1px solid #ff70d9;
@@ -440,7 +440,7 @@ li:hover ul#submenu {
 
 /* Robin */
 #robin {
-    background-image: url(./refHome/Robin\,\ Amanomoon\,\ Deviant\ Art.png);
+    background-image: url(/references/Robin\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 40%;
     text-shadow: #6700b6 2px 0 8px;
     border-top: 1px solid #6700b6;
@@ -456,7 +456,7 @@ li:hover ul#submenu {
 
 /* Franky */
 #franky {
-    background-image: url(./refHome/Franky\,\ Amanomoon\,\ Deviant\ Art.png);
+    background-image: url(/references/Franky\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 65%;
     text-shadow: #0091ff 2px 0 8px;
     border-top: 1px solid #0091ff;
@@ -472,7 +472,7 @@ li:hover ul#submenu {
 
 /* Brook */
 #brook {
-    background-image: url(./refHome/Brook\,\ Amanomoon\,\ Deviant\ Art.jpg);
+    background-image: url(/references/Brook\,\ Amanomoon\,\ Deviant\ Art.jpg);
     background-position-y: 40%;
     text-shadow: #fff 2px 0 8px;
     border-top: 1px solid #fff;
@@ -489,7 +489,7 @@ li:hover ul#submenu {
 
 /* Jinbe */
 #jinbe {
-    background-image: url(./refHome/Jinbe\,\ Amanomoon\,\ Deviant\ Art.png);
+    background-image: url(/references/Jinbe\,\ Amanomoon\,\ Deviant\ Art.png);
     background-position-y: 45%;
     background-position-x: 60%;
     text-shadow: #0d60cd 2px 0 8px;
@@ -557,7 +557,7 @@ li:hover ul#submenu {
 }
 
 #sagasArcCont h1 {
-    background-image: url(./refHome/Grand\ Line.jpg);
+    background-image: url(/references/Grand\ Line.jpg);
     background-position: center;
     height: 75px;
     margin-bottom: 0;
@@ -604,7 +604,7 @@ li:hover ul#submenu {
 }
 
 .seaOfSurvival h2 {
-    background-image: url(./refHome/Grand\ Line.jpg);
+    background-image: url(/references/Grand\ Line.jpg);
     background-position: center;
     height: 50px;
     margin-bottom: 0;
@@ -654,7 +654,7 @@ li:hover ul#submenu {
 }
 
 .finalSea h2 {
-    background-image: url(./refHome/Grand\ Line.jpg);
+    background-image: url(/references/Grand\ Line.jpg);
     background-position: center;
     height: 50px;
     margin-bottom: 0;

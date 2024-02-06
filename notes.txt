@@ -144,6 +144,7 @@ Monkey D. Luffy
 2/5/2024
 homePage
     cleaned up some code in css
+    moved character, characterCont & sagasArcCont headers images from refHome to references
 Monkey D. Luffy
     cleaned up some code in css
 
