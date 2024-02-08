@@ -162,6 +162,9 @@ Monkey D. Luffy
 Monkey D. Luffy
     working on @medias S section
     finished @medias all responsive
+Roronoa Zoro
+    working on html content
+    cleaned up code css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
