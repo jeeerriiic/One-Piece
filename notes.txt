@@ -166,6 +166,10 @@ Roronoa Zoro
     working on html content
     cleaned up code css
 
+2/8/2024
+Roronoa Zoro
+    finished editing content container html
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 

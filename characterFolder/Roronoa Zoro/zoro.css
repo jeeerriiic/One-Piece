@@ -40,16 +40,18 @@ body {
 
 /* Header */
 header {
+    background-image: url(/references/Grand\ Line.jpg);
+    background-position: center;
     font-size: 6rem;
     width: 100%;
     height: auto;
     color: #fff;
     text-shadow: #000 2px 0 8px;
     border-bottom: 1px solid #fff;
+    border-radius: 0 0 10px 10px;
 }
 
 header h1 {
-    font-family: 'Times New Roman', Times, serif;
     margin: 0;
     text-decoration: underline;
     text-decoration-thickness: 0.5rem;
@@ -160,6 +162,44 @@ li:hover ul#submenu {
     border-bottom: 1px solid #fff;
     border-radius: 10px;
 }
+
+.bioCont {
+    background-color: #0f305dec;
+    color: #fff;
+    height: 700px;
+    margin: 2% 0;
+    padding: 0 2%;
+    text-shadow: #000 1px 0 2px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.bioCont::-webkit-scrollbar {
+    display: none;
+}
+
+.bioCont p {
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+    line-height: 30px;
+}
+
+.bioCont img {
+    width: 15px;
+}
+
+.important {
+    color: #d00;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+.bioCont em {
+    color: #fff200;
+}
 /* Content Container */
 
 /* Footer */
@@ -167,7 +207,9 @@ footer {
     display: flex;
     justify-content: space-evenly;
     letter-spacing: 0.2rem;
+    border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
+    border-radius: 10px 10px 0 0;
 }
 
 footer li {
