@@ -50,6 +50,7 @@ header {
     color: #fff;
     text-shadow: #000 2px 0 8px;
     border-bottom: 1px solid #fff;
+    border-radius: 0 0 10px 10px;
 }
 
 header h1 {
@@ -159,8 +160,11 @@ li:hover ul#submenu {
 /* Content Container */
 #contentCont {
     background-image: url(/references/Content\ Container.jpg);
+    margin-top: 2%;
+    margin-bottom: 2%;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
+    border-radius: 10px;
 }
 
 .imgCont {
@@ -224,7 +228,9 @@ footer {
     display: flex;
     justify-content: space-evenly;
     letter-spacing: 0.2rem;
+    border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
+    border-radius: 10px 10px 0 0;
 }
 
 footer li {
@@ -391,6 +397,7 @@ footer a:hover {
 
     header {
         font-size: 3rem;
+        padding: 10px 0;
         text-decoration-thickness: 0.3rem;
         text-underline-offset: 0.7rem;
     }
@@ -435,6 +442,14 @@ footer a:hover {
 
     .NAV img {
         width: 25px;
+    }
+
+    .imgCont h2 {
+        font-size: 1.3rem;
+        width: 100%;
+        margin-top: 5px;
+        margin-left: 40px;
+        text-align: left;
     }
 
     .bioCont p {

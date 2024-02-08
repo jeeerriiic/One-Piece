@@ -161,6 +161,7 @@ Monkey D. Luffy
 2/7/2024
 Monkey D. Luffy
     working on @medias S section
+    finished @medias all responsive
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
