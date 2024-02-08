@@ -48,7 +48,7 @@ header {
     width: 100%;
     height: auto;
     color: #fff;
-    text-shadow: #d00 2px 0 8px;
+    text-shadow: #000 2px 0 8px;
     border-bottom: 1px solid #fff;
 }
 
@@ -163,12 +163,59 @@ li:hover ul#submenu {
     border-bottom: 1px solid #fff;
 }
 
+.imgCont {
+    background-image: url(./refLuffy/Luffy\ Funny\ Face.jpg);
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    margin-top: 2%;
+    border: 1px solid #fff;
+}
+
+.imgCont h2 {
+    font-size: 3rem;
+    width: 400px;
+    margin-top: 250px;
+    margin-left: 175px;
+    color: #fff;
+    text-shadow: #d00 2px 0 8px;
+}
+
 .bioCont {
     background-color: #0f305dec;
     color: #fff;
-    text-shadow: #d00 2px 0 8px;
-    border: 1px solid #fff;
+    height: 700px;
     margin: 2% 0;
+    padding: 0 2%;
+    text-shadow: #000 1px 0 2px;
+    border: 1px solid #fff;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.bioCont::-webkit-scrollbar {
+    display: none;
+}
+
+.bioCont p {
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+    line-height: 30px;
+}
+
+.bioCont img {
+    width: 15px;
+}
+
+.important {
+    color: #d00;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+.bioCont em {
+    color: #fff200;
 }
 /* Content Container */
 
@@ -238,6 +285,25 @@ footer a:hover {
     .NAV a {
         font-size: 1.2rem;
     }
+
+    .imgCont h2 {
+        font-size: 2.5rem;
+        margin-top: 270px;
+        margin-left: 60px;
+    }
+
+    .bioCont p {
+        font-size: 1rem;
+    }
+
+    .important {
+        text-decoration-thickness: 1px;
+        text-underline-offset: 2px;
+    }
+
+    .bioCont img {
+        width: 12px;
+    }
 }
 /* 2XL */
 
@@ -247,12 +313,30 @@ footer a:hover {
         max-width: 1024px;
     }
 
+    header {
+        font-size: 5rem;
+    }
+
     .NAV {
         gap: 40px;
     }
 
     .NAV a {
         font-size: 1rem;
+    }
+
+    .imgCont h2 {
+        font-size: 2rem;
+        width: 300px;
+        margin-left: 20px;
+    }
+
+    .bioCont p {
+        font-size: 0.9rem;
+    }
+
+    .bioCont img {
+        width: 10px;
     }
 }
 /* XL */
@@ -261,6 +345,11 @@ footer a:hover {
 @media (max-width: 1024px) {
     .container {
         max-width: 768px;
+    }
+
+    header {
+        font-size: 4rem;
+        text-decoration-thickness: 0.4rem;
     }
 
     .NAV {
@@ -276,6 +365,21 @@ footer a:hover {
     .NAV img {
         width: 30px;
     }
+
+    .imgCont h2 {
+        font-size: 1.5rem;
+        width: 200px;
+        margin-left: 0;
+    }
+
+    .bioCont p {
+        font-size: 0.85rem;
+        line-height: 25px;
+    }
+
+    .bioCont img {
+        width: 9px;
+    }
 }
 /* L */
   
@@ -285,8 +389,30 @@ footer a:hover {
         max-width: 640px;
     }
 
+    header {
+        font-size: 3rem;
+        text-decoration-thickness: 0.3rem;
+        text-underline-offset: 0.7rem;
+    }
+
     .NAV a {
         font-size: 0.7rem;
+    }
+
+    .imgCont h2 {
+        font-size: 1.3rem;
+        width: 100px;
+        margin-top: 250px;
+        margin-left: 0;
+    }
+
+    .bioCont p {
+        font-size: 0.75rem;
+        line-height: 20px;
+    }
+
+    .bioCont img {
+        width: 8px;
     }
 }  
 /* M */
@@ -297,12 +423,22 @@ footer a:hover {
         max-width: 475px;
     }
 
+    header {
+        font-size: 2.6rem;
+        text-decoration-thickness: 0.3rem;
+        text-underline-offset: 0.7rem;
+    }
+
     .NAV a {
         font-size: 0.55rem;
     }
 
     .NAV img {
         width: 25px;
+    }
+
+    .bioCont p {
+        font-size: 0.7;
     }
 }
 /* S */

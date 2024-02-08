@@ -158,6 +158,10 @@ Monkey D. Luffy
 Monkey D. Luffy
     working on content
 
+2/7/2024
+Monkey D. Luffy
+    working on @medias S section
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
@@ -222,3 +226,6 @@ homePage
     World Map - https://www.deviantart.com/sharpsider/art/One-Piece-New-Map-882649149
 
     Grand Line - https://wall.alphacoders.com/big.php?i=722445
+
+Monkey D. Luffy
+    Luffy Funny Face - https://www.deviantart.com/amanomoon/art/One-Piece-Chapter-1001-Luffy-Kid-Law-Funny-Face-867241055
