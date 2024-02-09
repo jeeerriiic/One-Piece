@@ -184,6 +184,8 @@ Usopp
 Usopp
     finished html/css
     @medias all responsive
+Vinsmoke Sanji
+    working on html/css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
