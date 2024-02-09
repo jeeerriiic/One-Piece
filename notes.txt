@@ -178,6 +178,7 @@ Nami
     finished html/css @medias all responsive
 Usopp
     working on html/css
+    header/footer @medias all responsive
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
