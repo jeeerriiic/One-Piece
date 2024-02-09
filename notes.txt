@@ -175,6 +175,7 @@ Monkey D. Luffy & homePage
 Nami
     working on html/css
     header/footer @medias all responsive
+    finished html/css @medias all responsive
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
@@ -246,3 +247,6 @@ Monkey D. Luffy
 
 Roronoa Zoro
     Zoro Image - https://wall.alphacoders.com/big.php?i=1313891
+
+Nami
+    Nami Image - https://www.deviantart.com/nmhps3/art/One-Piece-Nami-Wallpaper-336529395
