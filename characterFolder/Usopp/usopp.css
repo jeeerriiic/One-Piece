@@ -183,12 +183,10 @@ li:hover ul#submenu {
 
 .imgCont h2 {
     font-size: 3rem;
-    width: 500px;
-    margin-top: 50px;
-    margin-left: 150px;
+    width: 400px;
+    margin-top: 250px;
     color: #fff;
     text-shadow: #fff200 2px 0 8px;
-    border: 2px solid red;
 }
 
 .bioCont {
@@ -219,7 +217,7 @@ li:hover ul#submenu {
 }
 
 .important {
-    color: #ff7000;
+    color: #fff200;
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
@@ -298,6 +296,25 @@ footer a:hover {
     .NAV a {
         font-size: 1.2rem;
     }
+
+    .imgCont h2 {
+        font-size: 2.5rem;
+        width: 300px;
+        margin-left: 20px;
+    }
+
+    .bioCont p {
+        font-size: 1rem;
+    }
+
+    .important {
+        text-decoration-thickness: 1px;
+        text-underline-offset: 2px;
+    }
+
+    .bioCont img {
+        width: 12px;
+    }
 }
 /* 2XL */
 
@@ -317,6 +334,21 @@ footer a:hover {
 
     .NAV a {
         font-size: 1rem;
+    }
+
+    .imgCont h2 {
+        font-size: 2rem;
+        width: 150px;
+        margin-top: 200px;
+        margin-left: 40px;
+    }
+
+    .bioCont p {
+        font-size: 0.9rem;
+    }
+
+    .bioCont img {
+        width: 10px;
     }
 }
 /* XL */
@@ -345,6 +377,21 @@ footer a:hover {
     .NAV img {
         width: 30px;
     }
+
+    .imgCont h2 {
+        font-size: 1.5rem;
+        margin-top: 175px;
+        margin-left: 20px;
+    }
+
+    .bioCont p {
+        font-size: 0.85rem;
+        line-height: 30px;
+    }
+
+    .bioCont img {
+        width: 9px;
+    }
 }
 /* L */
 
@@ -363,6 +410,21 @@ footer a:hover {
 
     .NAV a {
         font-size: 0.7rem;
+    }
+
+    .imgCont h2 {
+        font-size: 1.3rem;
+        width: 125px;
+        margin-left: 15px;
+    }
+
+    .bioCont p {
+        font-size: 0.75rem;
+        line-height: 25px;
+    }
+
+    .bioCont img {
+        width: 8px;
     }
 
     footer h3 {
@@ -394,6 +456,19 @@ footer a:hover {
 
     .NAV img {
         width: 25px;
+    }
+
+    .imgCont h2 {
+        font-size: 1.3rem;
+        width: 100px;
+        margin-top: 150px;
+        margin-left: 5px;
+        background-color: #00000069;
+        border-radius: 10px;
+    }
+
+    .bioCont p {
+        font-size: 0.7;
     }
 
     footer h3 {

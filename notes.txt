@@ -180,6 +180,11 @@ Usopp
     working on html/css
     header/footer @medias all responsive
 
+2/9/2024
+Usopp
+    finished html/css
+    @medias all responsive
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
