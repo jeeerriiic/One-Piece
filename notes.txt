@@ -187,6 +187,8 @@ Usopp
 Vinsmoke Sanji
     working on html/css
     finished header/footer @medias all responsive
+Monkey D. Luffy
+    updated html
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
