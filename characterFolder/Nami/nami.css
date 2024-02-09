@@ -186,7 +186,7 @@ li:hover ul#submenu {
     margin-top: 50px;
     margin-right: 75px;
     color: #fff;
-    text-shadow: #00de7a 2px 0 8px;
+    text-shadow: #ff7000 2px 0 8px;
 }
 
 .bioCont {
@@ -217,7 +217,7 @@ li:hover ul#submenu {
 }
 
 .important {
-    color: #00de7a;
+    color: #ff7000;
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
