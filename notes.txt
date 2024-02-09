@@ -172,6 +172,8 @@ Roronoa Zoro
     finished html/css @medias all responsive
 Monkey D. Luffy & homePage
     updated css
+Nami
+    working on html/css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar

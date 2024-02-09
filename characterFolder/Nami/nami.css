@@ -40,12 +40,15 @@ body {
 
 /* Header */
 header {
+  background-image: url(/references/Grand\ Line.jpg);
+  background-position: center;
   font-size: 6rem;
   width: 100%;
   height: auto;
   color: #fff;
   text-shadow: #000 2px 0 8px;
   border-bottom: 1px solid #fff;
+  border-radius: 0 0 10px 10px;
 }
 
 header h1 {
@@ -157,7 +160,9 @@ footer {
   display: flex;
   justify-content: space-evenly;
   letter-spacing: 0.2rem;
+  border-top: 1px solid #fff;
   border-bottom: 1px solid #fff;
+  border-radius: 10px 10px 0 0;
 }
 
 footer li {
