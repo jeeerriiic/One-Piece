@@ -186,6 +186,7 @@ Usopp
     @medias all responsive
 Vinsmoke Sanji
     working on html/css
+    finished header/footer @medias all responsive
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
