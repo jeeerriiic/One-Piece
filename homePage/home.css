@@ -917,6 +917,11 @@ footer a:hover {
         font-size: 1rem;
     }
 
+    header span {
+        text-decoration-thickness: 1px;
+        text-underline-offset: 2px;
+    }
+
     .NAV {
         gap: 0;
         height: 25px;
@@ -949,6 +954,11 @@ footer a:hover {
 
     .characterCont h3 {
         font-size: 0.9rem;
+    }
+
+    .characterCont h3, strong {
+        text-decoration-thickness: 1px;
+        text-underline-offset: 2px;
     }
 
     .characterCont p {

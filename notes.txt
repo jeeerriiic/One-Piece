@@ -169,6 +169,9 @@ Roronoa Zoro
 2/8/2024
 Roronoa Zoro
     finished editing content container html
+    finished html/css @medias all responsive
+Monkey D. Luffy & homePage
+    updated css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
@@ -237,3 +240,6 @@ homePage
 
 Monkey D. Luffy
     Luffy Funny Face - https://www.deviantart.com/amanomoon/art/One-Piece-Chapter-1001-Luffy-Kid-Law-Funny-Face-867241055
+
+Roronoa Zoro
+    Zoro Image - https://wall.alphacoders.com/big.php?i=1313891

@@ -29,7 +29,9 @@ html a:hover {
 
 /* Body */
 body {
-    background-image: url(/homePage/refHome/Luffy\,\ Amanomoon\,Deviant\ Art.png);
+    background-image: url(/references/Zoro\,\ Amanomoon\,\ Deviant\ Art.jpg);
+    background-position: center;
+    background-size: cover;
     font-size: 1rem;
     font-family: "Righteous", sans-serif;margin: -1px;
     text-align: center;
@@ -156,11 +158,36 @@ li:hover ul#submenu {
 
 /* Content Container */
 #contentCont {
+    background-image: url(/references/Content\ Container.jpg);
+    background-position: center;
+    background-size: cover;
     margin-top: 2%;
     margin-bottom: 2%;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     border-radius: 10px;
+}
+
+.imgCont {
+    background-image: url(./refZoro/Zoro\ Image.png);
+    background-position-x: center;
+    background-position-y: 25%;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    height: 400px;
+    margin-top: 2%;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+
+.imgCont h2 {
+    font-size: 3rem;
+    width: 300px;
+    margin-top: 50px;
+    margin-right: 75px;
+    color: #fff;
+    text-shadow: #00de7a 2px 0 8px;
 }
 
 .bioCont {
@@ -183,7 +210,7 @@ li:hover ul#submenu {
 .bioCont p {
     font-size: 1.2rem;
     letter-spacing: 0.2rem;
-    line-height: 30px;
+    line-height: 40px;
 }
 
 .bioCont img {
@@ -270,6 +297,25 @@ footer a:hover {
     .NAV a {
         font-size: 1.2rem;
     }
+
+    .imgCont h2 {
+        font-size: 2.5rem;
+        width: 250px;
+        margin-top: 75px;
+    }
+
+    .bioCont p {
+        font-size: 1rem;
+    }
+
+    .important {
+        text-decoration-thickness: 1px;
+        text-underline-offset: 2px;
+    }
+
+    .bioCont img {
+        width: 12px;
+    }
 }
 /* 2XL */
 
@@ -279,12 +325,31 @@ footer a:hover {
         max-width: 1024px;
     }
 
+    header {
+        font-size: 5rem;
+    }
+
     .NAV {
         gap: 40px;
     }
 
     .NAV a {
         font-size: 1rem;
+    }
+
+    .imgCont h2 {
+        font-size: 2rem;
+        width: 200px;
+        margin-top: 50px;
+        margin-right: 10px;
+    }
+
+    .bioCont p {
+        font-size: 0.9rem;
+    }
+
+    .bioCont img {
+        width: 10px;
     }
 }
 /* XL */
@@ -293,6 +358,11 @@ footer a:hover {
 @media (max-width: 1024px) {
     .container {
         max-width: 768px;
+    }
+
+    header {
+        font-size: 4rem;
+        text-decoration-thickness: 0.4rem;
     }
 
     .NAV {
@@ -308,6 +378,21 @@ footer a:hover {
     .NAV img {
         width: 30px;
     }
+
+    .imgCont h2 {
+        font-size: 1.5rem;
+        width: 100%;
+        margin-top: 5px;
+    }
+
+    .bioCont p {
+        font-size: 0.85rem;
+        line-height: 30px;
+    }
+
+    .bioCont img {
+        width: 9px;
+    }
 }
 /* L */
 
@@ -317,8 +402,37 @@ footer a:hover {
         max-width: 640px;
     }
 
+    header {
+        font-size: 3rem;
+        padding: 10px 0;
+        text-decoration-thickness: 0.3rem;
+        text-underline-offset: 0.7rem;
+    }
+
     .NAV a {
         font-size: 0.7rem;
+    }
+
+    .imgCont h2 {
+        font-size: 1.3rem;
+    }
+
+    .bioCont p {
+        font-size: 0.75rem;
+        line-height: 25px;
+    }
+
+    .bioCont img {
+        width: 8px;
+    }
+
+    footer h3 {
+        font-size: 0.9rem;
+        letter-spacing: 0.2rem;
+    }
+
+    footer a {
+        font-size: 0.9rem;
     }
 }  
 /* M */
@@ -329,12 +443,35 @@ footer a:hover {
         max-width: 475px;
     }
 
+    header {
+        font-size: 2.6rem;
+        text-decoration-thickness: 0.3rem;
+        text-underline-offset: 0.7rem;
+    }
+
     .NAV a {
         font-size: 0.55rem;
     }
 
     .NAV img {
         width: 25px;
+    }
+
+    .imgCont h2 {
+        font-size: 1.3rem;
+    }
+
+    .bioCont p {
+        font-size: 0.7;
+    }
+
+    footer h3 {
+        font-size: 0.7rem;
+        letter-spacing: 0.1rem;
+    }
+
+    footer a {
+        font-size: 0.8rem;
     }
 }
 /* S */

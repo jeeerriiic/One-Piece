@@ -160,6 +160,8 @@ li:hover ul#submenu {
 /* Content Container */
 #contentCont {
     background-image: url(/references/Content\ Container.jpg);
+    background-position: center;
+    background-size: cover;
     margin-top: 2%;
     margin-bottom: 2%;
     border-top: 1px solid #fff;
@@ -206,7 +208,7 @@ li:hover ul#submenu {
 .bioCont p {
     font-size: 1.2rem;
     letter-spacing: 0.2rem;
-    line-height: 30px;
+    line-height: 40px;
 }
 
 .bioCont img {
@@ -382,7 +384,7 @@ footer a:hover {
 
     .bioCont p {
         font-size: 0.85rem;
-        line-height: 25px;
+        line-height: 30px;
     }
 
     .bioCont img {
@@ -417,11 +419,20 @@ footer a:hover {
 
     .bioCont p {
         font-size: 0.75rem;
-        line-height: 20px;
+        line-height: 25px;
     }
 
     .bioCont img {
         width: 8px;
+    }
+
+    footer h3 {
+        font-size: 0.9rem;
+        letter-spacing: 0.2rem;
+    }
+
+    footer a {
+        font-size: 0.9rem;
     }
 }  
 /* M */
@@ -447,7 +458,6 @@ footer a:hover {
     }
 
     .imgCont h2 {
-        font-size: 1.3rem;
         width: 100%;
         margin-top: 5px;
         margin-left: 40px;
@@ -456,6 +466,15 @@ footer a:hover {
 
     .bioCont p {
         font-size: 0.7;
+    }
+
+    footer h3 {
+        font-size: 0.7rem;
+        letter-spacing: 0.1rem;
+    }
+
+    footer a {
+        font-size: 0.8rem;
     }
 }
 /* S */
