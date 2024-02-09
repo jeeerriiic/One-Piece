@@ -168,9 +168,9 @@ li:hover ul#submenu {
 }
 
 .imgCont {
-    background-image: url(./refUsopp/Usopp\ Funny\ Face.png);
+    background-image: url(./refSanji/Sanji\ Image.jpg);
     background-position-x: center;
-    background-position-y: 30%;
+    background-position-y: 15%;
     background-size: cover;
     width: 100%;
     height: 400px;
@@ -181,7 +181,9 @@ li:hover ul#submenu {
 
 .imgCont h2 {
     font-size: 3rem;
-    width: 400px;
+    width: 600px;
+    margin-top: 85px;
+    margin-left: 125px;
     color: #fff;
     text-shadow: #0059ff 2px 0 8px;
 }
@@ -293,6 +295,25 @@ footer a:hover {
     .NAV a {
         font-size: 1.2rem;
     }
+
+    .imgCont h2 {
+        font-size: 2.5rem;
+        margin-top: 120px;
+        margin-left: 40px;
+    }
+
+    .bioCont p {
+        font-size: 1rem;
+    }
+
+    .important {
+        text-decoration-thickness: 1px;
+        text-underline-offset: 2px;
+    }
+
+    .bioCont img {
+        width: 12px;
+    }
 }
 /* 2XL */
 
@@ -312,6 +333,21 @@ footer a:hover {
 
     .NAV a {
         font-size: 1rem;
+    }
+
+    .imgCont h2 {
+        font-size: 2rem;
+        width: 450px;
+        margin-top: 150px;
+        margin-left: 20px;
+    }
+
+    .bioCont p {
+        font-size: 0.9rem;
+    }
+
+    .bioCont img {
+        width: 10px;
     }
 }
 /* XL */
@@ -340,6 +376,21 @@ footer a:hover {
     .NAV img {
         width: 30px;
     }
+
+    .imgCont h2 {
+        font-size: 1.5rem;
+        width: 300px;
+        margin-left: 50px;
+    }
+
+    .bioCont p {
+        font-size: 0.85rem;
+        line-height: 30px;
+    }
+
+    .bioCont img {
+        width: 9px;
+    }
 }
 /* L */
 
@@ -358,6 +409,23 @@ footer a:hover {
 
     .NAV a {
         font-size: 0.7rem;
+    }
+
+    .imgCont h2 {
+        font-size: 1.4rem;
+        width: 100%;
+        margin-top: 0;
+        margin-left: 0;
+        background-color: #00000090;
+    }
+
+    .bioCont p {
+        font-size: 0.75rem;
+        line-height: 25px;
+    }
+
+    .bioCont img {
+        width: 8px;
     }
 
     footer h3 {
@@ -389,6 +457,10 @@ footer a:hover {
 
     .NAV img {
         width: 25px;
+    }
+
+    .bioCont p {
+        font-size: 0.7;
     }
 
     footer h3 {

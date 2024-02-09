@@ -188,6 +188,7 @@ Vinsmoke Sanji
     working on html/css
     finished header/footer @medias all responsive
     finished html
+    finished css @medias all responsive
 Monkey D. Luffy
     updated html
 
@@ -267,3 +268,6 @@ Nami
 
 Usopp
     Usopp Funny Face - https://www.deviantart.com/amanomoon/art/One-Piece-924-Usopp-Wano-Luffy-reac-Anime-Manga-772300764
+
+Sanji
+    Sanji Image - https://wall.alphacoders.com/big.php?i=788721
