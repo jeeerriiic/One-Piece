@@ -176,6 +176,8 @@ Nami
     working on html/css
     header/footer @medias all responsive
     finished html/css @medias all responsive
+Usopp
+    working on html/css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
@@ -250,3 +252,6 @@ Roronoa Zoro
 
 Nami
     Nami Image - https://www.deviantart.com/nmhps3/art/One-Piece-Nami-Wallpaper-336529395
+
+Usopp
+    Usopp Funny Face - https://www.deviantart.com/amanomoon/art/One-Piece-924-Usopp-Wano-Luffy-reac-Anime-Manga-772300764
