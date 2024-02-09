@@ -305,6 +305,10 @@ footer a:hover {
         max-width: 1024px;
     }
 
+    header {
+        font-size: 5rem;
+    }
+
     .NAV {
         gap: 40px;
     }
@@ -319,6 +323,11 @@ footer a:hover {
 @media (max-width: 1024px) {
     .container {
         max-width: 768px;
+    }
+
+    header {
+        font-size: 4rem;
+        text-decoration-thickness: 0.4rem;
     }
 
     .NAV {
@@ -343,8 +352,24 @@ footer a:hover {
         max-width: 640px;
     }
 
+    header {
+        font-size: 3rem;
+        padding: 10px 0;
+        text-decoration-thickness: 0.3rem;
+        text-underline-offset: 0.7rem;
+    }
+
     .NAV a {
         font-size: 0.7rem;
+    }
+
+    footer h3 {
+        font-size: 0.9rem;
+        letter-spacing: 0.2rem;
+    }
+
+    footer a {
+        font-size: 0.9rem;
     }
 }  
 /* M */
@@ -355,12 +380,27 @@ footer a:hover {
         max-width: 475px;
     }
 
+    header {
+        font-size: 2.6rem;
+        text-decoration-thickness: 0.3rem;
+        text-underline-offset: 0.7rem;
+    }
+
     .NAV a {
         font-size: 0.55rem;
     }
 
     .NAV img {
         width: 25px;
+    }
+
+    footer h3 {
+        font-size: 0.7rem;
+        letter-spacing: 0.1rem;
+    }
+
+    footer a {
+        font-size: 0.8rem;
     }
 }
 /* S */
