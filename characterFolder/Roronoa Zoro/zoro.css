@@ -413,8 +413,18 @@ footer a:hover {
         font-size: 0.7rem;
     }
 
+    .imgCont {
+        display: block;
+    }
+
     .imgCont h2 {
-        font-size: 1.3rem;
+        font-size: 1.4rem;
+        width: 100%;
+        margin-top: 0;
+        margin-left: 0;
+        background-color: #00000090;
+        border-bottom: 2px solid #00de7a;
+        border-radius: 10px 10px 0 0;
     }
 
     .bioCont p {

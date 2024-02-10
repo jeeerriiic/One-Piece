@@ -413,9 +413,13 @@ footer a:hover {
     }
 
     .imgCont h2 {
-        font-size: 1.3rem;
-        width: 125px;
-        margin-left: 15px;
+        font-size: 1.4rem;
+        width: 100%;
+        margin-top: 0;
+        margin-left: 0;
+        background-color: #00000090;
+        border-bottom: 2px solid #fff200;
+        border-radius: 10px 10px 0 0;
     }
 
     .bioCont p {
@@ -456,15 +460,6 @@ footer a:hover {
 
     .NAV img {
         width: 25px;
-    }
-
-    .imgCont h2 {
-        font-size: 1.3rem;
-        width: 100px;
-        margin-top: 150px;
-        margin-left: 5px;
-        background-color: #00000069;
-        border-radius: 10px;
     }
 
     .bioCont p {

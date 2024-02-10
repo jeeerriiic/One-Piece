@@ -191,6 +191,8 @@ Vinsmoke Sanji
     finished css @medias all responsive
 Monkey D. Luffy
     updated html
+Monkey D. Luffy, Roronoa Zoro, Nami, Usopp, Vinsmoke Sanji
+    updated @medias M & S
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
