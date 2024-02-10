@@ -194,6 +194,10 @@ Monkey D. Luffy
 Monkey D. Luffy, Roronoa Zoro, Nami, Usopp, Vinsmoke Sanji
     updated @medias M & S
 
+2/10/2024
+Tony Tony Chopper
+    working on html/css
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
