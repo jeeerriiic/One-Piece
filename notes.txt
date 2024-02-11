@@ -229,6 +229,8 @@ Jinbe
     working on css
     finished css
     @medias all responsive
+referencePage
+    working on html/css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
