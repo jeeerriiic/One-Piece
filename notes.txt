@@ -236,12 +236,7 @@ all htmls connected footer reference links to referencePage
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
-THis is a test to upload on the master branch!
-this is test number 2
-
-
-
-TitlePage.html
+homePage.html
     One Piece is a Japanese manga and anime series created by Eiichiro Oda. The story follows the adventures of Monkey D. Luffy and his pirate crew as they search for the ultimate treasure known as "One Piece" in order to become the Pirate King. Along the way, they encounter various challenges, formidable enemies, and explore different islands, all while forming strong bonds and friendships. The series is known for its unique characters, engaging storytelling, and a world filled with mystery and adventure.
 
 character colors
@@ -259,11 +254,11 @@ all -- text-shadow: #000 2px 0 1px;
     Jinbe - Dark Blue - #0d60cd
 
 reference links
-    Currency - https://onepiece.fandom.com/wiki/Belly
+characterFolder all -- Currency - https://onepiece.fandom.com/wiki/Belly
 
-    Grand Line - https://wall.alphacoders.com/big.php?i=722445
+all htmls -- Grand Line - https://wall.alphacoders.com/big.php?i=722445
 
-homePage/Monkey D. Luffy -- Content Container - https://wall.alphacoders.com/big.php?i=755280
+all htmls -- Content Container - https://wall.alphacoders.com/big.php?i=755280
 
 homePage/Monkey D. Luffy -- Luffy - https://www.deviantart.com/amanomoon/art/One-Piece-Monkey-D-Luffy-Anime-Manga-Fighting-2018-758282714
 
@@ -327,3 +322,6 @@ Brook
 
 Jinbe
     Jinbe Image - https://wall.alphacoders.com/big.php?i=1225549
+
+referencePage
+    Body Background - https://wallpapercave.com/w/wp4712354
