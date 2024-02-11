@@ -202,6 +202,7 @@ Tony Tony Chopper
 Tony Tony Chopper
     header/footer @medias all responsive
     cleaned up css code
+    finished html
 homePage, Monkey D. Luffy, Roronoa Zoro, Nami, Usopp, Vinsmoke Sanji, Tony Tony Chopper
     updated html
 
@@ -282,5 +283,8 @@ Nami
 Usopp
     Usopp Funny Face - https://www.deviantart.com/amanomoon/art/One-Piece-924-Usopp-Wano-Luffy-reac-Anime-Manga-772300764
 
-Sanji
+Vinsmoke Sanji
     Sanji Image - https://wall.alphacoders.com/big.php?i=788721
+
+Tony Tony Chopper
+    Chopper Image - https://wall.alphacoders.com/big.php?i=318206
