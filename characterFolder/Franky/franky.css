@@ -29,7 +29,7 @@ html a:hover {
 
 /* Body */
 body {
-    background-image: url(/references/Robin\,\ Amanomoon\,\ Deviant\ Art.png);
+    background-image: url(/references/Franky\,\ Amanomoon\,\ Deviant\ Art.png);
     font-size: 1rem;
     font-family: "Righteous", sans-serif;margin: -1px;
     text-align: center;
@@ -184,7 +184,7 @@ li:hover ul#submenu {
     width: 150px;
     margin-right: 175px;
     color: #fff;
-    text-shadow: #6700b6 2px 0 8px;
+    text-shadow: #0091ff 2px 0 8px;
 }
 
 .bioCont {
@@ -215,7 +215,7 @@ li:hover ul#submenu {
 }
 
 .important {
-    color: #6700b6;
+    color: #0091ff;
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
@@ -414,7 +414,7 @@ footer a:hover {
         margin-top: 0;
         margin-left: 0;
         background-color: #00000090;
-        border-bottom: 2px solid #6700b6;
+        border-bottom: 2px solid #0091ff;
         border-radius: 10px 10px 0 0;
     }
 

@@ -215,6 +215,8 @@ Nico Robin
 Franky
     working on html/css
     header/footer @medias all responsive
+Nami, Vinsmoke Sanji, Tony Tony Chopper, Nico Robin
+    updated css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar

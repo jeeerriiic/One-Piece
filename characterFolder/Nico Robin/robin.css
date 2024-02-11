@@ -30,6 +30,8 @@ html a:hover {
 /* Body */
 body {
     background-image: url(/references/Robin\,\ Amanomoon\,\ Deviant\ Art.png);
+    background-position: center;
+    background-size: cover;
     font-size: 1rem;
     font-family: "Righteous", sans-serif;margin: -1px;
     text-align: center;
