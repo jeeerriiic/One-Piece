@@ -224,6 +224,9 @@ Brook
     working on css
     finished css 
     @medias all responsive
+Jinbe
+    finished html
+    working on css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
@@ -318,3 +321,4 @@ Brook
     Brook Image - https://www.deviantart.com/kingwallpaper/art/Brook-Wallpaper-one-piece-436202394
 
 Jinbe
+    Jinbe Image - https://wall.alphacoders.com/big.php?i=1225549
