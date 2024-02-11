@@ -170,8 +170,7 @@ li:hover ul#submenu {
 }
 
 .imgCont {
-    background-image: url(./refLuffy/Luffy\ Funny\ Face.jpg);
-    background-position: center;
+    background-image: url(./refJinbe/Jinbe\ Image.jpg);
     width: 100%;
     height: 400px;
     margin-top: 2%;
@@ -182,6 +181,8 @@ li:hover ul#submenu {
 .imgCont h2 {
     font-size: 3rem;
     width: 700px;
+    margin-top: 20px;
+    margin-left: 20px;
     color: #fff;
     text-shadow: #0d60cd 2px 0 8px;
 }
@@ -296,8 +297,8 @@ footer a:hover {
 
     .imgCont h2 {
         font-size: 2.5rem;
-        margin-top: 270px;
-        margin-left: 60px;
+        width: 600px;
+        margin-top: 60px;
     }
 
     .bioCont p {
@@ -333,10 +334,15 @@ footer a:hover {
         font-size: 1rem;
     }
 
+    .imgCont {
+        background-position-x: 25%;
+    }
+
     .imgCont h2 {
         font-size: 2rem;
-        width: 300px;
-        margin-left: 20px;
+        width: 400px;
+        margin-top: 65px;
+        margin-left: 50px;
     }
 
     .bioCont p {
@@ -374,10 +380,14 @@ footer a:hover {
         width: 30px;
     }
 
+    .imgCont {
+        background-position-x: 40%;
+    }
+
     .imgCont h2 {
         font-size: 1.5rem;
-        width: 200px;
-        margin-left: 0;
+        width: 250px;
+        margin-top: 85px;
     }
 
     .bioCont p {
@@ -408,14 +418,18 @@ footer a:hover {
         font-size: 0.7rem;
     }
 
+    .imgCont {
+        background-position-x: center;
+    }
+
     .imgCont h2 {
         font-size: 1.4rem;
         width: 100%;
-        margin-top: 0;
+        margin-top: 314px;
         margin-left: 0;
         background-color: #00000090;
-        border-bottom: 2px solid #0d60cd;
-        border-radius: 10px 10px 0 0;
+        border-top: 2px solid #0d60cd;
+        border-radius: 0 0 10px 10px;
     }
 
     .bioCont p {
@@ -456,6 +470,10 @@ footer a:hover {
 
     .NAV img {
         width: 25px;
+    }
+
+    .imgCont h2 {
+        margin-top: 286px;
     }
 
     .bioCont p {

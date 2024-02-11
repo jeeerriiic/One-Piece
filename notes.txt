@@ -227,6 +227,8 @@ Brook
 Jinbe
     finished html
     working on css
+    finished css
+    @medias all responsive
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
