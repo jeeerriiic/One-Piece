@@ -215,6 +215,8 @@ Nico Robin
 Franky
     working on html/css
     header/footer @medias all responsive
+    finished css
+    @medias all responsive
 Nami, Vinsmoke Sanji, Tony Tony Chopper, Nico Robin
     updated css
 
@@ -240,7 +242,7 @@ all -- text-shadow: #000 2px 0 1px;
     Tony Tony Chopper - Pink - #ff70d9
     Nico Robin - Purple - #6700b6
     Franky - Light Blue - #0091ff
-    Brook - Black & White - #fff
+    Brook - Black & White - #fff/#000
     Jinbe - Dark Blue - #0d60cd
 
 reference links
@@ -303,3 +305,6 @@ Tony Tony Chopper
 
 Nico Robin
     Robin Funny Face - https://www.deviantart.com/amanomoon/art/One-Piece-924-Robin-O-Robi-Funny-Face-Colors-771867395
+
+Franky
+    Franky Funny Face - https://www.deviantart.com/amanomoon/art/One-Piece-924-Franky-Franosuke-Wano-Anime-Manga-772250853
