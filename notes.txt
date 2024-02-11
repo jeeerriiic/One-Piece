@@ -212,6 +212,9 @@ Nico Robin
     cleaned up css code
     finished html/css
     @medias all responsive
+Franky
+    working on html/css
+    header/footer @medias all responsive
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
