@@ -198,6 +198,11 @@ Monkey D. Luffy, Roronoa Zoro, Nami, Usopp, Vinsmoke Sanji
 Tony Tony Chopper
     working on html/css
 
+2/11/2024
+Tony Tony Chopper
+    header/footer @medias all responsive
+    cleaned up css code
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
