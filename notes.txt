@@ -207,6 +207,9 @@ Tony Tony Chopper
     @medias all responsive
 homePage, Monkey D. Luffy, Roronoa Zoro, Nami, Usopp, Vinsmoke Sanji, Tony Tony Chopper
     updated html
+Nico Robin
+    working on html/css
+    cleaned up css code
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
