@@ -168,10 +168,10 @@ li:hover ul#submenu {
 }
 
 .imgCont {
-    background-image: url(./refChopper/Chopper\ Image.png);
+    background-image: url(./refRobin/Robin\ Funny\ Face.png);
     background-size: cover;
     background-position-x: center;
-    background-position-y: 30%;
+    background-position-y: 40%;
     width: 100%;
     height: 400px;
     margin-top: 2%;
@@ -184,7 +184,7 @@ li:hover ul#submenu {
     width: 500px;
     margin-top: 20px;
     color: #fff;
-    text-shadow: #ff70d9 2px 0 8px;
+    text-shadow: #6700b6 2px 0 8px;
 }
 
 .bioCont {
@@ -215,7 +215,7 @@ li:hover ul#submenu {
 }
 
 .important {
-    color: #ff70d9;
+    color: #6700b6;
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
