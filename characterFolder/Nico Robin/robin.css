@@ -172,6 +172,8 @@ li:hover ul#submenu {
     background-size: cover;
     background-position-x: center;
     background-position-y: 40%;
+    display: flex;
+    justify-content: right;
     width: 100%;
     height: 400px;
     margin-top: 2%;
@@ -181,8 +183,8 @@ li:hover ul#submenu {
 
 .imgCont h2 {
     font-size: 3rem;
-    width: 500px;
-    margin-top: 20px;
+    width: 150px;
+    margin-right: 175px;
     color: #fff;
     text-shadow: #6700b6 2px 0 8px;
 }
@@ -297,8 +299,8 @@ footer a:hover {
 
     .imgCont h2 {
         font-size: 2.5rem;
-        width: 375px;
-        margin-top: 25px;
+        margin-top: 125px;
+        margin-right: 125px;
     }
 
     .bioCont p {
@@ -336,8 +338,7 @@ footer a:hover {
 
     .imgCont h2 {
         font-size: 2rem;
-        width: 275px;
-        margin-top: 40px;
+        margin-right: 75px;
     }
 
     .bioCont p {
@@ -377,8 +378,8 @@ footer a:hover {
 
     .imgCont h2 {
         font-size: 1.5rem;
-        width: 200px;
-        margin-top: 75px;
+        margin-top: 140px;
+        margin-right: 45px;
     }
 
     .bioCont p {
@@ -409,13 +410,17 @@ footer a:hover {
         font-size: 0.7rem;
     }
 
+    .imgCont {
+        display: block;
+    }
+
     .imgCont h2 {
         font-size: 1.4rem;
         width: 100%;
         margin-top: 0;
         margin-left: 0;
         background-color: #00000090;
-        border-bottom: 2px solid #ff70d9;
+        border-bottom: 2px solid #6700b6;
         border-radius: 10px 10px 0 0;
     }
 

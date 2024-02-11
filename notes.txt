@@ -210,6 +210,8 @@ homePage, Monkey D. Luffy, Roronoa Zoro, Nami, Usopp, Vinsmoke Sanji, Tony Tony 
 Nico Robin
     working on html/css
     cleaned up css code
+    finished html/css
+    @medias all responsive
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
