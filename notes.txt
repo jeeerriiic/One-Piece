@@ -202,6 +202,8 @@ Tony Tony Chopper
 Tony Tony Chopper
     header/footer @medias all responsive
     cleaned up css code
+homePage, Monkey D. Luffy, Roronoa Zoro, Nami, Usopp, Vinsmoke Sanji, Tony Tony Chopper
+    updated html
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
