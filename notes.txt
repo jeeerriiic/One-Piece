@@ -219,6 +219,9 @@ Franky
     @medias all responsive
 Nami, Vinsmoke Sanji, Tony Tony Chopper, Nico Robin
     updated css
+Brook
+    finished html
+    working on css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
@@ -308,3 +311,8 @@ Nico Robin
 
 Franky
     Franky Funny Face - https://www.deviantart.com/amanomoon/art/One-Piece-924-Franky-Franosuke-Wano-Anime-Manga-772250853
+
+Brook
+    Brook Image - https://www.deviantart.com/kingwallpaper/art/Brook-Wallpaper-one-piece-436202394
+
+Jinbe
