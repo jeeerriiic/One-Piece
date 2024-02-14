@@ -268,8 +268,9 @@ li:hover ul#submenu {
     width: 100%;
     overflow-y: scroll;
     overflow-x: hidden;
-    background-image: url(./refHome/World\ Map.png);
+    background-image: url(/references/World\ Map.png);
     background-position: center;
+    background-size: cover;
     border-left: 1px solid #fff;
     border-right: 1px solid #fff;
 }

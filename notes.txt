@@ -237,6 +237,13 @@ all htmls connected footer reference links to referencePage
 referencePage
     working on html/css
 
+2/14/2024
+referencePage
+    working on html/css
+    finished text references section html/css
+homePage
+    updated html/css
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
@@ -260,7 +267,7 @@ all -- text-shadow: #000 2px 0 1px;
 reference links
 characterFolder all -- Currency - https://onepiece.fandom.com/wiki/Belly
 
-all htmls -- Grand Line - https://wall.alphacoders.com/big.php?i=722445
+htmls headers/subheaders -- Grand Line - https://wall.alphacoders.com/big.php?i=722445
 
 all htmls -- Content Container - https://wall.alphacoders.com/big.php?i=755280
 
@@ -294,8 +301,6 @@ homePage
     Body Background Going Merry/Thousand Sunny - https://www.deviantart.com/sheylog/art/Sunny-Merry-625222926
 
     World Map - https://www.deviantart.com/sharpsider/art/One-Piece-New-Map-882649149
-
-    Grand Line - https://wall.alphacoders.com/big.php?i=722445
 
 Monkey D. Luffy
     Luffy Funny Face - https://www.deviantart.com/amanomoon/art/One-Piece-Chapter-1001-Luffy-Kid-Law-Funny-Face-867241055
