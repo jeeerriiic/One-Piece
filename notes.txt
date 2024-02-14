@@ -233,6 +233,10 @@ referencePage
     working on html/css
 all htmls connected footer reference links to referencePage
 
+2/13/2024
+referencePage
+    working on html/css
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
