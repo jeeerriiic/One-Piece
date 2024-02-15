@@ -241,6 +241,7 @@ referencePage
 referencePage
     working on html/css
     finished text references section html/css
+    working on image references section html/css
 homePage
     updated html/css
 

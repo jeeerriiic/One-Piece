@@ -194,7 +194,7 @@ li:hover ul#submenu {
 #contentCont {
     background-image: url(/references/Content\ Container.jpg);
     background-size: cover;
-    margin-top: 4%;
+    margin-top: 2%;
     letter-spacing: 0.2rem;
     border-top: 1px solid #fff;
     border-radius: 10px 10px 0 0;
@@ -397,11 +397,42 @@ li:hover ul#submenu {
 /* Text References */
 
 /* Image References */
-.imgRefs {
+.imgRefsHeader {
     background-image: url(/references/Grand\ Line.jpg);
+    font-size: 3.5rem;
     margin-top: 2%;
-    border: 2px solid red;
+    border: 1px solid #fff;
     border-radius: 10px 10px 0 0;
+}
+
+.imgRefsHeader h2 {
+    color: #fff;
+    margin: 0;
+    text-decoration: underline;
+    text-decoration-thickness: 0.2rem;
+    text-underline-offset: 8px;
+    text-shadow: #000 1px 0 5px;
+}
+
+.backgroundImgRefs {
+    display: flex;
+    border: 2px solid red;
+}
+
+.backgroundImgRefs h2 {
+    border: 2px solid red;
+}
+
+.grandLine img {
+    width: 500px;
+}
+
+.worldMap img {
+    width: 500px;
+}
+
+.monkeyDLuffy img {
+    width: 500px;
 }
 /* Image References */
 /* Content Container */
