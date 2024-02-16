@@ -400,11 +400,15 @@ li:hover ul#submenu {
 .imgRefs {
     background-color: #0f305dec;
     color: #fff;
+    margin-top: 2%;
     text-shadow: #000 1px 0 2px;
+    border: 1px solid #fff;
+    border-radius: 10px 10px 0 0;
 }
 
 .imgRefs h3 {
     font-size: 2rem;
+    margin-top: 0;
 }
 
 .imgRefs a {
@@ -412,11 +416,14 @@ li:hover ul#submenu {
     color: #fff;
 }
 
+.imgRefs a:hover {
+    color: #fff200;
+}
+
 .imgRefsHeader {
     background-image: url(/references/Grand\ Line.jpg);
     font-size: 3.5rem;
-    margin-top: 2%;
-    border: 1px solid #fff;
+    border-bottom: 1px solid #fff;
     border-radius: 10px 10px 0 0;
 }
 
@@ -434,8 +441,6 @@ li:hover ul#submenu {
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
-    border-left: 1px solid #fff;
-    border-right: 1px solid #fff;
 }
 
 /* Header & Backgound References */
@@ -444,16 +449,6 @@ li:hover ul#submenu {
     padding: 2% 2% 0 2%;
     overflow-x: scroll;
     overflow-y: hidden;
-    border-left: 1px solid #fff;
-    border-right: 1px solid #fff;
-}
-
-.grandLine {
-    border: 2px solid red;
-}
-
-.grandLine a {
-    border: 2px solid red;
 }
 
 .grandLine img {
