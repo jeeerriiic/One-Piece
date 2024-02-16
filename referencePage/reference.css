@@ -414,9 +414,23 @@ li:hover ul#submenu {
     text-shadow: #000 1px 0 5px;
 }
 
+.imgRefsCont h2 {
+    font-size: 3rem;
+    background-color: #0f305dec;
+    color: #fff;
+    margin: 0;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+/* Header & Backgound References */
 .backgroundImgRefs {
     display: flex;
-    border: 2px solid red;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
 }
 
 .backgroundImgRefs h2 {
@@ -431,9 +445,20 @@ li:hover ul#submenu {
     width: 500px;
 }
 
+.clouds img {
+    width: 500px;
+}
+
+.goingMerryThousandSunny img {
+    width: 500px;
+}
+/* Header & Background References */
+
+/* Character References */
 .monkeyDLuffy img {
     width: 500px;
 }
+/* Character References */
 /* Image References */
 /* Content Container */
 
