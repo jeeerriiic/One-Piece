@@ -397,6 +397,21 @@ li:hover ul#submenu {
 /* Text References */
 
 /* Image References */
+.imgRefs {
+    background-color: #0f305dec;
+    color: #fff;
+    text-shadow: #000 1px 0 2px;
+}
+
+.imgRefs h3 {
+    font-size: 2rem;
+}
+
+.imgRefs a {
+    font-size: 1.1rem;
+    color: #fff;
+}
+
 .imgRefsHeader {
     background-image: url(/references/Grand\ Line.jpg);
     font-size: 3.5rem;
@@ -406,7 +421,6 @@ li:hover ul#submenu {
 }
 
 .imgRefsHeader h2 {
-    color: #fff;
     margin: 0;
     text-decoration: underline;
     text-decoration-thickness: 0.2rem;
@@ -416,41 +430,55 @@ li:hover ul#submenu {
 
 .imgRefsCont h2 {
     font-size: 3rem;
-    background-color: #0f305dec;
-    color: #fff;
     margin: 0;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
     border-left: 1px solid #fff;
     border-right: 1px solid #fff;
-    border-bottom: 1px solid #fff;
 }
 
 /* Header & Backgound References */
 .backgroundImgRefs {
     display: flex;
+    padding: 2% 2% 0 2%;
     overflow-x: scroll;
     overflow-y: hidden;
     border-left: 1px solid #fff;
     border-right: 1px solid #fff;
 }
 
-.backgroundImgRefs h2 {
+.grandLine {
+    border: 2px solid red;
+}
+
+.grandLine a {
     border: 2px solid red;
 }
 
 .grandLine img {
-    width: 500px;
+    width: 600px;
+    border: 1px solid #fff;
 }
 
 .worldMap img {
-    width: 500px;
+    width: 495px;
+    border: 1px solid #fff;
 }
 
 .clouds img {
-    width: 500px;
+    width: 600px;
+    border: 1px solid #fff;
 }
 
 .goingMerryThousandSunny img {
-    width: 500px;
+    width: 480px;
+    border: 1px solid #fff;
+}
+
+.island img {
+    width: 602px;
+    border: 1px solid #fff;
 }
 /* Header & Background References */
 
