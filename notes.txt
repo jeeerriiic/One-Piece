@@ -275,6 +275,8 @@ all -- text-shadow: #000 2px 0 1px;
     Jinbe - Dark Blue - #0d60cd
 
 reference links
+Logo - https://www.freepnglogos.com/images/one-piece-logo-67.html
+
 characterFolder all -- Currency - https://onepiece.fandom.com/wiki/Belly
 
 htmls headers/subheaders -- Grand Line - https://wall.alphacoders.com/big.php?i=722445
