@@ -507,6 +507,116 @@ li:hover ul#submenu {
     border: 1px solid #fff;
     border-radius: 10px;
 }
+
+/* Luffy */
+.imgLuffy {
+    text-shadow: #d00 2px 0 8px;
+}
+
+.imgLuffy a:hover {
+    color: #d00;
+    text-shadow: #000 2px 0 8px;
+}
+/* Luffy */
+
+/* Zoro */
+.imgZoro {
+    text-shadow: #00de7a 2px 0 8px;
+}
+
+.imgZoro a:hover {
+    color: #00de7a;
+    text-shadow: #000 2px 0 8px;
+}
+/* Zoro */
+
+/* Nami */
+.imgNami {
+    text-shadow: #ff7000 2px 0 8px;
+}
+
+.imgNami a:hover {
+    color: #ff7000;
+    text-shadow: #000 2px 0 8px;
+}
+/* Nami */
+
+/* Usopp */
+.imgUsopp {
+    text-shadow: #fff200 2px 0 8px;
+}
+
+.imgUsopp a:hover {
+    color: #fff200;
+    text-shadow: #000 2px 0 8px;
+}
+/* Usopp */
+
+/* Sanji */
+.imgSanji {
+    text-shadow: #0059ff 2px 0 8px;
+}
+
+.imgSanji a:hover {
+    color: #0059ff;
+    text-shadow: #000 2px 0 8px;
+}
+/* Sanji */
+
+/* Chopper */
+.imgChopper {
+    text-shadow: #ff70d9 2px 0 8px;
+}
+
+.imgChopper a:hover {
+    color: #ff70d9;
+    text-shadow: #000 2px 0 8px;
+}
+/* Chopper */
+
+/* Robin */
+.imgRobin {
+    text-shadow: #6700b6 2px 0 8px;
+}
+
+.imgRobin a:hover {
+    color: #6700b6;
+    text-shadow: #000 2px 0 8px;
+}
+/* Robin */
+
+/* Franky */
+.imgFranky {
+    text-shadow: #0091ff 2px 0 8px;
+}
+
+.imgFranky a:hover {
+    color: #0091ff;
+    text-shadow: #000 2px 0 8px;
+}
+/* Franky */
+
+/* Brook */
+.imgBrook {
+    text-shadow: #000 2px 0 8px;
+}
+
+.imgBrook a:hover {
+    color: #000;
+    text-shadow: #fff 2px 0 8px;
+}
+/* Brook */
+
+/* Jinbe */
+.imgJinbe {
+    text-shadow: #0d60cd 2px 0 8px;
+}
+
+.imgJinbe a:hover {
+    color: #0d60cd;
+    text-shadow: #000 2px 0 8px;
+}
+/* Jinbe */
 /* Character References */
 /* Image References */
 /* Content Container */
