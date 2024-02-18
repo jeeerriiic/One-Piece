@@ -721,6 +721,10 @@ footer img {
     .NAV a {
         font-size: 1rem;
     }
+
+    .textRefsHeader {
+        font-size: 3rem;
+    }
 }
 /* XL */
   
@@ -744,10 +748,6 @@ footer img {
         font-size: 1.2rem;
     }
 
-    header ul {
-        margin-bottom: 0;
-    }
-
     .NAV {
         gap: 0;
         height: 25px;
@@ -760,6 +760,23 @@ footer img {
 
     .NAV img {
         width: 30px;
+    }
+
+    .textRefsHeader {
+        font-size: 2.5rem;
+        padding-bottom: 4px;
+    }
+
+    .textRefsCont h3 {
+        font-size: 2.5rem;
+    }
+
+    .textRefsCont h4 {
+        font-size: 1.8rem;
+    }
+
+    .textRefsCont a {
+        font-size: 1rem;
     }
 }
 /* L */
@@ -793,6 +810,23 @@ footer img {
     .NAV a {
         font-size: 0.7rem;
     }
+
+    .textRefsHeader {
+        font-size: 2rem;
+        padding-bottom: 6px;
+    }
+
+    .textRefsCont h3 {
+        font-size: 2rem;
+    }
+
+    .textRefsCont h4 {
+        font-size: 1.6rem;
+    }
+
+    .textRefsCont a {
+        font-size: 0.9rem;
+    }
 }  
 /* M */
   
@@ -823,6 +857,22 @@ footer img {
 
     .NAV img {
         width: 25px;
+    }
+
+    .textRefsHeader {
+        font-size: 1.5rem;
+    }
+
+    .textRefsCont h3 {
+        font-size: 1.5rem;
+    }
+
+    .textRefsCont h4 {
+        font-size: 1.2rem;
+    }
+
+    .textRefsCont a {
+        font-size: 0.7rem;
     }
 }
 /* S */

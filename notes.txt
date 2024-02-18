@@ -258,6 +258,7 @@ referencePage
 referencePage
     working on css
     finished header @medias, all responsive
+    textRefs section @medias all responsive
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
