@@ -706,6 +706,14 @@ footer img {
         font-size: 5rem;
     }
 
+    header p {
+        font-size: 2.5rem;
+    }
+
+    header a {
+        font-size: 1.8rem;
+    }
+
     .NAV {
         gap: 40px;
     }
@@ -723,8 +731,21 @@ footer img {
     }
 
     header {
-        font-size: 4rem;
+        font-size: 3.5rem;
         text-decoration-thickness: 0.4rem;
+    }
+
+    header p {
+        font-size: 1.8rem;
+        margin-top: 10px;
+    }
+
+    header a {
+        font-size: 1.2rem;
+    }
+
+    header ul {
+        margin-bottom: 0;
     }
 
     .NAV {
@@ -756,6 +777,19 @@ footer img {
         text-underline-offset: 0.7rem;
     }
 
+    header p {
+        font-size: 1.6rem;
+    }
+
+    header a {
+        font-size: 1rem;
+    }
+
+    header ul {
+        border-bottom: 1px solid #fff;
+        border-radius: 0 0 10px 10px;
+    }
+
     .NAV a {
         font-size: 0.7rem;
     }
@@ -769,9 +803,18 @@ footer img {
     }
 
     header {
-        font-size: 2.6rem;
+        font-size: 2.2rem;
         text-decoration-thickness: 0.3rem;
         text-underline-offset: 0.7rem;
+    }
+
+    header p {
+        font-size: 1.2rem;
+        margin-top: 18px;
+    }
+
+    header a {
+        font-size: 0.8rem;
     }
 
     .NAV a {

@@ -254,6 +254,11 @@ referencePage
     working on html/css
     finished Header & Background References section
 
+2/18/2024
+referencePage
+    working on css
+    finished header @medias, all responsive
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
