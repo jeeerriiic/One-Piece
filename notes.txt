@@ -263,6 +263,8 @@ referencePage
 2/20/2024
 referencePage
     @medias all responsive
+TitlePage
+    updating design
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
@@ -312,6 +314,9 @@ homePage/Franky -- Franky - https://www.deviantart.com/amanomoon/art/One-Piece-F
 homePage/Brook -- Brook - https://www.deviantart.com/amanomoon/art/One-Piece-Soulking-Brook-Bones-to-ne-Wild-Anime-757579904
 
 homePage/Jinbe -- Jinbe - https://www.deviantart.com/amanomoon/art/Jinbei-One-Piece-Anime-Manga-Fighting-2018-758282093
+
+TitlePage
+    Body Background - https://www.reddit.com/r/OnePiece/comments/ovth1k/wano_straw_hats_hd_wallpaper_updated_with_jinbe/
 
 homePage
     Character Container Description - https://beebom.com/one-piece-straw-hat-pirates-crew-members/

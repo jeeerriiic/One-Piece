@@ -1,3 +1,8 @@
+/*
+Colors Used From homePage
+bodyOverlay #334155e0
+ */
+
 :root{
     --font-title: "Righteous", sans-serif;
     --font-body: 'Sora', sans-serif;
@@ -41,10 +46,16 @@ html{
 }
 
 body{
+    background-image: url(./images/TitlePage\ Body\ Background.png);
+    background-position: center;
+    background-size: cover;
     min-height: 100svh;
     font-family: var(--font-body);
-    background-color: var(--color-alternate);
     color: var(--color-light);
+}
+
+.bodyOverlay {
+    background-color: #131f30e0;
 }
 
 img,
@@ -91,9 +102,9 @@ select{
 
 /* Header Section */
 
-.landingPage__navBar{
-    /* border: 1px solid red; */
-}
+/* .landingPage__navBar{
+    border: 1px solid red;
+} */
 
 .landingPage__navBar ul{
     display: flex;
@@ -121,7 +132,21 @@ main{
 
 /* Title */
 .Title__wrapper{
-  position: relative;
+    background-color: #0b254ac1;
+    position: relative;
+    margin-top: 2%;
+    padding: 0 2%;
+    border-top: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-radius: 10px 10px 0 0;
+}
+
+#logo{
+    max-width: 750px;
+    position: absolute;
+    top: 25px;
+    right: -125px;
 }
 
 .Main__title{
@@ -139,8 +164,14 @@ main{
 
 /* This is to style the images for the landing page. */
 .the__crew{
+    background-color: #0b254ac1;
     display: flex;
     gap: 1.5rem;
+    padding: 0 2% 2% 2%;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-radius: 0 0 10px 10px;
 }
 
 .strawhats img{
@@ -169,7 +200,7 @@ main{
     padding: 5px;
     margin-top: 3rem;
     color: var(--color-light);
-    background-color: transparent;
+    background-color: #0b254ac1;
     transition: .5s ease-in-out;
     border: none;
     outline: 1px double var(--color-light);
@@ -186,7 +217,7 @@ main{
 }
 
 .enterBtn:active{
-    background-color: var(--color-alternate);
+    background-color: #0b254ac1;
     outline:1px solid var(--color-light);
     outline-offset: 3px;
 }
@@ -200,16 +231,12 @@ main{
 }
 
 .enterBtn a:hover{
-    color: var(--color-dark);
+    color: #0b254a;
     letter-spacing: 5px;
 }
 
-#logo{
-    max-width: 750px;
-    position: absolute;
-    top: 0px;
-    right: -175px;
-    z-index: -1;
+.enterBtn a:active {
+    color: var(--color-light);
 }
 /* => I am building mobile first so I am using min-width for media query breakpoints. The container classes within each media query breakpoint makes sure that it does not out grow the breakpoint size. */
 /* xs screens */
