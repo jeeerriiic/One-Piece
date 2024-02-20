@@ -260,6 +260,10 @@ referencePage
     finished header @medias, all responsive
     textRefs section @medias all responsive
 
+2/20/2024
+referencePage
+    @medias all responsive
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 

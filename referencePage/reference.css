@@ -725,6 +725,10 @@ footer img {
     .textRefsHeader {
         font-size: 3rem;
     }
+
+    .imgRefsHeader {
+        font-size: 3rem;
+    }
 }
 /* XL */
   
@@ -778,6 +782,51 @@ footer img {
     .textRefsCont a {
         font-size: 1rem;
     }
+
+    .imgRefsHeader {
+        font-size: 2.5rem;
+        padding-bottom: 4px;
+    }
+
+    .imgRefsCont h2 {
+        font-size: 2.5rem;
+    }
+
+    .imgRefsCont h3 {
+        font-size: 1.8rem;
+    }
+    
+    .imgRefsCont a {
+        font-size: 1rem;
+    }
+
+    .grandLine img {
+        width: 500px;
+    }
+    
+    .worldMap img {
+        width: 412px;
+    }
+    
+    .clouds img {
+        width: 500px;
+    }
+    
+    .goingMerryThousandSunny img {
+        width: 400px;
+    }
+    
+    .island img {
+        width: 502px;
+    }
+
+    .characterImgRefs img {
+        width: 400px;
+    }
+
+    .otherImgRefs img {
+        width: 400px;
+    }
 }
 /* L */
   
@@ -827,6 +876,55 @@ footer img {
     .textRefsCont a {
         font-size: 0.9rem;
     }
+
+    .imgRefsHeader {
+        font-size: 2rem;
+        padding-bottom: 6px;
+    }
+
+    .imgRefsCont h2 {
+        font-size: 2rem;
+    }
+
+    .imgRefsCont h3 {
+        font-size: 1.6rem;
+    }
+    
+    .imgRefsCont a {
+        font-size: 0.9rem;
+    }
+
+    .grandLine img {
+        width: 400px;
+    }
+    
+    .worldMap img {
+        width: 330px;
+    }
+    
+    .clouds img {
+        width: 400px;
+    }
+    
+    .goingMerryThousandSunny img {
+        width: 320px;
+    }
+    
+    .island img {
+        width: 405px;
+    }
+
+    .characterImgRefs img {
+        width: 325px;
+    }
+
+    .otherImgRefs img {
+        width: 325px;
+    }
+
+    footer img {
+        width: 500px;
+    }
 }  
 /* M */
   
@@ -873,6 +971,55 @@ footer img {
 
     .textRefsCont a {
         font-size: 0.7rem;
+    }
+
+    .imgRefsHeader {
+        font-size: 1.5rem;
+        padding-bottom: 4px;
+    }
+
+    .imgRefsCont h2 {
+        font-size: 1.5rem;
+    }
+
+    .imgRefsCont h3 {
+        font-size: 1.2rem;
+    }
+    
+    .imgRefsCont a {
+        font-size: 0.7rem;
+    }
+
+    .grandLine img {
+        width: 350px;
+    }
+    
+    .worldMap img {
+        width: 290px;
+    }
+    
+    .clouds img {
+        width: 350px;
+    }
+    
+    .goingMerryThousandSunny img {
+        width: 280px;
+    }
+    
+    .island img {
+        width: 352px;
+    }
+
+    .characterImgRefs img {
+        width: 275px;
+    }
+
+    .otherImgRefs img {
+        width: 300px;
+    }
+
+    footer img {
+        width: 450px;
     }
 }
 /* S */
