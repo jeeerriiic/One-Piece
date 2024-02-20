@@ -265,6 +265,7 @@ referencePage
     @medias all responsive
 TitlePage
     updating design
+    updated css
 
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
