@@ -267,6 +267,10 @@ TitlePage
     updating design
     updated css
 
+2/21/2024
+TitlePage
+    @medias all responsive
+
 !! NOT PRIORITY !!
 √homePage will have a vert navbar
 
